@@ -10,17 +10,11 @@ library(janitor)
 library(stringr)
 library(DT)
 
-# TODO add instructions on how to use the app
-
-# TODO fix the tooltips for year totals in open access plot
-
-# TODO Rename tabs
-
 min_year <- 2021
 max_year <- 2025
 years <- min_year:max_year
 
-df <- read_csv(here("data", "stacked_data.csv"), show_col_types = FALSE) |>
+df <- read_csv(here("app", "data", "stacked_data.csv"), show_col_types = FALSE) |>
   mutate(year = as.character(year)) |>
   arrange(publisher)
 publishers <- unique(df$publisher)
@@ -55,7 +49,7 @@ ui <- page_sidebar(
 
   navset_card_underline(
     nav_panel(
-      "First tab",
+      "Summary",
       layout_columns(
         col_widths = c(7, 5),
         card(
@@ -72,7 +66,7 @@ ui <- page_sidebar(
         )
       )
     ),
-    nav_panel("Second tab", DTOutput("data_tbl"))
+    nav_panel("Data table", DTOutput("data_tbl"))
   )
 )
 
