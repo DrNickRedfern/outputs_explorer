@@ -14,7 +14,7 @@ min_year <- 2021
 max_year <- 2025
 years <- min_year:max_year
 
-# df <- read_csv(here("app", "data", "stacked_data.csv"), show_col_types = FALSE) |>
+# df <- read_csv(here("app", "app", "data", "stacked_data.csv"), show_col_types = FALSE)
 df <- read_csv("https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv", show_col_types = FALSE)
 df <- df |> 
   mutate(year = as.character(year)) |>
@@ -491,7 +491,7 @@ server <- function(input, output, session) {
   tbl_data <- reactive({
     year_trend <- filtered_data() |>
       select(-doi) |>
-      group_by(publisher, journal, year) |>
+      group_by(publisher, journal_title, year) |>
       tally(n = "outputs") |>
       ungroup() |>
       complete(nesting(publisher, journal), year, fill = list(outputs = 0))
