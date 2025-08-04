@@ -1,6 +1,6 @@
 doi,publisher,journal,open_access,uob_is_corresponding,year
-10.1002/14651858.cd009531.pub3,Wiley,Cochrane Database of Systematic Reviews,closed,TRUE,2024
-10.1002/14651858.cd014699,Wiley,Cochrane Database of Systematic Reviews,green,FALSE,2021
+10.1002/14651858.cd009531.pub3,Wiley,Cochrane Database of Systematic Reviews,green,TRUE,2024
+10.1002/14651858.cd014699,Wiley,Cochrane Database of Systematic Reviews,bronze,FALSE,2021
 10.1002/acn3.51511,Wiley,Annals of Clinical and Translational Neurology,gold,FALSE,2022
 10.1002/adfm.202203430,Wiley,Advanced Functional Materials,hybrid,FALSE,2022
 10.1002/adfm.202212277,Wiley,Advanced Functional Materials,closed,TRUE,2023
@@ -16,6 +16,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/ajpa.24938,Wiley,American Journal of Biological Anthropology,hybrid,TRUE,2024
 10.1002/alz.071062,Wiley,Alzheimer's & Dementia,bronze,FALSE,2023
 10.1002/alz.071273,Wiley,Alzheimer's & Dementia,bronze,FALSE,2023
+10.1002/alz.70359,Wiley,Alzheimer's & Dementia,hybrid,TRUE,2025
+10.1002/anbr.202500058,Wiley,Advanced NanoBiomed Research,gold,TRUE,2025
 10.1002/app.54435,Wiley,Journal of Applied Polymer Science,hybrid,TRUE,2023
 10.1002/arp.1939,Wiley,Archaeological Prospection,hybrid,TRUE,2024
 10.1002/arp.1959,Wiley,Archaeological Prospection,hybrid,TRUE,2024
@@ -25,14 +27,15 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/bit.27729,Wiley,Biotechnology and Bioengineering,hybrid,TRUE,2021
 10.1002/brb3.2436,Wiley,Brain and Behavior,gold,FALSE,2021
 10.1002/bse.2694,Wiley,Business Strategy and the Environment,green,FALSE,2021
-10.1002/bse.2729,Wiley,Business Strategy and the Environment,green,TRUE,2021
-10.1002/bse.2742,Wiley,Business Strategy and the Environment,green,TRUE,2021
+10.1002/bse.2729,Wiley,Business Strategy and the Environment,closed,TRUE,2021
+10.1002/bse.2742,Wiley,Business Strategy and the Environment,hybrid,TRUE,2021
 10.1002/bse.2805,Wiley,Business Strategy and the Environment,hybrid,FALSE,2021
 10.1002/bse.3492,Wiley,Business Strategy and the Environment,hybrid,FALSE,2023
-10.1002/bse.3495,Wiley,Business Strategy and the Environment,hybrid,TRUE,2023
+10.1002/bse.3495,Wiley,Business Strategy and the Environment,bronze,TRUE,2023
 10.1002/bse.4110,Wiley,Business Strategy and the Environment,hybrid,TRUE,2024
 10.1002/bse.4124,Wiley,Business Strategy and the Environment,hybrid,TRUE,2024
 10.1002/bse.4189,Wiley,Business Strategy and the Environment,hybrid,TRUE,2025
+10.1002/bse.70095,Wiley,Business Strategy and the Environment,closed,TRUE,2025
 10.1002/ca.24014,Wiley,Clinical Anatomy,hybrid,TRUE,2023
 10.1002/cam4.4756,Wiley,Cancer Medicine,gold,FALSE,2022
 10.1002/casp.2647,Wiley,Journal of Community & Applied Social Psychology,hybrid,FALSE,2022
@@ -42,7 +45,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/ceat.202200539,Wiley,Chemical Engineering & Technology,hybrid,TRUE,2023
 10.1002/cem.3342,Wiley,Journal of Chemometrics,closed,FALSE,2021
 10.1002/cepa.1341,Wiley,Ce/Papers,hybrid,FALSE,2021
-10.1002/cepa.1908,Wiley,Ce/Papers,green,FALSE,2023
+10.1002/cepa.1908,Wiley,Ce/Papers,closed,FALSE,2023
 10.1002/chem.202004024,Wiley,Chemistry - A European Journal,green,TRUE,2021
 10.1002/chem.202402892,Wiley,Chemistry - A European Journal,hybrid,FALSE,2024
 10.1002/chem.202486803,Wiley,Chemistry - A European Journal,closed,FALSE,2024
@@ -57,10 +60,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/ejoc.202300393,Wiley,European Journal of Organic Chemistry,bronze,TRUE,2023
 10.1002/ejoc.202300789,Wiley,European Journal of Organic Chemistry,hybrid,TRUE,2023
 10.1002/eng2.12578,Wiley,Engineering Reports,gold,FALSE,2022
-10.1002/fam.2997,Wiley,Fire and Materials,green,FALSE,2021
+10.1002/eng2.70238,Wiley,Engineering Reports,gold,FALSE,2025
+10.1002/fam.2997,Wiley,Fire and Materials,closed,FALSE,2021
 10.1002/ffj.3822,Wiley,Flavour and Fragrance Journal,hybrid,TRUE,2024
 10.1002/for.2915,Wiley,Journal of Forecasting,gold,TRUE,2022
-10.1002/gps.5614,Wiley,International Journal of Geriatric Psychiatry,green,FALSE,2021
+10.1002/gps.5614,Wiley,International Journal of Geriatric Psychiatry,hybrid,FALSE,2021
 10.1002/gps.5627,Wiley,International Journal of Geriatric Psychiatry,hybrid,TRUE,2021
 10.1002/gps.5688,Wiley,International Journal of Geriatric Psychiatry,hybrid,FALSE,2022
 10.1002/gps.5708,Wiley,International Journal of Geriatric Psychiatry,green,TRUE,2022
@@ -73,6 +77,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/hlca.202300064,Wiley,Helvetica Chimica Acta,hybrid,TRUE,2023
 10.1002/hpm.3338,Wiley,The International Journal of Health Planning and Management,closed,FALSE,2021
 10.1002/hpm.3471,Wiley,The International Journal of Health Planning and Management,closed,TRUE,2022
+10.1002/hpm.70005,Wiley,The International Journal of Health Planning and Management,hybrid,FALSE,2025
 10.1002/ijc.34764,Wiley,International Journal of Cancer,hybrid,FALSE,2023
 10.1002/ijfe.2538,Wiley,International Journal of Finance & Economics,green,FALSE,2021
 10.1002/ijfe.2650,Wiley,International Journal of Finance & Economics,green,FALSE,2022
@@ -100,7 +105,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/jrs.6118,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
 10.1002/jrs.6143,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
 10.1002/jrs.6186,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
-10.1002/jrs.6192,Wiley,Journal of Raman Spectroscopy,closed,TRUE,2021
+10.1002/jrs.6192,Wiley,Journal of Raman Spectroscopy,hybrid,TRUE,2021
 10.1002/jrs.6214,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
 10.1002/jrs.6220,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
 10.1002/jrs.6226,Wiley,Journal of Raman Spectroscopy,closed,FALSE,2021
@@ -116,11 +121,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/jsde.12856,Wiley,Journal of Surfactants and Detergents,closed,FALSE,2025
 10.1002/mame.202200279,Wiley,Macromolecular Materials and Engineering,hybrid,TRUE,2022
 10.1002/mar.21471,Wiley,Psychology and Marketing,closed,TRUE,2021
+10.1002/mar.22235,Wiley,Psychology and Marketing,hybrid,FALSE,2025
 10.1002/marc.202300692,Wiley,Macromolecular Rapid Communications,hybrid,FALSE,2024
 10.1002/mde.3691,Wiley,Managerial and Decision Economics,green,TRUE,2022
 10.1002/met.1992,Wiley,Meteorological Applications,gold,FALSE,2021
-10.1002/mmce.22960,Hindawi,International Journal of RF and Microwave Computer-Aided Engineering,gold,FALSE,2021
-10.1002/mmce.23337,Hindawi,International Journal of RF and Microwave Computer-Aided Engineering,gold,TRUE,2022
+10.1002/mmce.22960,Hindawi,International Journal of RF and Microwave Computer-Aided Engineering,closed,FALSE,2021
+10.1002/mmce.23337,Hindawi,International Journal of RF and Microwave Computer-Aided Engineering,hybrid,TRUE,2022
 10.1002/mop.33943,Wiley,Microwave and Optical Technology Letters,closed,FALSE,2023
 10.1002/msc.1809,Wiley,Musculoskeletal Care,hybrid,TRUE,2023
 10.1002/nem.2159,Wiley,International Journal of Network Management,green,FALSE,2021
@@ -137,10 +143,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1002/ski2.399,Oxford University Press,Skin Health and Disease,gold,FALSE,2024
 10.1002/slct.202103802,Wiley,ChemistrySelect,closed,FALSE,2022
 10.1002/slct.202405060,Wiley,ChemistrySelect,closed,FALSE,2025
+10.1002/slct.202500467,Wiley,ChemistrySelect,closed,FALSE,2025
 10.1002/smll.202105255,Wiley,Small,closed,FALSE,2022
 10.1002/smll.202206258,Wiley,Small,closed,FALSE,2022
 10.1002/tie.22263,Wiley,Thunderbird International Business Review,green,FALSE,2022
 10.1002/tie.22396,Wiley,Thunderbird International Business Review,hybrid,TRUE,2024
+10.1002/tie.70019,Wiley,Thunderbird International Business Review,hybrid,TRUE,2025
 10.1002/trc2.12316,Wiley,Alzheimer's & Dementia: Translational Research & Clinical Interventions,gold,FALSE,2022
 10.1002/we.2625,Wiley,Wind Energy,gold,TRUE,2021
 10.1002/zamm.202000271,Wiley,ZAMM ‐ Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik,closed,FALSE,2022
@@ -160,8 +168,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s00210-024-03454-4,SpringerNature,Naunyn-Schmiedeberg's Archives of Pharmacology,hybrid,FALSE,2024
 10.1007/s00210-024-03586-7,SpringerNature,Naunyn-Schmiedeberg's Archives of Pharmacology,hybrid,FALSE,2024
 10.1007/s00221-021-06267-6,SpringerNature,Experimental Brain Research,hybrid,TRUE,2021
+10.1007/s00221-025-07111-x,SpringerNature,Experimental Brain Research,hybrid,TRUE,2025
+10.1007/s00256-025-04947-w,SpringerNature,Skeletal Radiology,hybrid,TRUE,2025
 10.1007/s00291-022-00691-y,SpringerNature,OR Spectrum,hybrid,TRUE,2022
 10.1007/s00291-023-00733-z,SpringerNature,OR Spectrum,closed,FALSE,2023
+10.1007/s00291-025-00824-z,SpringerNature,OR Spectrum,hybrid,TRUE,2025
 10.1007/s00339-022-06339-6,SpringerNature,Applied Physics A,closed,FALSE,2023
 10.1007/s00339-023-06427-1,SpringerNature,Applied Physics A,closed,FALSE,2023
 10.1007/s00339-023-07224-6,SpringerNature,Applied Physics A,closed,FALSE,2024
@@ -199,14 +210,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s10479-023-05486-0,SpringerNature,Annals of Operations Research,hybrid,TRUE,2023
 10.1007/s10479-023-05672-0,SpringerNature,Annals of Operations Research,hybrid,FALSE,2023
 10.1007/s10479-023-05758-9,SpringerNature,Annals of Operations Research,closed,FALSE,2023
+10.1007/s10479-025-06636-2,SpringerNature,Annals of Operations Research,closed,FALSE,2025
 10.1007/s10489-021-02474-4,SpringerNature,Applied Intelligence,hybrid,FALSE,2021
 10.1007/s10489-021-03126-3,SpringerNature,Applied Intelligence,closed,FALSE,2022
-10.1007/s10516-023-09671-5,SpringerNature,Global Philosophy,green,TRUE,2023
+10.1007/s10516-023-09671-5,SpringerNature,Global Philosophy,closed,TRUE,2023
 10.1007/s10544-023-00652-4,SpringerNature,Biomedical Microdevices,closed,FALSE,2023
 10.1007/s10551-021-04826-z,SpringerNature,Journal of Business Ethics,hybrid,TRUE,2021
 10.1007/s10614-023-10401-7,SpringerNature,Computational Economics,closed,FALSE,2023
 10.1007/s10633-020-09807-7,SpringerNature,Documenta Ophthalmologica,hybrid,TRUE,2021
 10.1007/s10639-021-10845-0,SpringerNature,Education and Information Technologies,hybrid,FALSE,2022
+10.1007/s10644-025-09912-0,SpringerNature,Economic Change and Restructuring,hybrid,FALSE,2025
 10.1007/s10652-022-09835-8,SpringerNature,Environmental Fluid Mechanics,closed,FALSE,2022
 10.1007/s10652-023-09910-8,SpringerNature,Environmental Fluid Mechanics,hybrid,TRUE,2023
 10.1007/s10660-022-09569-1,SpringerNature,Electronic Commerce Research,hybrid,FALSE,2022
@@ -234,7 +247,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s10796-023-10412-7,SpringerNature,Information Systems Frontiers,bronze,TRUE,2023
 10.1007/s10796-023-10439-w,SpringerNature,Information Systems Frontiers,hybrid,TRUE,2023
 10.1007/s10796-023-10451-0,SpringerNature,Information Systems Frontiers,hybrid,TRUE,2023
-10.1007/s10796-024-10521-x,SpringerNature,Information Systems Frontiers,hybrid,FALSE,2024
+10.1007/s10796-024-10521-x,SpringerNature,Information Systems Frontiers,closed,FALSE,2024
 10.1007/s10796-024-10572-0,SpringerNature,Information Systems Frontiers,hybrid,FALSE,2025
 10.1007/s10803-024-06509-w,SpringerNature,Journal of Autism and Developmental Disorders,closed,TRUE,2024
 10.1007/s10853-021-06322-1,SpringerNature,Journal of Materials Science,closed,FALSE,2021
@@ -257,6 +270,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s11033-023-09161-2,SpringerNature,Molecular Biology Reports,closed,FALSE,2024
 10.1007/s11042-024-20269-w,SpringerNature,Multimedia Tools and Applications,hybrid,TRUE,2024
 10.1007/s11069-022-05314-x,SpringerNature,Natural Hazards,closed,FALSE,2022
+10.1007/s11082-025-08284-z,SpringerNature,Optical and Quantum Electronics,closed,FALSE,2025
 10.1007/s11096-022-01403-w,SpringerNature,International Journal of Clinical Pharmacy,hybrid,FALSE,2022
 10.1007/s11096-023-01663-0,SpringerNature,International Journal of Clinical Pharmacy,hybrid,FALSE,2023
 10.1007/s11128-022-03820-2,SpringerNature,Quantum Information Processing,hybrid,TRUE,2023
@@ -267,7 +281,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s11195-024-09861-y,SpringerNature,Sexuality and Disability,hybrid,FALSE,2024
 10.1007/s11211-022-00401-7,SpringerNature,Social Justice Research,hybrid,FALSE,2022
 10.1007/s11227-022-04738-3,SpringerNature,The Journal of Supercomputing,closed,FALSE,2022
-10.1007/s11227-023-05849-1,SpringerNature,The Journal of Supercomputing,hybrid,FALSE,2023
+10.1007/s11227-023-05849-1,SpringerNature,The Journal of Supercomputing,bronze,FALSE,2023
 10.1007/s11235-024-01120-x,SpringerNature,Telecommunication Systems,hybrid,FALSE,2024
 10.1007/s11244-023-01856-x,SpringerNature,Topics in Catalysis,hybrid,TRUE,2023
 10.1007/s11249-022-01589-0,SpringerNature,Tribology Letters,hybrid,TRUE,2022
@@ -284,7 +298,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s11357-022-00658-5,SpringerNature,GeroScience,hybrid,FALSE,2022
 10.1007/s11419-022-00616-y,SpringerNature,Forensic Toxicology,hybrid,TRUE,2022
 10.1007/s11431-024-2729-4,SpringerNature,Science China Technological Sciences,closed,FALSE,2024
-10.1007/s11575-021-00439-w,SpringerNature,Management International Review,closed,TRUE,2021
+10.1007/s11575-021-00439-w,SpringerNature,Management International Review,green,TRUE,2021
 10.1007/s11575-021-00443-0,SpringerNature,Management International Review,hybrid,FALSE,2021
 10.1007/s11575-024-00541-9,SpringerNature,Management International Review,hybrid,FALSE,2024
 10.1007/s11575-024-00542-8,SpringerNature,Management International Review,hybrid,FALSE,2024
@@ -311,7 +325,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s12517-021-08097-w,SpringerNature,Arabian Journal of Geosciences,closed,FALSE,2021
 10.1007/s12517-024-11996-3,SpringerNature,Arabian Journal of Geosciences,closed,TRUE,2024
 10.1007/s12520-022-01678-0,SpringerNature,Archaeological and Anthropological Sciences,hybrid,FALSE,2022
-10.1007/s12551-023-01093-2,SpringerNature,Biophysical Reviews,closed,FALSE,2023
+10.1007/s12551-023-01093-2,SpringerNature,Biophysical Reviews,green,FALSE,2023
 10.1007/s12596-023-01625-9,SpringerNature,Journal of Optics,bronze,FALSE,2024
 10.1007/s12648-024-03137-z,SpringerNature,Indian Journal of Physics,closed,FALSE,2024
 10.1007/s12649-024-02669-z,SpringerNature,Waste and Biomass Valorization,hybrid,TRUE,2024
@@ -332,6 +346,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s40815-022-01290-3,SpringerNature,International Journal of Fuzzy Systems,closed,TRUE,2022
 10.1007/s40819-022-01369-3,SpringerNature,International Journal of Applied and Computational Mathematics,bronze,TRUE,2022
 10.1007/s40847-023-00266-9,SpringerNature,Journal of Social and Economic Development,hybrid,TRUE,2023
+10.1007/s40996-025-01926-y,SpringerNature,"Iranian Journal of Science and Technology, Transactions of Civil Engineering",closed,TRUE,2025
 10.1007/s41062-022-00948-z,SpringerNature,Innovative Infrastructure Solutions,closed,FALSE,2022
 10.1007/s41062-024-01484-8,SpringerNature,Innovative Infrastructure Solutions,closed,FALSE,2024
 10.1007/s41965-021-00075-1,SpringerNature,Journal of Membrane Computing,hybrid,TRUE,2021
@@ -339,19 +354,19 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1007/s41965-024-00166-9,SpringerNature,Journal of Membrane Computing,hybrid,FALSE,2024
 10.1007/s41965-025-00182-3,SpringerNature,Journal of Membrane Computing,closed,FALSE,2025
 10.1007/s42107-024-01045-5,SpringerNature,Asian Journal of Civil Engineering,closed,FALSE,2024
-10.1007/s42241-021-0021-0,SpringerNature,Journal of Hydrodynamics,closed,FALSE,2021
-10.1007/s42241-024-0033-7,SpringerNature,Journal of Hydrodynamics,closed,FALSE,2024
-10.1007/s42241-024-0083-x,SpringerNature,Journal of Hydrodynamics,closed,TRUE,2023
+10.1007/s42241-021-0021-0,Elsevier,Journal of Hydrodynamics,closed,FALSE,2021
+10.1007/s42241-024-0033-7,Elsevier,Journal of Hydrodynamics,closed,FALSE,2024
+10.1007/s42241-024-0083-x,Elsevier,Journal of Hydrodynamics,closed,TRUE,2023
 10.1007/s42247-024-00914-8,SpringerNature,Emergent Materials,hybrid,TRUE,2024
 10.1007/s42247-025-01037-4,SpringerNature,Emergent Materials,closed,TRUE,2025
 10.1007/s42401-022-00168-4,SpringerNature,Aerospace Systems,closed,FALSE,2022
 10.1007/s42979-021-00866-4,SpringerNature,SN Computer Science,hybrid,TRUE,2021
 10.1007/s42979-024-03264-8,SpringerNature,SN Computer Science,hybrid,TRUE,2024
 10.1007/s43151-023-00106-x,SpringerNature,Journal of Applied Youth Studies,hybrid,FALSE,2023
-10.1007/s43452-021-00258-8,SpringerNature,Archives of Civil and Mechanical Engineering,closed,FALSE,2021
-10.1007/s43452-023-00644-4,SpringerNature,Archives of Civil and Mechanical Engineering,closed,FALSE,2023
-10.1007/s43452-024-00900-1,SpringerNature,Archives of Civil and Mechanical Engineering,closed,FALSE,2024
-10.1007/s43452-024-00947-0,SpringerNature,Archives of Civil and Mechanical Engineering,closed,FALSE,2024
+10.1007/s43452-021-00258-8,SpringerNature,Archives of Civil and Mechanical Engineering,gold,FALSE,2021
+10.1007/s43452-023-00644-4,SpringerNature,Archives of Civil and Mechanical Engineering,gold,FALSE,2023
+10.1007/s43452-024-00900-1,SpringerNature,Archives of Civil and Mechanical Engineering,gold,FALSE,2024
+10.1007/s43452-024-00947-0,SpringerNature,Archives of Civil and Mechanical Engineering,gold,FALSE,2024
 10.1007/s43545-021-00308-1,SpringerNature,SN Social Sciences,hybrid,TRUE,2022
 10.1007/s43545-023-00722-7,SpringerNature,SN Social Sciences,closed,TRUE,2023
 10.1007/s43615-024-00424-z,SpringerNature,Circular Economy and Sustainability,hybrid,FALSE,2024
@@ -370,6 +385,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.aej.2021.09.011,Elsevier,Alexandria Engineering Journal,gold,FALSE,2022
 10.1016/j.aej.2021.12.015,Elsevier,Alexandria Engineering Journal,gold,TRUE,2022
 10.1016/j.aej.2022.05.012,Elsevier,Alexandria Engineering Journal,gold,FALSE,2022
+10.1016/j.ajo.2025.06.034,Elsevier,American Journal of Ophthalmology,hybrid,FALSE,2025
 10.1016/j.amepre.2023.12.016,Elsevier,American Journal of Preventive Medicine,hybrid,FALSE,2023
 10.1016/j.annale.2023.100087,Elsevier,Annals of Tourism Research Empirical Insights,gold,TRUE,2023
 10.1016/j.annals.2021.103142,Elsevier,Annals of Tourism Research,green,FALSE,2021
@@ -385,16 +401,18 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.applthermaleng.2021.117829,Elsevier,Applied Thermal Engineering,closed,TRUE,2022
 10.1016/j.applthermaleng.2025.125891,Elsevier,Applied Thermal Engineering,closed,FALSE,2025
 10.1016/j.archger.2020.104328,Elsevier,Archives of Gerontology and Geriatrics,green,FALSE,2021
-10.1016/j.asr.2021.01.042,Elsevier,Advances in Space Research,closed,FALSE,2021
+10.1016/j.asr.2021.01.042,Elsevier,Advances in Space Research,green,FALSE,2021
+10.1016/j.asr.2025.05.034,Elsevier,Advances in Space Research,hybrid,TRUE,2025
 10.1016/j.bar.2024.101370,Elsevier,The British Accounting Review,closed,FALSE,2024
 10.1016/j.bbadis.2022.166403,Elsevier,Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease,hybrid,TRUE,2022
-10.1016/j.bbapap.2021.140662,Elsevier,Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics,green,FALSE,2021
+10.1016/j.bbapap.2021.140662,Elsevier,Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics,closed,FALSE,2021
 10.1016/j.bbcan.2021.188641,Elsevier,Biochimica et Biophysica Acta (BBA) - Reviews on Cancer,closed,TRUE,2021
 10.1016/j.bbrc.2024.150856,Elsevier,Biochemical and Biophysical Research Communications,closed,FALSE,2024
 10.1016/j.bcab.2024.103424,Elsevier,Biocatalysis and Agricultural Biotechnology,closed,FALSE,2024
 10.1016/j.bcp.2022.115095,Elsevier,Biochemical Pharmacology,hybrid,TRUE,2022
 10.1016/j.bioorg.2025.108128,Elsevier,Bioorganic Chemistry,hybrid,TRUE,2025
 10.1016/j.bioorg.2025.108537,Elsevier,Bioorganic Chemistry,closed,TRUE,2025
+10.1016/j.bioorg.2025.108569,Elsevier,Bioorganic Chemistry,hybrid,TRUE,2025
 10.1016/j.biopha.2022.113431,Elsevier,Biomedicine & Pharmacotherapy,gold,FALSE,2022
 10.1016/j.bjoms.2021.10.016,Elsevier,British Journal of Oral and Maxillofacial Surgery,closed,TRUE,2021
 10.1016/j.bjps.2023.10.010,Elsevier,Journal of Plastic Reconstructive & Aesthetic Surgery,closed,FALSE,2023
@@ -405,18 +423,19 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.burns.2020.12.023,Elsevier,Burns,closed,TRUE,2021
 10.1016/j.cag.2021.11.001,Elsevier,Computers & Graphics,green,FALSE,2022
 10.1016/j.camwa.2020.04.033,Elsevier,Computers & Mathematics with Applications,hybrid,FALSE,2021
-10.1016/j.carbpol.2021.117741,Elsevier,Carbohydrate Polymers,closed,TRUE,2021
+10.1016/j.carbpol.2021.117741,Elsevier,Carbohydrate Polymers,green,TRUE,2021
 10.1016/j.carbpol.2025.123508,Elsevier,Carbohydrate Polymers,closed,FALSE,2025
-10.1016/j.catcom.2023.106830,Elsevier,Catalysis Communications,gold,FALSE,2024
+10.1016/j.catcom.2023.106830,Elsevier,Applied Catalysis O Open,gold,FALSE,2024
 10.1016/j.ccr.2024.216207,Elsevier,Coordination Chemistry Reviews,closed,FALSE,2025
 10.1016/j.cej.2024.150884,Elsevier,Chemical Engineering Journal,closed,FALSE,2024
 10.1016/j.cellsig.2022.110275,Elsevier,Cellular Signalling,green,TRUE,2022
 10.1016/j.cellsig.2022.110492,Elsevier,Cellular Signalling,hybrid,TRUE,2022
-10.1016/j.cemconcomp.2021.104372,Elsevier,Cement and Concrete Composites,closed,FALSE,2022
-10.1016/j.cemconcomp.2023.105129,Elsevier,Cement and Concrete Composites,closed,FALSE,2023
+10.1016/j.celrep.2025.115737,Elsevier,Cell Reports,gold,TRUE,2025
+10.1016/j.cemconcomp.2021.104372,Elsevier,Cement and Concrete Composites,green,FALSE,2022
+10.1016/j.cemconcomp.2023.105129,Elsevier,Cement and Concrete Composites,hybrid,FALSE,2023
 10.1016/j.cemconcomp.2024.105877,Elsevier,Cement and Concrete Composites,closed,FALSE,2025
 10.1016/j.cemconres.2024.107480,Elsevier,Cement and Concrete Research,hybrid,FALSE,2024
-10.1016/j.ceramint.2021.09.246,Elsevier,Ceramics International,bronze,FALSE,2022
+10.1016/j.ceramint.2021.09.246,Elsevier,Ceramics International,hybrid,FALSE,2022
 10.1016/j.ces.2020.116384,Elsevier,Chemical Engineering Science,closed,FALSE,2021
 10.1016/j.ces.2021.116612,Elsevier,Chemical Engineering Science,closed,TRUE,2021
 10.1016/j.chemphys.2024.112582,Elsevier,Chemical Physics,closed,FALSE,2025
@@ -425,8 +444,10 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.cherd.2023.10.051,Elsevier,Chemical Engineering Research and Design,closed,FALSE,2023
 10.1016/j.cherd.2024.01.028,Elsevier,Chemical Engineering Research and Design,closed,TRUE,2024
 10.1016/j.cie.2022.108834,Elsevier,Computers & Industrial Engineering,hybrid,TRUE,2023
+10.1016/j.cie.2025.111221,Elsevier,Computers & Industrial Engineering,closed,FALSE,2025
+10.1016/j.cie.2025.111367,Elsevier,Computers & Industrial Engineering,hybrid,TRUE,2025
 10.1016/j.cirpj.2021.01.015,Elsevier,CIRP Journal of Manufacturing Science and Technology,closed,TRUE,2021
-10.1016/j.clae.2021.02.003,Elsevier,Contact Lens and Anterior Eye,bronze,FALSE,2021
+10.1016/j.clae.2021.02.003,Elsevier,Contact Lens and Anterior Eye,closed,FALSE,2021
 10.1016/j.clae.2021.02.012,Elsevier,Contact Lens and Anterior Eye,green,FALSE,2021
 10.1016/j.clae.2021.101469,Elsevier,Contact Lens and Anterior Eye,green,FALSE,2021
 10.1016/j.clae.2022.101657,Elsevier,Contact Lens and Anterior Eye,closed,FALSE,2022
@@ -436,9 +457,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.clae.2024.102190,Elsevier,Contact Lens and Anterior Eye,green,FALSE,2024
 10.1016/j.clae.2024.102233,Elsevier,Contact Lens and Anterior Eye,closed,FALSE,2024
 10.1016/j.clae.2024.102241,Elsevier,Contact Lens and Anterior Eye,closed,FALSE,2024
+10.1016/j.clae.2025.102463,Elsevier,Contact Lens and Anterior Eye,closed,FALSE,2025
+10.1016/j.clae.2025.102470,Elsevier,Contact Lens and Anterior Eye,bronze,TRUE,2025
 10.1016/j.clet.2021.100134,Elsevier,Cleaner Engineering and Technology,gold,TRUE,2021
 10.1016/j.clet.2021.100284,Elsevier,Cleaner Engineering and Technology,gold,TRUE,2021
 10.1016/j.clinimag.2021.12.014,Elsevier,Clinical Imaging,closed,FALSE,2021
+10.1016/j.clinme.2024.100028,Elsevier,Clinical Medicine,gold,FALSE,2024
 10.1016/j.cmpbup.2024.100149,Elsevier,Computer Methods and Programs in Biomedicine Update,gold,FALSE,2024
 10.1016/j.coastaleng.2023.104382,Elsevier,Coastal Engineering,hybrid,TRUE,2023
 10.1016/j.coastaleng.2024.104597,Elsevier,Coastal Engineering,hybrid,TRUE,2024
@@ -446,33 +470,36 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.colsurfa.2022.128842,Elsevier,Colloids and Surfaces A Physicochemical and Engineering Aspects,hybrid,TRUE,2022
 10.1016/j.colsurfb.2025.114504,Elsevier,Colloids and Surfaces B Biointerfaces,hybrid,TRUE,2025
 10.1016/j.compbiomed.2023.107295,Elsevier,Computers in Biology and Medicine,hybrid,TRUE,2023
+10.1016/j.compbiomed.2025.110568,Elsevier,Computers in Biology and Medicine,closed,TRUE,2025
 10.1016/j.compchemeng.2021.107261,Elsevier,Computers & Chemical Engineering,closed,TRUE,2021
 10.1016/j.compchemeng.2021.107452,Elsevier,Computers & Chemical Engineering,closed,TRUE,2021
 10.1016/j.compchemeng.2021.107515,Elsevier,Computers & Chemical Engineering,closed,TRUE,2021
 10.1016/j.compeleceng.2022.108011,Elsevier,Computers & Electrical Engineering,closed,FALSE,2022
-10.1016/j.compositesa.2020.106228,Elsevier,Composites Part A Applied Science and Manufacturing,closed,FALSE,2021
+10.1016/j.compositesa.2020.106228,Elsevier,Composites Part A Applied Science and Manufacturing,green,FALSE,2021
 10.1016/j.compositesa.2025.108832,Elsevier,Composites Part A Applied Science and Manufacturing,closed,FALSE,2025
-10.1016/j.compositesb.2022.109960,Elsevier,Composites Part B Engineering,closed,FALSE,2022
+10.1016/j.compositesb.2022.109960,Elsevier,Composites Part B Engineering,green,FALSE,2022
 10.1016/j.comtox.2021.100175,Elsevier,Computational Toxicology,hybrid,FALSE,2021
-10.1016/j.conbuildmat.2020.121632,Elsevier,Construction and Building Materials,closed,FALSE,2021
-10.1016/j.conbuildmat.2021.122741,Elsevier,Construction and Building Materials,closed,FALSE,2021
+10.1016/j.conbuildmat.2020.121632,Elsevier,Construction and Building Materials,green,FALSE,2021
+10.1016/j.conbuildmat.2021.122741,Elsevier,Construction and Building Materials,green,FALSE,2021
 10.1016/j.conbuildmat.2021.123641,Elsevier,Construction and Building Materials,closed,FALSE,2021
-10.1016/j.conbuildmat.2021.124261,Elsevier,Construction and Building Materials,closed,FALSE,2021
-10.1016/j.conbuildmat.2021.124340,Elsevier,Construction and Building Materials,closed,FALSE,2021
-10.1016/j.conbuildmat.2021.125532,Elsevier,Construction and Building Materials,closed,FALSE,2021
+10.1016/j.conbuildmat.2021.124261,Elsevier,Construction and Building Materials,green,FALSE,2021
+10.1016/j.conbuildmat.2021.124340,Elsevier,Construction and Building Materials,green,FALSE,2021
+10.1016/j.conbuildmat.2021.125532,Elsevier,Construction and Building Materials,green,FALSE,2021
 10.1016/j.conbuildmat.2021.126133,Elsevier,Construction and Building Materials,closed,FALSE,2022
 10.1016/j.conbuildmat.2022.127114,Elsevier,Construction and Building Materials,closed,TRUE,2022
 10.1016/j.conbuildmat.2023.132204,Elsevier,Construction and Building Materials,closed,FALSE,2023
 10.1016/j.conbuildmat.2024.136143,Elsevier,Construction and Building Materials,hybrid,TRUE,2024
 10.1016/j.conbuildmat.2024.136171,Elsevier,Construction and Building Materials,closed,FALSE,2024
-10.1016/j.conbuildmat.2024.136563,Elsevier,Construction and Building Materials,closed,FALSE,2024
+10.1016/j.conbuildmat.2024.136563,Elsevier,Construction and Building Materials,green,FALSE,2024
 10.1016/j.conbuildmat.2024.139270,Elsevier,Construction and Building Materials,closed,FALSE,2024
 10.1016/j.conbuildmat.2025.141425,Elsevier,Construction and Building Materials,closed,FALSE,2025
 10.1016/j.cont.2025.101753,Elsevier,Continence,gold,FALSE,2025
 10.1016/j.cplett.2024.141729,Elsevier,Chemical Physics Letters,closed,FALSE,2024
-10.1016/j.cptl.2023.12.015,Elsevier,Currents in Pharmacy Teaching and Learning,hybrid,TRUE,2023
+10.1016/j.cptl.2023.12.015,Elsevier,Currents in Pharmacy Teaching and Learning,closed,TRUE,2023
+10.1016/j.crad.2025.107034,Elsevier,Clinical Radiology,closed,TRUE,2025
 10.1016/j.crmicr.2021.100099,Elsevier,Current Research in Microbial Sciences,gold,TRUE,2021
 10.1016/j.crphar.2021.100017,Elsevier,Current Research in Pharmacology and Drug Discovery,gold,TRUE,2021
+10.1016/j.crphys.2025.100156,Elsevier,Current Research in Physiology,gold,FALSE,2025
 10.1016/j.cscee.2023.100347,Elsevier,Case Studies in Chemical and Environmental Engineering,gold,FALSE,2023
 10.1016/j.cscm.2022.e01110,Elsevier,Case Studies in Construction Materials,gold,FALSE,2022
 10.1016/j.cscm.2022.e01789,Elsevier,Case Studies in Construction Materials,gold,FALSE,2023
@@ -482,32 +509,35 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.cscm.2024.e04081,Elsevier,Case Studies in Construction Materials,gold,FALSE,2024
 10.1016/j.cscm.2024.e04172,Elsevier,Case Studies in Construction Materials,gold,FALSE,2025
 10.1016/j.cscm.2025.e04219,Elsevier,Case Studies in Construction Materials,gold,FALSE,2025
+10.1016/j.ctcp.2025.102000,Elsevier,Complementary Therapies in Clinical Practice,hybrid,TRUE,2025
 10.1016/j.dajour.2023.100265,Elsevier,Decision Analytics Journal,gold,FALSE,2023
 10.1016/j.dche.2024.100175,Elsevier,Digital Chemical Engineering,gold,FALSE,2024
 10.1016/j.desal.2020.114927,Elsevier,Desalination,closed,TRUE,2021
-10.1016/j.desal.2021.115504,Elsevier,Desalination,closed,TRUE,2022
+10.1016/j.desal.2021.115504,Elsevier,Desalination,green,TRUE,2022
 10.1016/j.desal.2022.115776,Elsevier,Desalination,hybrid,TRUE,2022
 10.1016/j.desal.2023.116453,Elsevier,Desalination,hybrid,TRUE,2023
 10.1016/j.desal.2023.116831,Elsevier,Desalination,hybrid,TRUE,2023
 10.1016/j.desal.2024.117694,Elsevier,Desalination,hybrid,TRUE,2024
 10.1016/j.destud.2022.101118,Elsevier,Design Studies,hybrid,FALSE,2022
-10.1016/j.diamond.2022.109267,Elsevier,Diamond and Related Materials,closed,FALSE,2022
+10.1016/j.diamond.2022.109267,Elsevier,Diamond and Related Materials,green,FALSE,2022
 10.1016/j.diamond.2023.110777,Elsevier,Diamond and Related Materials,closed,FALSE,2024
+10.1016/j.dib.2025.111770,Elsevier,Data in Brief,gold,FALSE,2025
 10.1016/j.dibe.2022.100077,Elsevier,Developments in the Built Environment,gold,FALSE,2022
 10.1016/j.dibe.2024.100446,Elsevier,Developments in the Built Environment,gold,FALSE,2024
 10.1016/j.dnarep.2024.103629,Elsevier,DNA Repair,hybrid,TRUE,2024
-10.1016/j.drudis.2021.09.002,Elsevier,Drug Discovery Today,green,FALSE,2021
+10.1016/j.drudis.2021.09.002,Elsevier,Drug Discovery Today,closed,FALSE,2021
 10.1016/j.dss.2022.113916,Elsevier,Decision Support Systems,hybrid,TRUE,2023
 10.1016/j.dss.2023.114065,Elsevier,Decision Support Systems,closed,FALSE,2024
 10.1016/j.dsx.2022.102641,Elsevier,Diabetes & Metabolic Syndrome Clinical Research & Reviews,closed,FALSE,2022
 10.1016/j.eap.2022.10.013,Elsevier,Economic Analysis and Policy,closed,TRUE,2022
 10.1016/j.eap.2023.09.026,Elsevier,Economic Analysis and Policy,hybrid,TRUE,2023
 10.1016/j.eap.2024.02.039,Elsevier,Economic Analysis and Policy,closed,FALSE,2024
+10.1016/j.eap.2025.05.014,Elsevier,Economic Analysis and Policy,closed,FALSE,2025
 10.1016/j.ecmx.2023.100393,Elsevier,Energy Conversion and Management X,gold,TRUE,2023
 10.1016/j.ecolecon.2021.106989,Elsevier,Ecological Economics,hybrid,FALSE,2021
 10.1016/j.econedurev.2022.102293,Elsevier,Economics of Education Review,closed,FALSE,2022
 10.1016/j.econlet.2021.109924,Elsevier,Economics Letters,green,TRUE,2021
-10.1016/j.econlet.2021.110053,Elsevier,Economics Letters,closed,FALSE,2021
+10.1016/j.econlet.2021.110053,Elsevier,Economics Letters,green,FALSE,2021
 10.1016/j.econlet.2023.111441,Elsevier,Economics Letters,hybrid,FALSE,2024
 10.1016/j.ecss.2024.109100,Elsevier,Estuarine Coastal and Shelf Science,closed,FALSE,2025
 10.1016/j.egyr.2023.02.082,Elsevier,Energy Reports,gold,TRUE,2023
@@ -518,7 +548,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.eist.2024.100924,Elsevier,Environmental Innovation and Societal Transitions,hybrid,TRUE,2024
 10.1016/j.ejmech.2021.113800,Elsevier,European Journal of Medicinal Chemistry,closed,FALSE,2021
 10.1016/j.ejmech.2022.114366,Elsevier,European Journal of Medicinal Chemistry,closed,FALSE,2022
-10.1016/j.ejmech.2024.116193,Elsevier,European Journal of Medicinal Chemistry,hybrid,FALSE,2024
+10.1016/j.ejmech.2024.116193,Elsevier,European Journal of Medicinal Chemistry,bronze,FALSE,2024
 10.1016/j.ejor.2022.09.028,Elsevier,European Journal of Operational Research,hybrid,TRUE,2023
 10.1016/j.ejor.2023.08.016,Elsevier,European Journal of Operational Research,green,FALSE,2024
 10.1016/j.ejpb.2023.11.003,Elsevier,European Journal of Pharmaceutics and Biopharmaceutics,closed,FALSE,2023
@@ -530,15 +560,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.elerap.2023.101339,Elsevier,Electronic Commerce Research and Applications,closed,FALSE,2023
 10.1016/j.emj.2023.07.004,Elsevier,European Management Journal,hybrid,FALSE,2023
 10.1016/j.emj.2024.10.008,Elsevier,European Management Journal,hybrid,FALSE,2024
-10.1016/j.emj.2024.11.003,Elsevier,European Management Journal,hybrid,FALSE,2024
+10.1016/j.emj.2024.11.003,Elsevier,European Management Journal,green,FALSE,2024
 10.1016/j.enconman.2022.115960,Elsevier,Energy Conversion and Management,closed,FALSE,2022
 10.1016/j.enconman.2022.116475,Elsevier,Energy Conversion and Management,closed,FALSE,2023
 10.1016/j.enconman.2023.116861,Elsevier,Energy Conversion and Management,closed,FALSE,2023
+10.1016/j.enconman.2025.120242,Elsevier,Energy Conversion and Management,hybrid,TRUE,2025
 10.1016/j.eneco.2022.106153,Elsevier,Energy Economics,hybrid,TRUE,2022
 10.1016/j.eneco.2022.106209,Elsevier,Energy Economics,hybrid,FALSE,2022
-10.1016/j.eneco.2023.106627,Elsevier,Energy Economics,closed,FALSE,2023
-10.1016/j.eneco.2023.106657,Elsevier,Energy Economics,bronze,FALSE,2023
-10.1016/j.eneco.2023.106689,Elsevier,Energy Economics,closed,FALSE,2023
+10.1016/j.eneco.2023.106627,Elsevier,Energy Economics,green,FALSE,2023
+10.1016/j.eneco.2023.106657,Elsevier,Energy Economics,green,FALSE,2023
+10.1016/j.eneco.2023.106689,Elsevier,Energy Economics,green,FALSE,2023
 10.1016/j.eneco.2023.106700,Elsevier,Energy Economics,closed,TRUE,2023
 10.1016/j.eneco.2023.106702,Elsevier,Energy Economics,hybrid,TRUE,2023
 10.1016/j.eneco.2024.107320,Elsevier,Energy Economics,hybrid,FALSE,2024
@@ -548,18 +579,22 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.eneco.2024.108081,Elsevier,Energy Economics,hybrid,TRUE,2025
 10.1016/j.eneco.2025.108414,Elsevier,Energy Economics,closed,FALSE,2025
 10.1016/j.eneco.2025.108419,Elsevier,Energy Economics,hybrid,TRUE,2025
+10.1016/j.eneco.2025.108631,Elsevier,Energy Economics,hybrid,TRUE,2025
+10.1016/j.eneco.2025.108668,Elsevier,Energy Economics,closed,FALSE,2025
+10.1016/j.eneco.2025.108672,Elsevier,Energy Economics,hybrid,TRUE,2025
+10.1016/j.eneco.2025.108684,Elsevier,Energy Economics,closed,FALSE,2025
 10.1016/j.engstruct.2020.111330,Elsevier,Engineering Structures,hybrid,FALSE,2021
-10.1016/j.engstruct.2021.112240,Elsevier,Engineering Structures,closed,FALSE,2021
-10.1016/j.engstruct.2022.113968,Elsevier,Engineering Structures,closed,FALSE,2022
-10.1016/j.engstruct.2022.114028,Elsevier,Engineering Structures,closed,FALSE,2022
-10.1016/j.engstruct.2022.115226,Elsevier,Engineering Structures,closed,FALSE,2023
-10.1016/j.engstruct.2022.115328,Elsevier,Engineering Structures,closed,FALSE,2023
+10.1016/j.engstruct.2021.112240,Elsevier,Engineering Structures,green,FALSE,2021
+10.1016/j.engstruct.2022.113968,Elsevier,Engineering Structures,green,FALSE,2022
+10.1016/j.engstruct.2022.114028,Elsevier,Engineering Structures,green,FALSE,2022
+10.1016/j.engstruct.2022.115226,Elsevier,Engineering Structures,green,FALSE,2023
+10.1016/j.engstruct.2022.115328,Elsevier,Engineering Structures,green,FALSE,2023
 10.1016/j.engstruct.2022.115376,Elsevier,Engineering Structures,closed,FALSE,2023
 10.1016/j.engstruct.2023.116366,Elsevier,Engineering Structures,closed,FALSE,2023
 10.1016/j.engstruct.2023.116899,Elsevier,Engineering Structures,closed,FALSE,2023
 10.1016/j.engstruct.2023.116973,Elsevier,Engineering Structures,closed,FALSE,2023
-10.1016/j.engstruct.2024.118275,Elsevier,Engineering Structures,closed,FALSE,2024
-10.1016/j.engstruct.2024.119012,Elsevier,Engineering Structures,closed,FALSE,2024
+10.1016/j.engstruct.2024.118275,Elsevier,Engineering Structures,green,FALSE,2024
+10.1016/j.engstruct.2024.119012,Elsevier,Engineering Structures,green,FALSE,2024
 10.1016/j.envint.2021.106806,Elsevier,Environment International,gold,FALSE,2021
 10.1016/j.envint.2023.108178,Elsevier,Environment International,gold,FALSE,2023
 10.1016/j.envint.2024.108509,Elsevier,Environment International,gold,FALSE,2024
@@ -574,10 +609,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.eswa.2021.115892,Elsevier,Expert Systems with Applications,green,TRUE,2022
 10.1016/j.eswa.2022.119120,Elsevier,Expert Systems with Applications,closed,FALSE,2023
 10.1016/j.eswa.2023.120180,Elsevier,Expert Systems with Applications,closed,FALSE,2023
-10.1016/j.eswa.2023.120651,Elsevier,Expert Systems with Applications,closed,FALSE,2023
+10.1016/j.eswa.2023.120651,Elsevier,Expert Systems with Applications,green,FALSE,2023
 10.1016/j.eswa.2023.121432,Elsevier,Expert Systems with Applications,closed,FALSE,2024
 10.1016/j.eswa.2023.122762,Elsevier,Expert Systems with Applications,closed,FALSE,2024
 10.1016/j.eswa.2024.125712,Elsevier,Expert Systems with Applications,closed,FALSE,2025
+10.1016/j.eswa.2025.128301,Elsevier,Expert Systems with Applications,hybrid,FALSE,2025
 10.1016/j.eururo.2024.08.029,Elsevier,European Urology,hybrid,FALSE,2024
 10.1016/j.evalprogplan.2022.102204,Elsevier,Evaluation and Program Planning,hybrid,TRUE,2022
 10.1016/j.exer.2021.108881,Elsevier,Experimental Eye Research,hybrid,FALSE,2021
@@ -585,7 +621,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.exppara.2024.108857,Elsevier,Experimental Parasitology,closed,FALSE,2024
 10.1016/j.expthermflusci.2023.111112,Elsevier,Experimental Thermal and Fluid Science,hybrid,TRUE,2024
 10.1016/j.fbio.2023.102756,Elsevier,Food Bioscience,closed,FALSE,2023
-10.1016/j.fluid.2022.113716,Elsevier,Fluid Phase Equilibria,closed,FALSE,2023
+10.1016/j.fhj.2025.100429,Elsevier,Future Healthcare Journal,gold,FALSE,2025
+10.1016/j.fluid.2022.113716,Elsevier,Fluid Phase Equilibria,green,FALSE,2023
 10.1016/j.focha.2023.100227,Elsevier,Food Chemistry Advances,gold,FALSE,2023
 10.1016/j.fochms.2024.100204,Elsevier,Food Chemistry Molecular Sciences,gold,FALSE,2024
 10.1016/j.foodqual.2022.104784,Elsevier,Food Quality and Preference,closed,FALSE,2023
@@ -599,11 +636,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.frl.2024.106319,Elsevier,Finance Research Letters,hybrid,TRUE,2024
 10.1016/j.frl.2025.107255,Elsevier,Finance Research Letters,hybrid,TRUE,2025
 10.1016/j.fsisyn.2022.100284,Elsevier,Forensic Science International Synergy,gold,FALSE,2022
-10.1016/j.fuel.2023.127937,Elsevier,Fuel,closed,TRUE,2023
+10.1016/j.fuel.2023.127937,Elsevier,Fuel,green,TRUE,2023
 10.1016/j.future.2021.01.014,Elsevier,Future Generation Computer Systems,green,FALSE,2021
 10.1016/j.future.2023.01.011,Elsevier,Future Generation Computer Systems,hybrid,TRUE,2023
-10.1016/j.future.2023.10.007,Elsevier,Future Generation Computer Systems,hybrid,TRUE,2024
+10.1016/j.future.2023.10.007,Elsevier,Future Generation Computer Systems,closed,TRUE,2024
 10.1016/j.gaitpost.2022.09.008,Elsevier,Gait & Posture,hybrid,FALSE,2022
+10.1016/j.geomphys.2025.105555,Elsevier,Journal of Geometry and Physics,hybrid,FALSE,2025
 10.1016/j.geothermics.2021.102274,Elsevier,Geothermics,closed,TRUE,2022
 10.1016/j.geothermics.2024.102950,Elsevier,Geothermics,closed,TRUE,2024
 10.1016/j.gfj.2024.100987,Elsevier,Global Finance Journal,closed,FALSE,2024
@@ -611,6 +649,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.giq.2021.101618,Elsevier,Government Information Quarterly,green,FALSE,2022
 10.1016/j.giq.2022.101742,Elsevier,Government Information Quarterly,closed,FALSE,2022
 10.1016/j.giq.2022.101784,Elsevier,Government Information Quarterly,hybrid,TRUE,2023
+10.1016/j.giq.2025.102053,Elsevier,Government Information Quarterly,hybrid,TRUE,2025
 10.1016/j.glohj.2022.07.005,Elsevier,Global Health Journal,gold,TRUE,2022
 10.1016/j.gsf.2023.101653,Elsevier,Geoscience Frontiers,hybrid,FALSE,2024
 10.1016/j.hazadv.2022.100153,Elsevier,Journal of Hazardous Materials Advances,gold,FALSE,2022
@@ -644,7 +683,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.ijbiomac.2023.126380,Elsevier,International Journal of Biological Macromolecules,closed,FALSE,2023
 10.1016/j.ijbiomac.2024.136412,Elsevier,International Journal of Biological Macromolecules,closed,FALSE,2024
 10.1016/j.ijbiomac.2024.139174,Elsevier,International Journal of Biological Macromolecules,closed,FALSE,2024
-10.1016/j.ijfatigue.2020.105959,Elsevier,International Journal of Fatigue,closed,FALSE,2021
+10.1016/j.ijbiomac.2025.144111,Elsevier,International Journal of Biological Macromolecules,closed,FALSE,2025
+10.1016/j.ijfatigue.2020.105959,Elsevier,International Journal of Fatigue,green,FALSE,2021
 10.1016/j.ijgc.2024.100587,Elsevier,International Journal of Gynecological Cancer,closed,FALSE,2025
 10.1016/j.ijgc.2024.101285,Elsevier,International Journal of Gynecological Cancer,closed,FALSE,2025
 10.1016/j.ijgc.2024.101288,Elsevier,International Journal of Gynecological Cancer,closed,FALSE,2025
@@ -655,10 +695,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.ijhm.2022.103340,Elsevier,International Journal of Hospitality Management,closed,FALSE,2022
 10.1016/j.ijhm.2025.104085,Elsevier,International Journal of Hospitality Management,hybrid,TRUE,2025
 10.1016/j.ijhydene.2024.11.030,Elsevier,International Journal of Hydrogen Energy,hybrid,TRUE,2024
+10.1016/j.ijhydene.2025.150288,Elsevier,International Journal of Hydrogen Energy,closed,FALSE,2025
 10.1016/j.ijid.2024.107467,Elsevier,International Journal of Infectious Diseases,gold,FALSE,2025
 10.1016/j.ijid.2024.107641,Elsevier,International Journal of Infectious Diseases,gold,FALSE,2025
 10.1016/j.ijimpeng.2024.105059,Elsevier,International Journal of Impact Engineering,closed,FALSE,2024
-10.1016/j.ijinfomgt.2019.08.002,Elsevier,International Journal of Information Management,green,FALSE,2021
+10.1016/j.ijinfomgt.2019.08.002,Elsevier,International Journal of Information Management,bronze,FALSE,2021
 10.1016/j.ijinfomgt.2020.102168,Elsevier,International Journal of Information Management,hybrid,FALSE,2021
 10.1016/j.ijinfomgt.2020.102264,Elsevier,International Journal of Information Management,closed,TRUE,2021
 10.1016/j.ijinfomgt.2020.102269,Elsevier,International Journal of Information Management,closed,TRUE,2021
@@ -676,7 +717,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.ijnurstu.2023.104479,Elsevier,International Journal of Nursing Studies,hybrid,FALSE,2023
 10.1016/j.ijpe.2021.108388,Elsevier,International Journal of Production Economics,green,FALSE,2022
 10.1016/j.ijpe.2022.108642,Elsevier,International Journal of Production Economics,hybrid,TRUE,2022
-10.1016/j.ijpharm.2021.120305,Elsevier,International Journal of Pharmaceutics,green,FALSE,2021
+10.1016/j.ijpharm.2021.120305,Elsevier,International Journal of Pharmaceutics,closed,FALSE,2021
 10.1016/j.ijpharm.2021.120532,Elsevier,International Journal of Pharmaceutics,green,FALSE,2021
 10.1016/j.ijpharm.2022.121597,Elsevier,International Journal of Pharmaceutics,closed,FALSE,2022
 10.1016/j.ijpharm.2022.121671,Elsevier,International Journal of Pharmaceutics,closed,TRUE,2022
@@ -690,21 +731,22 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.ijpp.2022.10.002,Elsevier,International Journal of Paleopathology,hybrid,TRUE,2022
 10.1016/j.ijpp.2022.12.001,Elsevier,International Journal of Paleopathology,closed,TRUE,2023
 10.1016/j.ijpp.2022.12.005,Elsevier,International Journal of Paleopathology,hybrid,TRUE,2023
-10.1016/j.ijrmhm.2021.105717,Elsevier,International Journal of Refractory Metals and Hard Materials,closed,FALSE,2022
+10.1016/j.ijrmhm.2021.105717,Elsevier,International Journal of Refractory Metals and Hard Materials,green,FALSE,2022
 10.1016/j.ijsolstr.2024.112742,Elsevier,International Journal of Solids and Structures,closed,FALSE,2024
 10.1016/j.ijthermalsci.2021.107082,Elsevier,International Journal of Thermal Sciences,closed,TRUE,2021
 10.1016/j.indmarman.2020.10.013,Elsevier,Industrial Marketing Management,green,FALSE,2021
 10.1016/j.indmarman.2020.12.001,Elsevier,Industrial Marketing Management,bronze,FALSE,2021
-10.1016/j.indmarman.2021.01.006,Elsevier,Industrial Marketing Management,green,FALSE,2021
+10.1016/j.indmarman.2021.01.006,Elsevier,Industrial Marketing Management,closed,FALSE,2021
 10.1016/j.indmarman.2021.07.013,Elsevier,Industrial Marketing Management,closed,FALSE,2021
 10.1016/j.indmarman.2021.09.001,Elsevier,Industrial Marketing Management,green,FALSE,2021
-10.1016/j.indmarman.2022.08.019,Elsevier,Industrial Marketing Management,closed,FALSE,2022
+10.1016/j.indmarman.2022.08.019,Elsevier,Industrial Marketing Management,hybrid,FALSE,2022
 10.1016/j.indmarman.2022.08.020,Elsevier,Industrial Marketing Management,hybrid,TRUE,2022
 10.1016/j.indmarman.2023.05.016,Elsevier,Industrial Marketing Management,hybrid,TRUE,2023
 10.1016/j.indmarman.2024.01.016,Elsevier,Industrial Marketing Management,hybrid,TRUE,2024
 10.1016/j.inffus.2023.102059,Elsevier,Information Fusion,hybrid,FALSE,2024
-10.1016/j.ins.2023.119379,Elsevier,Information Sciences,closed,FALSE,2023
-10.1016/j.intfin.2021.101303,Elsevier,Journal of International Financial Markets Institutions and Money,green,FALSE,2021
+10.1016/j.inoche.2025.115142,Elsevier,Inorganic Chemistry Communications,closed,FALSE,2025
+10.1016/j.ins.2023.119379,Elsevier,Information Sciences,green,FALSE,2023
+10.1016/j.intfin.2021.101303,Elsevier,Journal of International Financial Markets Institutions and Money,closed,FALSE,2021
 10.1016/j.intfin.2021.101337,Elsevier,Journal of International Financial Markets Institutions and Money,green,TRUE,2021
 10.1016/j.intfin.2023.101917,Elsevier,Journal of International Financial Markets Institutions and Money,hybrid,FALSE,2024
 10.1016/j.intman.2020.100810,Elsevier,Journal of International Management,green,FALSE,2021
@@ -718,17 +760,17 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.ipm.2021.102549,Elsevier,Information Processing & Management,closed,TRUE,2021
 10.1016/j.iref.2022.11.012,Elsevier,International Review of Economics & Finance,closed,TRUE,2023
 10.1016/j.iref.2024.01.040,Elsevier,International Review of Economics & Finance,closed,FALSE,2024
-10.1016/j.iref.2024.103835,Elsevier,International Review of Economics & Finance,hybrid,FALSE,2025
+10.1016/j.iref.2024.103835,Elsevier,International Review of Economics & Finance,closed,FALSE,2025
 10.1016/j.irfa.2021.101884,Elsevier,International Review of Financial Analysis,closed,FALSE,2021
-10.1016/j.irfa.2021.101942,Elsevier,International Review of Financial Analysis,green,FALSE,2021
+10.1016/j.irfa.2021.101942,Elsevier,International Review of Financial Analysis,closed,FALSE,2021
 10.1016/j.irfa.2021.101974,Elsevier,International Review of Financial Analysis,green,FALSE,2022
 10.1016/j.irfa.2022.102273,Elsevier,International Review of Financial Analysis,hybrid,FALSE,2022
 10.1016/j.irfa.2022.102352,Elsevier,International Review of Financial Analysis,green,TRUE,2022
 10.1016/j.irfa.2023.102802,Elsevier,International Review of Financial Analysis,hybrid,TRUE,2023
 10.1016/j.irfa.2023.102894,Elsevier,International Review of Financial Analysis,hybrid,FALSE,2023
 10.1016/j.irfa.2023.102979,Elsevier,International Review of Financial Analysis,hybrid,FALSE,2024
-10.1016/j.irfa.2023.103056,Elsevier,International Review of Financial Analysis,closed,FALSE,2024
-10.1016/j.irfa.2024.103072,Elsevier,International Review of Financial Analysis,closed,FALSE,2024
+10.1016/j.irfa.2023.103056,Elsevier,International Review of Financial Analysis,green,FALSE,2024
+10.1016/j.irfa.2024.103072,Elsevier,International Review of Financial Analysis,green,FALSE,2024
 10.1016/j.irfa.2024.103206,Elsevier,International Review of Financial Analysis,closed,FALSE,2024
 10.1016/j.irfa.2024.103478,Elsevier,International Review of Financial Analysis,closed,FALSE,2024
 10.1016/j.irfa.2024.103704,Elsevier,International Review of Financial Analysis,hybrid,TRUE,2024
@@ -736,6 +778,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.isatra.2023.05.006,Elsevier,ISA Transactions,hybrid,TRUE,2023
 10.1016/j.isci.2023.107189,Elsevier,iScience,gold,FALSE,2023
 10.1016/j.isci.2023.108219,Elsevier,iScience,gold,TRUE,2023
+10.1016/j.isci.2023.108500,Elsevier,iScience,gold,FALSE,2023
 10.1016/j.istruc.2021.09.053,Elsevier,Structures,closed,TRUE,2021
 10.1016/j.istruc.2022.10.097,Elsevier,Structures,closed,TRUE,2022
 10.1016/j.istruc.2022.12.055,Elsevier,Structures,hybrid,TRUE,2023
@@ -748,13 +791,14 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.istruc.2024.107796,Elsevier,Structures,closed,FALSE,2024
 10.1016/j.istruc.2025.108437,Elsevier,Structures,closed,FALSE,2025
 10.1016/j.istruc.2025.108768,Elsevier,Structures,hybrid,TRUE,2025
+10.1016/j.istruc.2025.109757,Elsevier,Structures,hybrid,TRUE,2025
 10.1016/j.iswa.2022.200101,Elsevier,Intelligent Systems with Applications,gold,TRUE,2022
 10.1016/j.jaad.2023.07.040,Elsevier,Journal of the American Academy of Dermatology,closed,FALSE,2023
 10.1016/j.jaad.2023.07.206,Elsevier,Journal of the American Academy of Dermatology,closed,FALSE,2023
 10.1016/j.jaci.2024.05.015,Elsevier,Journal of Allergy and Clinical Immunology,hybrid,FALSE,2024
 10.1016/j.jad.2021.08.124,Elsevier,Journal of Affective Disorders,closed,FALSE,2021
-10.1016/j.jad.2024.01.212,Elsevier,Journal of Affective Disorders,green,FALSE,2024
-10.1016/j.jallcom.2022.168637,Elsevier,Journal of Alloys and Compounds,closed,FALSE,2023
+10.1016/j.jad.2024.01.212,Elsevier,Journal of Affective Disorders,closed,FALSE,2024
+10.1016/j.jallcom.2022.168637,Elsevier,Journal of Alloys and Compounds,green,FALSE,2023
 10.1016/j.jallcom.2025.178500,Elsevier,Journal of Alloys and Compounds,hybrid,FALSE,2025
 10.1016/j.jamda.2023.08.017,Elsevier,Journal of the American Medical Directors Association,closed,FALSE,2023
 10.1016/j.jas.2023.105898,Elsevier,Journal of Archaeological Science,closed,FALSE,2024
@@ -774,11 +818,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jbusres.2020.05.011,Elsevier,Journal of Business Research,green,TRUE,2021
 10.1016/j.jbusres.2020.05.015,Elsevier,Journal of Business Research,hybrid,TRUE,2021
 10.1016/j.jbusres.2020.09.026,Elsevier,Journal of Business Research,green,FALSE,2021
-10.1016/j.jbusres.2020.09.065,Elsevier,Journal of Business Research,green,FALSE,2021
+10.1016/j.jbusres.2020.09.065,Elsevier,Journal of Business Research,closed,FALSE,2021
 10.1016/j.jbusres.2021.01.050,Elsevier,Journal of Business Research,green,FALSE,2021
-10.1016/j.jbusres.2021.02.028,Elsevier,Journal of Business Research,closed,TRUE,2021
-10.1016/j.jbusres.2021.03.028,Elsevier,Journal of Business Research,closed,TRUE,2021
-10.1016/j.jbusres.2021.04.027,Elsevier,Journal of Business Research,closed,TRUE,2021
+10.1016/j.jbusres.2021.02.028,Elsevier,Journal of Business Research,green,TRUE,2021
+10.1016/j.jbusres.2021.03.028,Elsevier,Journal of Business Research,green,TRUE,2021
+10.1016/j.jbusres.2021.04.027,Elsevier,Journal of Business Research,green,TRUE,2021
 10.1016/j.jbusres.2021.04.052,Elsevier,Journal of Business Research,green,TRUE,2021
 10.1016/j.jbusres.2021.04.060,Elsevier,Journal of Business Research,green,FALSE,2021
 10.1016/j.jbusres.2021.06.052,Elsevier,Journal of Business Research,green,TRUE,2021
@@ -798,37 +842,37 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jclepro.2020.125522,Elsevier,Journal of Cleaner Production,closed,TRUE,2021
 10.1016/j.jclepro.2021.128561,Elsevier,Journal of Cleaner Production,closed,TRUE,2021
 10.1016/j.jclepro.2021.130170,Elsevier,Journal of Cleaner Production,closed,FALSE,2022
-10.1016/j.jclepro.2022.130508,Elsevier,Journal of Cleaner Production,closed,FALSE,2022
+10.1016/j.jclepro.2022.130508,Elsevier,Journal of Cleaner Production,green,FALSE,2022
 10.1016/j.jclepro.2022.133126,Elsevier,Journal of Cleaner Production,hybrid,TRUE,2022
 10.1016/j.jclepro.2022.133590,Elsevier,Journal of Cleaner Production,closed,FALSE,2022
 10.1016/j.jclepro.2023.136012,Elsevier,Journal of Cleaner Production,hybrid,FALSE,2023
 10.1016/j.jclepro.2023.136522,Elsevier,Journal of Cleaner Production,hybrid,TRUE,2023
 10.1016/j.jclepro.2023.138457,Elsevier,Journal of Cleaner Production,closed,FALSE,2023
-10.1016/j.jclepro.2023.139921,Elsevier,Journal of Cleaner Production,closed,FALSE,2024
-10.1016/j.jclepro.2024.141334,Elsevier,Journal of Cleaner Production,closed,FALSE,2024
+10.1016/j.jclepro.2023.139921,Elsevier,Journal of Cleaner Production,green,FALSE,2024
+10.1016/j.jclepro.2024.141334,Elsevier,Journal of Cleaner Production,green,FALSE,2024
 10.1016/j.jclepro.2024.143811,Elsevier,Journal of Cleaner Production,closed,TRUE,2024
 10.1016/j.jclimf.2023.100026,Elsevier,Journal of Climate Finance,closed,TRUE,2023
 10.1016/j.jcomc.2024.100529,Elsevier,Composites Part C Open Access,gold,FALSE,2024
 10.1016/j.jcomm.2024.100436,Elsevier,Journal of Commodity Markets,hybrid,TRUE,2024
-10.1016/j.jcomm.2025.100472,Elsevier,Journal of Commodity Markets,hybrid,FALSE,2025
+10.1016/j.jcomm.2025.100472,Elsevier,Journal of Commodity Markets,closed,FALSE,2025
 10.1016/j.jconrel.2024.12.014,Elsevier,Journal of Controlled Release,closed,FALSE,2024
 10.1016/j.jcorpfin.2021.102042,Elsevier,Journal of Corporate Finance,green,FALSE,2021
 10.1016/j.jcorpfin.2023.102447,Elsevier,Journal of Corporate Finance,hybrid,FALSE,2023
-10.1016/j.jcsr.2021.106867,Elsevier,Journal of Constructional Steel Research,green,FALSE,2021
-10.1016/j.jcsr.2021.106892,Elsevier,Journal of Constructional Steel Research,green,FALSE,2021
+10.1016/j.jcsr.2021.106867,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2021
+10.1016/j.jcsr.2021.106892,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2021
 10.1016/j.jcsr.2022.107324,Elsevier,Journal of Constructional Steel Research,closed,TRUE,2022
 10.1016/j.jcsr.2022.107426,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2022
 10.1016/j.jcsr.2022.107534,Elsevier,Journal of Constructional Steel Research,hybrid,TRUE,2022
 10.1016/j.jcsr.2022.107700,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2023
 10.1016/j.jcsr.2023.108055,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2023
-10.1016/j.jcsr.2023.108158,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2023
+10.1016/j.jcsr.2023.108158,Elsevier,Journal of Constructional Steel Research,green,FALSE,2023
 10.1016/j.jcsr.2023.108198,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2023
-10.1016/j.jcsr.2023.108251,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2024
+10.1016/j.jcsr.2023.108251,Elsevier,Journal of Constructional Steel Research,green,FALSE,2024
 10.1016/j.jcsr.2023.108311,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2024
 10.1016/j.jcsr.2024.108524,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2024
 10.1016/j.jcsr.2024.108678,Elsevier,Journal of Constructional Steel Research,closed,FALSE,2024
 10.1016/j.jctube.2022.100299,Elsevier,Journal of Clinical Tuberculosis and Other Mycobacterial Diseases,gold,FALSE,2022
-10.1016/j.jddst.2020.102228,Elsevier,Journal of Drug Delivery Science and Technology,closed,FALSE,2021
+10.1016/j.jddst.2020.102228,Elsevier,Journal of Drug Delivery Science and Technology,green,FALSE,2021
 10.1016/j.jddst.2023.104894,Elsevier,Journal of Drug Delivery Science and Technology,hybrid,TRUE,2023
 10.1016/j.jddst.2024.106369,Elsevier,Journal of Drug Delivery Science and Technology,hybrid,TRUE,2024
 10.1016/j.jddst.2024.106538,Elsevier,Journal of Drug Delivery Science and Technology,hybrid,FALSE,2025
@@ -845,24 +889,27 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jenvman.2022.116297,Elsevier,Journal of Environmental Management,hybrid,FALSE,2022
 10.1016/j.jenvman.2022.117125,Elsevier,Journal of Environmental Management,hybrid,TRUE,2023
 10.1016/j.jenvman.2023.119345,Elsevier,Journal of Environmental Management,hybrid,TRUE,2023
-10.1016/j.jenvman.2024.120117,Elsevier,Journal of Environmental Management,closed,FALSE,2024
-10.1016/j.jenvman.2024.121132,Elsevier,Journal of Environmental Management,closed,FALSE,2024
+10.1016/j.jenvman.2024.120117,Elsevier,Journal of Environmental Management,green,FALSE,2024
+10.1016/j.jenvman.2024.121132,Elsevier,Journal of Environmental Management,green,FALSE,2024
 10.1016/j.jenvman.2024.121319,Elsevier,Journal of Environmental Management,closed,FALSE,2024
 10.1016/j.jenvman.2024.121955,Elsevier,Journal of Environmental Management,closed,FALSE,2024
 10.1016/j.jenvman.2024.122262,Elsevier,Journal of Environmental Management,green,FALSE,2024
 10.1016/j.jenvman.2024.122994,Elsevier,Journal of Environmental Management,hybrid,FALSE,2024
-10.1016/j.jep.2021.114392,Elsevier,Journal of Ethnopharmacology,green,TRUE,2021
-10.1016/j.jep.2023.116688,Elsevier,Journal of Ethnopharmacology,bronze,TRUE,2023
+10.1016/j.jenvman.2025.125747,Elsevier,Journal of Environmental Management,hybrid,TRUE,2025
+10.1016/j.jenvman.2025.125874,Elsevier,Journal of Environmental Management,hybrid,TRUE,2025
+10.1016/j.jenvman.2025.126734,Elsevier,Journal of Environmental Management,hybrid,TRUE,2025
+10.1016/j.jep.2021.114392,Elsevier,Journal of Ethnopharmacology,closed,TRUE,2021
+10.1016/j.jep.2023.116688,Elsevier,Journal of Ethnopharmacology,hybrid,TRUE,2023
 10.1016/j.jfca.2022.104704,Elsevier,Journal of Food Composition and Analysis,closed,FALSE,2022
 10.1016/j.jfueco.2021.100045,Elsevier,Fuel Communications,gold,FALSE,2022
 10.1016/j.jgeb.2024.100427,Elsevier,Journal of Genetic Engineering and Biotechnology,gold,FALSE,2024
 10.1016/j.jgsce.2024.205367,Elsevier,Gas Science and Engineering,hybrid,TRUE,2024
 10.1016/j.jhydrol.2021.126338,Elsevier,Journal of Hydrology,closed,FALSE,2021
-10.1016/j.jhydrol.2021.126752,Elsevier,Journal of Hydrology,closed,FALSE,2021
+10.1016/j.jhydrol.2021.126752,Elsevier,Journal of Hydrology,green,FALSE,2021
 10.1016/j.jhydrol.2023.130239,Elsevier,Journal of Hydrology,closed,FALSE,2023
 10.1016/j.jhydrol.2024.131149,Elsevier,Journal of Hydrology,closed,FALSE,2024
 10.1016/j.jhydrol.2024.131181,Elsevier,Journal of Hydrology,closed,FALSE,2024
-10.1016/j.jid.2020.12.019,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2021
+10.1016/j.jid.2020.12.019,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2021
 10.1016/j.jid.2021.02.632,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2021
 10.1016/j.jid.2021.02.747,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2021
 10.1016/j.jid.2021.07.131,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2021
@@ -873,15 +920,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jid.2022.05.743,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2022
 10.1016/j.jid.2022.05.856,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2022
 10.1016/j.jid.2022.07.031,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2022
-10.1016/j.jid.2022.09.555,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2022
+10.1016/j.jid.2022.09.555,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2022
 10.1016/j.jid.2022.09.567,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2022
-10.1016/j.jid.2022.09.597,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2022
+10.1016/j.jid.2022.09.597,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2022
 10.1016/j.jid.2023.02.013,Elsevier,Journal of Investigative Dermatology,green,FALSE,2023
-10.1016/j.jid.2023.03.1120,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2023
+10.1016/j.jid.2023.03.1120,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2023
 10.1016/j.jid.2023.03.1440,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2023
 10.1016/j.jid.2023.03.1445,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2023
-10.1016/j.jid.2023.03.1456,Elsevier,Journal of Investigative Dermatology,closed,FALSE,2023
+10.1016/j.jid.2023.03.1456,Elsevier,Journal of Investigative Dermatology,hybrid,FALSE,2023
 10.1016/j.jid.2023.06.178,Elsevier,Journal of Investigative Dermatology,bronze,FALSE,2023
+10.1016/j.jid.2025.06.772,Elsevier,Journal of Investigative Dermatology,closed,FALSE,2025
 10.1016/j.jik.2024.100547,Elsevier,Journal of Innovation & Knowledge,gold,TRUE,2024
 10.1016/j.jimonfin.2022.102651,Elsevier,Journal of International Money and Finance,hybrid,FALSE,2022
 10.1016/j.jmapro.2023.07.068,Elsevier,Journal of Manufacturing Processes,hybrid,TRUE,2023
@@ -896,8 +944,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jmir.2023.09.006,Elsevier,Journal of Medical Imaging and Radiation Sciences,bronze,FALSE,2023
 10.1016/j.jmir.2023.09.009,Elsevier,Journal of Medical Imaging and Radiation Sciences,bronze,FALSE,2023
 10.1016/j.jmir.2023.09.013,Elsevier,Journal of Medical Imaging and Radiation Sciences,closed,FALSE,2023
-10.1016/j.jmir.2024.03.036,Elsevier,Journal of Medical Imaging and Radiation Sciences,green,FALSE,2024
-10.1016/j.jmir.2024.101725,Elsevier,Journal of Medical Imaging and Radiation Sciences,hybrid,FALSE,2024
+10.1016/j.jmir.2024.03.036,Elsevier,Journal of Medical Imaging and Radiation Sciences,closed,FALSE,2024
+10.1016/j.jmir.2024.101725,Elsevier,Journal of Medical Imaging and Radiation Sciences,closed,FALSE,2024
 10.1016/j.jmir.2024.101763,Elsevier,Journal of Medical Imaging and Radiation Sciences,hybrid,FALSE,2024
 10.1016/j.jmir.2024.101772,Elsevier,Journal of Medical Imaging and Radiation Sciences,closed,FALSE,2024
 10.1016/j.jmir.2025.101856,Elsevier,Journal of Medical Imaging and Radiation Sciences,closed,FALSE,2025
@@ -918,13 +966,13 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.jobe.2021.102776,Elsevier,Journal of Building Engineering,closed,FALSE,2021
 10.1016/j.jobe.2021.103861,Elsevier,Journal of Building Engineering,closed,FALSE,2022
 10.1016/j.jobe.2022.104104,Elsevier,Journal of Building Engineering,hybrid,TRUE,2022
-10.1016/j.jobe.2023.106306,Elsevier,Journal of Building Engineering,closed,FALSE,2023
+10.1016/j.jobe.2023.106306,Elsevier,Journal of Building Engineering,green,FALSE,2023
 10.1016/j.jobe.2023.107546,Elsevier,Journal of Building Engineering,hybrid,TRUE,2023
-10.1016/j.jobe.2023.108428,Elsevier,Journal of Building Engineering,closed,FALSE,2024
+10.1016/j.jobe.2023.108428,Elsevier,Journal of Building Engineering,green,FALSE,2024
 10.1016/j.jobe.2024.109010,Elsevier,Journal of Building Engineering,hybrid,TRUE,2024
-10.1016/j.jobe.2024.109463,Elsevier,Journal of Building Engineering,closed,FALSE,2024
+10.1016/j.jobe.2024.109463,Elsevier,Journal of Building Engineering,green,FALSE,2024
 10.1016/j.jobe.2025.112166,Elsevier,Journal of Building Engineering,closed,FALSE,2025
-10.1016/j.jobe.2025.112659,Elsevier,Journal of Building Engineering,hybrid,TRUE,2025
+10.1016/j.jobe.2025.112659,Elsevier,Journal of Building Engineering,closed,TRUE,2025
 10.1016/j.jocs.2021.101363,Elsevier,Journal of Computational Science,hybrid,TRUE,2021
 10.1016/j.jorganchem.2024.123168,Elsevier,Journal of Organometallic Chemistry,hybrid,FALSE,2024
 10.1016/j.josfa.2024.100005,Elsevier,Journal of Sustainable Finance and Accounting,closed,FALSE,2024
@@ -944,25 +992,31 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.lfs.2023.121662,Elsevier,Life Sciences,closed,TRUE,2023
 10.1016/j.matchemphys.2024.129460,Elsevier,Materials Chemistry and Physics,closed,FALSE,2024
 10.1016/j.matdes.2022.111244,Elsevier,Materials & Design,gold,TRUE,2022
+10.1016/j.matdes.2025.114118,Elsevier,Materials & Design,gold,FALSE,2025
 10.1016/j.measurement.2023.113971,Elsevier,Measurement,hybrid,TRUE,2024
+10.1016/j.measurement.2025.118264,Elsevier,Measurement,hybrid,FALSE,2025
 10.1016/j.metip.2024.100161,Elsevier,Methods in Psychology,gold,TRUE,2024
 10.1016/j.mex.2022.101684,Elsevier,MethodsX,gold,TRUE,2022
 10.1016/j.mex.2023.102304,Elsevier,MethodsX,gold,FALSE,2023
+10.1016/j.micpath.2025.107707,Elsevier,Microbial Pathogenesis,closed,FALSE,2025
+10.1016/j.midw.2025.104517,Elsevier,Midwifery,hybrid,FALSE,2025
 10.1016/j.molliq.2020.114894,Elsevier,Journal of Molecular Liquids,closed,FALSE,2021
 10.1016/j.molliq.2021.115707,Elsevier,Journal of Molecular Liquids,closed,TRUE,2021
-10.1016/j.molliq.2021.115821,Elsevier,Journal of Molecular Liquids,closed,TRUE,2021
+10.1016/j.molliq.2021.115821,Elsevier,Journal of Molecular Liquids,green,TRUE,2021
 10.1016/j.molstruc.2021.130407,Elsevier,Journal of Molecular Structure,closed,FALSE,2021
 10.1016/j.molstruc.2021.131387,Elsevier,Journal of Molecular Structure,closed,TRUE,2022
 10.1016/j.molstruc.2023.136311,Elsevier,Journal of Molecular Structure,hybrid,TRUE,2023
 10.1016/j.molstruc.2023.137208,Elsevier,Journal of Molecular Structure,closed,FALSE,2024
+10.1016/j.mpsur.2025.05.003,Elsevier,Surgery (Oxford),closed,FALSE,2025
 10.1016/j.mrrev.2021.108371,Elsevier,Mutation Research/Reviews in Mutation Research,hybrid,FALSE,2021
 10.1016/j.msksp.2024.102921,Elsevier,Musculoskeletal Science and Practice,hybrid,TRUE,2024
-10.1016/j.mssp.2021.105748,Elsevier,Materials Science in Semiconductor Processing,closed,FALSE,2021
+10.1016/j.mssp.2021.105748,Elsevier,Materials Science in Semiconductor Processing,green,FALSE,2021
+10.1016/j.mtchem.2025.102801,Elsevier,Materials Today Chemistry,closed,FALSE,2025
 10.1016/j.mtcomm.2021.102402,Elsevier,Materials Today Communications,closed,FALSE,2021
 10.1016/j.mtcomm.2022.104293,Elsevier,Materials Today Communications,closed,FALSE,2022
-10.1016/j.mtcomm.2022.104562,Elsevier,Materials Today Communications,closed,TRUE,2022
+10.1016/j.mtcomm.2022.104562,Elsevier,Materials Today Communications,hybrid,TRUE,2022
 10.1016/j.mtcomm.2022.105242,Elsevier,Materials Today Communications,hybrid,TRUE,2023
-10.1016/j.mtsust.2022.100115,Elsevier,Materials Today Sustainability,closed,FALSE,2022
+10.1016/j.mtsust.2022.100115,Elsevier,Materials Today Sustainability,green,FALSE,2022
 10.1016/j.mtsust.2023.100446,Elsevier,Materials Today Sustainability,closed,FALSE,2023
 10.1016/j.mtsust.2023.100585,Elsevier,Materials Today Sustainability,closed,FALSE,2023
 10.1016/j.nano.2021.102401,Elsevier,Nanomedicine Nanotechnology Biology and Medicine,hybrid,FALSE,2021
@@ -970,8 +1024,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.nepr.2023.103870,Elsevier,Nurse Education in Practice,closed,FALSE,2023
 10.1016/j.nepr.2024.104226,Elsevier,Nurse Education in Practice,hybrid,TRUE,2024
 10.1016/j.neucom.2021.08.080,Elsevier,Neurocomputing,hybrid,FALSE,2021
-10.1016/j.neucom.2022.01.088,Elsevier,Neurocomputing,closed,FALSE,2022
-10.1016/j.neucom.2022.07.082,Elsevier,Neurocomputing,green,FALSE,2022
+10.1016/j.neucom.2022.01.088,Elsevier,Neurocomputing,green,FALSE,2022
+10.1016/j.neucom.2022.07.082,Elsevier,Neurocomputing,closed,FALSE,2022
 10.1016/j.neuropharm.2023.109760,Elsevier,Neuropharmacology,closed,TRUE,2023
 10.1016/j.neuropharm.2024.110110,Elsevier,Neuropharmacology,hybrid,FALSE,2024
 10.1016/j.nicl.2021.102925,Elsevier,NeuroImage Clinical,gold,FALSE,2021
@@ -979,9 +1033,9 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.nmd.2024.07.140,Elsevier,Neuromuscular Disorders,closed,FALSE,2024
 10.1016/j.nmd.2024.07.170,Elsevier,Neuromuscular Disorders,closed,FALSE,2024
 10.1016/j.numecd.2021.01.017,Elsevier,Nutrition Metabolism and Cardiovascular Diseases,green,FALSE,2021
-10.1016/j.oceaneng.2021.109973,Elsevier,Ocean Engineering,closed,TRUE,2021
-10.1016/j.oceaneng.2021.110344,Elsevier,Ocean Engineering,closed,TRUE,2022
-10.1016/j.oceaneng.2022.110527,Elsevier,Ocean Engineering,closed,TRUE,2022
+10.1016/j.oceaneng.2021.109973,Elsevier,Ocean Engineering,green,TRUE,2021
+10.1016/j.oceaneng.2021.110344,Elsevier,Ocean Engineering,green,TRUE,2022
+10.1016/j.oceaneng.2022.110527,Elsevier,Ocean Engineering,green,TRUE,2022
 10.1016/j.oceaneng.2022.111399,Elsevier,Ocean Engineering,closed,FALSE,2022
 10.1016/j.oceaneng.2022.112134,Elsevier,Ocean Engineering,closed,TRUE,2022
 10.1016/j.oceaneng.2022.113416,Elsevier,Ocean Engineering,closed,FALSE,2023
@@ -998,7 +1052,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.oceaneng.2024.120202,Elsevier,Ocean Engineering,closed,TRUE,2025
 10.1016/j.oceaneng.2025.120458,Elsevier,Ocean Engineering,hybrid,TRUE,2025
 10.1016/j.oceaneng.2025.120642,Elsevier,Ocean Engineering,closed,FALSE,2025
-10.1016/j.ogla.2021.10.003,Elsevier,Ophthalmology Glaucoma,closed,FALSE,2021
+10.1016/j.oceaneng.2025.121423,Elsevier,Ocean Engineering,closed,FALSE,2025
+10.1016/j.ogla.2021.10.003,Elsevier,Ophthalmology Glaucoma,green,FALSE,2021
 10.1016/j.ogla.2022.07.001,Elsevier,Ophthalmology Glaucoma,hybrid,TRUE,2022
 10.1016/j.omega.2022.102668,Elsevier,Omega,green,FALSE,2022
 10.1016/j.onano.2022.100100,Elsevier,OpenNano,gold,FALSE,2022
@@ -1006,15 +1061,17 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.oneear.2022.04.009,Elsevier,One Earth,hybrid,FALSE,2022
 10.1016/j.optom.2021.02.001,Elsevier,Journal of Optometry,gold,FALSE,2021
 10.1016/j.orp.2023.100279,Elsevier,Operations Research Perspectives,gold,TRUE,2023
-10.1016/j.paed.2021.12.003,Elsevier,Paediatrics and Child Health,green,FALSE,2022
+10.1016/j.pacfin.2025.102855,Elsevier,Pacific-Basin Finance Journal,closed,TRUE,2025
+10.1016/j.paed.2021.12.003,Elsevier,Paediatrics and Child Health,closed,FALSE,2022
 10.1016/j.paid.2020.110610,Elsevier,Personality and Individual Differences,closed,FALSE,2021
-10.1016/j.palaeo.2021.110225,Elsevier,Palaeogeography Palaeoclimatology Palaeoecology,green,FALSE,2021
+10.1016/j.palaeo.2021.110225,Elsevier,Palaeogeography Palaeoclimatology Palaeoecology,closed,FALSE,2021
 10.1016/j.palaeo.2021.110245,Elsevier,Palaeogeography Palaeoclimatology Palaeoecology,closed,FALSE,2021
-10.1016/j.palaeo.2021.110277,Elsevier,Palaeogeography Palaeoclimatology Palaeoecology,green,FALSE,2021
+10.1016/j.palaeo.2021.110277,Elsevier,Palaeogeography Palaeoclimatology Palaeoecology,closed,FALSE,2021
 10.1016/j.patcog.2023.109476,Elsevier,Pattern Recognition,hybrid,FALSE,2023
 10.1016/j.patter.2022.100550,Elsevier,Patterns,gold,FALSE,2022
-10.1016/j.pec.2021.12.017,Elsevier,Patient Education and Counseling,green,FALSE,2021
+10.1016/j.pec.2021.12.017,Elsevier,Patient Education and Counseling,closed,FALSE,2021
 10.1016/j.peh.2025.100340,Elsevier,Performance Enhancement & Health,hybrid,FALSE,2025
+10.1016/j.pepi.2025.107412,Elsevier,Physics of The Earth and Planetary Interiors,hybrid,FALSE,2025
 10.1016/j.petlm.2021.06.005,Elsevier,Petroleum,gold,FALSE,2022
 10.1016/j.petrol.2020.108030,Elsevier,Journal of Petroleum Science and Engineering,green,TRUE,2021
 10.1016/j.phrs.2021.105467,Elsevier,Pharmacological Research,closed,FALSE,2021
@@ -1033,8 +1090,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.physio.2025.101616,Elsevier,Physiotherapy,closed,FALSE,2025
 10.1016/j.physio.2025.101733,Elsevier,Physiotherapy,closed,FALSE,2025
 10.1016/j.plefa.2023.102570,Elsevier,Prostaglandins Leukotrienes and Essential Fatty Acids,hybrid,FALSE,2023
-10.1016/j.plefa.2024.102623,Elsevier,Prostaglandins Leukotrienes and Essential Fatty Acids,green,FALSE,2024
-10.1016/j.pmatsci.2024.101310,Elsevier,Progress in Materials Science,closed,FALSE,2024
+10.1016/j.plefa.2024.102623,Elsevier,Prostaglandins Leukotrienes and Essential Fatty Acids,hybrid,FALSE,2024
+10.1016/j.pmatsci.2024.101310,Elsevier,Progress in Materials Science,green,FALSE,2024
 10.1016/j.pnucene.2023.104918,Elsevier,Progress in Nuclear Energy,closed,FALSE,2023
 10.1016/j.poetic.2025.101984,Elsevier,Poetics,hybrid,FALSE,2025
 10.1016/j.poly.2021.115520,Elsevier,Polyhedron,green,TRUE,2022
@@ -1043,12 +1100,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.polymer.2022.124797,Elsevier,Polymer,closed,FALSE,2022
 10.1016/j.polymer.2023.125830,Elsevier,Polymer,hybrid,FALSE,2023
 10.1016/j.polymer.2023.125839,Elsevier,Polymer,hybrid,TRUE,2023
-10.1016/j.polymer.2024.126782,Elsevier,Polymer,closed,FALSE,2024
+10.1016/j.polymer.2024.126782,Elsevier,Polymer,green,FALSE,2024
 10.1016/j.polymer.2024.127741,Elsevier,Polymer,closed,FALSE,2024
 10.1016/j.polymer.2025.128448,Elsevier,Polymer,closed,FALSE,2025
 10.1016/j.powtec.2023.118557,Elsevier,Powder Technology,hybrid,TRUE,2023
 10.1016/j.powtec.2023.119252,Elsevier,Powder Technology,hybrid,TRUE,2024
-10.1016/j.powtec.2024.120236,Elsevier,Powder Technology,hybrid,TRUE,2024
+10.1016/j.powtec.2024.120236,Elsevier,Powder Technology,closed,TRUE,2024
 10.1016/j.procir.2021.01.054,Elsevier,Procedia CIRP,gold,FALSE,2021
 10.1016/j.procir.2024.03.045,Elsevier,Procedia CIRP,gold,FALSE,2024
 10.1016/j.procir.2024.05.098,Elsevier,Procedia CIRP,gold,FALSE,2024
@@ -1059,7 +1116,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.quaint.2020.05.004,Elsevier,Quaternary International,hybrid,TRUE,2021
 10.1016/j.radi.2020.12.013,Elsevier,Radiography,closed,FALSE,2021
 10.1016/j.radi.2021.07.002,Elsevier,Radiography,hybrid,FALSE,2021
-10.1016/j.radi.2021.07.015,Elsevier,Radiography,green,FALSE,2021
+10.1016/j.radi.2021.07.015,Elsevier,Radiography,closed,FALSE,2021
 10.1016/j.radi.2021.08.003,Elsevier,Radiography,closed,TRUE,2021
 10.1016/j.radi.2021.09.013,Elsevier,Radiography,closed,TRUE,2021
 10.1016/j.radi.2021.12.006,Elsevier,Radiography,closed,FALSE,2022
@@ -1080,22 +1137,24 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.radi.2023.12.007,Elsevier,Radiography,hybrid,TRUE,2023
 10.1016/j.radi.2024.03.004,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.04.016,Elsevier,Radiography,hybrid,TRUE,2024
-10.1016/j.radi.2024.04.028,Elsevier,Radiography,hybrid,TRUE,2024
-10.1016/j.radi.2024.06.005,Elsevier,Radiography,closed,FALSE,2024
+10.1016/j.radi.2024.04.028,Elsevier,Radiography,closed,TRUE,2024
+10.1016/j.radi.2024.06.005,Elsevier,Radiography,green,FALSE,2024
 10.1016/j.radi.2024.06.013,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.07.010,Elsevier,Radiography,closed,FALSE,2024
 10.1016/j.radi.2024.08.006,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.08.008,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.08.014,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.08.015,Elsevier,Radiography,hybrid,TRUE,2024
-10.1016/j.radi.2024.09.057,Elsevier,Radiography,hybrid,TRUE,2024
+10.1016/j.radi.2024.09.057,Elsevier,Radiography,closed,TRUE,2024
 10.1016/j.radi.2024.10.017,Elsevier,Radiography,hybrid,TRUE,2024
 10.1016/j.radi.2024.11.021,Elsevier,Radiography,hybrid,FALSE,2024
 10.1016/j.radi.2024.12.005,Elsevier,Radiography,hybrid,FALSE,2024
 10.1016/j.radi.2025.01.004,Elsevier,Radiography,hybrid,TRUE,2025
 10.1016/j.radi.2025.102935,Elsevier,Radiography,hybrid,FALSE,2025
+10.1016/j.radi.2025.102956,Elsevier,Radiography,hybrid,FALSE,2025
 10.1016/j.rasd.2024.102484,Elsevier,Research in Autism Spectrum Disorders,hybrid,TRUE,2024
 10.1016/j.rcradv.2023.200182,Elsevier,Resources Conservation & Recycling Advances,gold,FALSE,2023
+10.1016/j.rcro.2025.100266,Elsevier,The Royal College of Radiologists Open,closed,FALSE,2025
 10.1016/j.rcsop.2022.100132,Elsevier,Exploratory Research in Clinical and Social Pharmacy,gold,FALSE,2022
 10.1016/j.rechem.2024.101785,Elsevier,Results in Chemistry,gold,FALSE,2024
 10.1016/j.renene.2022.04.059,Elsevier,Renewable Energy,closed,FALSE,2022
@@ -1113,7 +1172,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.resourpol.2024.105286,Elsevier,Resources Policy,closed,FALSE,2024
 10.1016/j.respol.2020.104093,Elsevier,Research Policy,green,FALSE,2021
 10.1016/j.respol.2020.104146,Elsevier,Research Policy,green,FALSE,2021
-10.1016/j.ress.2021.107808,Elsevier,Reliability Engineering & System Safety,closed,TRUE,2021
+10.1016/j.ress.2021.107808,Elsevier,Reliability Engineering & System Safety,green,TRUE,2021
 10.1016/j.revpalbo.2020.104328,Elsevier,Review of Palaeobotany and Palynology,closed,FALSE,2021
 10.1016/j.ribaf.2021.101507,Elsevier,Research in International Business and Finance,closed,FALSE,2021
 10.1016/j.ribaf.2022.101826,Elsevier,Research in International Business and Finance,green,FALSE,2023
@@ -1151,14 +1210,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.semcancer.2022.08.008,Elsevier,Seminars in Cancer Biology,hybrid,TRUE,2022
 10.1016/j.seppur.2020.117871,Elsevier,Separation and Purification Technology,closed,TRUE,2021
 10.1016/j.seppur.2021.118776,Elsevier,Separation and Purification Technology,closed,TRUE,2021
-10.1016/j.seppur.2024.131403,Elsevier,Separation and Purification Technology,closed,TRUE,2025
+10.1016/j.seppur.2024.131403,Elsevier,Separation and Purification Technology,hybrid,TRUE,2025
 10.1016/j.seps.2023.101544,Elsevier,Socio-Economic Planning Sciences,closed,FALSE,2023
-10.1016/j.seps.2023.101661,Elsevier,Socio-Economic Planning Sciences,bronze,FALSE,2023
+10.1016/j.seps.2023.101661,Elsevier,Socio-Economic Planning Sciences,green,FALSE,2023
 10.1016/j.seps.2024.101951,Elsevier,Socio-Economic Planning Sciences,closed,FALSE,2024
-10.1016/j.simpat.2021.102470,Elsevier,Simulation Modelling Practice and Theory,closed,TRUE,2022
+10.1016/j.seps.2025.102248,Elsevier,Socio-Economic Planning Sciences,closed,FALSE,2025
+10.1016/j.simpat.2021.102470,Elsevier,Simulation Modelling Practice and Theory,green,TRUE,2022
 10.1016/j.simpat.2024.103027,Elsevier,Simulation Modelling Practice and Theory,hybrid,TRUE,2025
 10.1016/j.socscimed.2023.116098,Elsevier,Social Science & Medicine,hybrid,FALSE,2023
 10.1016/j.soildyn.2023.108268,Elsevier,Soil Dynamics and Earthquake Engineering,hybrid,TRUE,2024
+10.1016/j.solener.2025.113807,Elsevier,Solar Energy,hybrid,FALSE,2025
 10.1016/j.spc.2022.01.002,Elsevier,Sustainable Production and Consumption,hybrid,TRUE,2022
 10.1016/j.ssaho.2023.100590,Elsevier,Social Sciences & Humanities Open,gold,TRUE,2023
 10.1016/j.ssmqr.2024.100462,Elsevier,SSM - Qualitative Research in Health,gold,FALSE,2024
@@ -1207,19 +1268,20 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.tourman.2024.105034,Elsevier,Tourism Management,closed,FALSE,2025
 10.1016/j.trac.2021.116501,Elsevier,TrAC Trends in Analytical Chemistry,closed,FALSE,2022
 10.1016/j.tre.2021.102539,Elsevier,Transportation Research Part E Logistics and Transportation Review,hybrid,FALSE,2021
-10.1016/j.tre.2022.102864,Elsevier,Transportation Research Part E Logistics and Transportation Review,green,FALSE,2022
+10.1016/j.tre.2022.102864,Elsevier,Transportation Research Part E Logistics and Transportation Review,closed,FALSE,2022
 10.1016/j.trechm.2021.02.008,Elsevier,Trends in Chemistry,bronze,TRUE,2021
-10.1016/j.triboint.2023.109162,Elsevier,Tribology International,closed,FALSE,2024
+10.1016/j.triboint.2023.109162,Elsevier,Tribology International,green,FALSE,2024
 10.1016/j.tsep.2021.101119,Elsevier,Thermal Science and Engineering Progress,closed,TRUE,2021
 10.1016/j.tsep.2021.101120,Elsevier,Thermal Science and Engineering Progress,closed,TRUE,2022
 10.1016/j.tsep.2021.101121,Elsevier,Thermal Science and Engineering Progress,closed,FALSE,2021
 10.1016/j.tsep.2021.101159,Elsevier,Thermal Science and Engineering Progress,closed,TRUE,2022
-10.1016/j.tws.2020.107172,Elsevier,Thin-Walled Structures,closed,FALSE,2021
+10.1016/j.tws.2020.107172,Elsevier,Thin-Walled Structures,green,FALSE,2021
 10.1016/j.tws.2021.108716,Elsevier,Thin-Walled Structures,green,FALSE,2022
 10.1016/j.tws.2023.111020,Elsevier,Thin-Walled Structures,closed,FALSE,2023
 10.1016/j.tws.2024.112430,Elsevier,Thin-Walled Structures,closed,FALSE,2024
 10.1016/j.tws.2024.112717,Elsevier,Thin-Walled Structures,closed,FALSE,2025
 10.1016/j.vacuum.2021.110298,Elsevier,Vacuum,closed,FALSE,2021
+10.1016/j.vascn.2025.107675,Elsevier,Journal of Pharmacological and Toxicological Methods,closed,FALSE,2025
 10.1016/j.vibspec.2021.103227,Elsevier,Vibrational Spectroscopy,closed,FALSE,2021
 10.1016/j.visres.2021.01.002,Elsevier,Vision Research,bronze,FALSE,2021
 10.1016/j.wds.2023.100079,Elsevier,World Development Sustainability,gold,FALSE,2023
@@ -1227,11 +1289,13 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1016/j.wse.2022.01.002,Elsevier,Water Science and Engineering,gold,FALSE,2022
 10.1016/j.wse.2025.01.003,Elsevier,Water Science and Engineering,gold,TRUE,2025
 10.1016/j.wsif.2024.102918,Elsevier,Women's Studies International Forum,hybrid,TRUE,2024
+10.1016/j.wss.2025.100279,Elsevier,Wellbeing Space and Society,gold,FALSE,2025
 10.1016/j.xphs.2021.09.042,Elsevier,Journal of Pharmaceutical Sciences,bronze,TRUE,2021
 10.1016/s0140-6736(21)00945-4,Elsevier,The Lancet,bronze,FALSE,2021
 10.1016/s2213-2600(21)00310-6,Elsevier,The Lancet Respiratory Medicine,green,FALSE,2021
 10.1016/s2666-7568(22)00059-9,Elsevier,The Lancet Healthy Longevity,gold,FALSE,2022
 10.1016/s2666-7568(23)00262-3,Elsevier,The Lancet Healthy Longevity,gold,FALSE,2024
+10.1017/gmb.2025.4,Cambridge University Press,Gut Microbiome,gold,TRUE,2025
 10.1017/rdc.2023.86,Cambridge University Press,Radiocarbon,hybrid,FALSE,2023
 10.1017/s002185532100019x,Cambridge University Press,Journal of African Law,closed,TRUE,2021
 10.1017/s0022216x22000049,Cambridge University Press,Journal of Latin American Studies,closed,FALSE,2022
@@ -1239,17 +1303,18 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1017/s002531542100062x,Cambridge University Press,Marine Biodiversity Records,gold,FALSE,2021
 10.1017/s0029665124002064,Cambridge University Press,Proceedings of The Nutrition Society,bronze,FALSE,2024
 10.1017/s0067237822000443,Cambridge University Press,Austrian History Yearbook,closed,TRUE,2022
-10.1017/s0144686x21000817,Cambridge University Press,Ageing and Society,green,TRUE,2021
-10.1017/s0144686x21001719,Cambridge University Press,Ageing and Society,green,FALSE,2021
+10.1017/s0144686x21000817,Cambridge University Press,Ageing and Society,closed,TRUE,2021
+10.1017/s0144686x21001719,Cambridge University Press,Ageing and Society,hybrid,FALSE,2021
 10.1017/s0144686x22000526,Cambridge University Press,Ageing and Society,hybrid,TRUE,2022
 10.1017/s0144686x22001088,Cambridge University Press,Ageing and Society,hybrid,TRUE,2022
 10.1017/s0144686x22001118,Cambridge University Press,Ageing and Society,hybrid,TRUE,2022
 10.1017/s0144686x22001350,Cambridge University Press,Ageing and Society,hybrid,FALSE,2023
 10.1017/s0144686x22001362,Cambridge University Press,Ageing and Society,hybrid,TRUE,2023
 10.1017/s0144686x24000199,Cambridge University Press,Ageing and Society,hybrid,FALSE,2024
+10.1017/s0144686x24000333,Cambridge University Press,Ageing and Society,hybrid,FALSE,2025
 10.1017/s0144686x25000030,Cambridge University Press,Ageing and Society,closed,FALSE,2025
-10.1017/s1041610220003749,Elsevier,International Psychogeriatrics,hybrid,FALSE,2021
-10.1017/s1041610223000443,Elsevier,International Psychogeriatrics,hybrid,TRUE,2023
+10.1017/s1041610220003749,Elsevier,International Psychogeriatrics,gold,FALSE,2021
+10.1017/s1041610223000443,Elsevier,International Psychogeriatrics,gold,TRUE,2023
 10.1017/s1062798721000028,Cambridge University Press,European Review,hybrid,FALSE,2021
 10.1017/s136898002100392x,Cambridge University Press,Public Health Nutrition,hybrid,FALSE,2021
 10.1017/s1463423622000779,Cambridge University Press,Primary Health Care Research & Development,gold,TRUE,2023
@@ -1262,20 +1327,21 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1021/acs.biomac.2c00516,American Chemical Society,Biomacromolecules,hybrid,FALSE,2022
 10.1021/acs.cgd.0c01344,American Chemical Society,Crystal Growth & Design,closed,FALSE,2021
 10.1021/acs.cgd.1c01311,American Chemical Society,Crystal Growth & Design,hybrid,TRUE,2022
-10.1021/acs.cgd.2c00263,American Chemical Society,Crystal Growth & Design,closed,TRUE,2022
+10.1021/acs.cgd.2c00263,American Chemical Society,Crystal Growth & Design,hybrid,TRUE,2022
 10.1021/acs.cgd.3c00030,American Chemical Society,Crystal Growth & Design,closed,TRUE,2023
 10.1021/acs.cgd.3c01143,American Chemical Society,Crystal Growth & Design,hybrid,TRUE,2024
 10.1021/acs.cgd.4c01208,American Chemical Society,Crystal Growth & Design,closed,FALSE,2025
+10.1021/acs.cgd.5c00338,American Chemical Society,Crystal Growth & Design,hybrid,TRUE,2025
 10.1021/acs.chas.1c00047,American Chemical Society,ACS Chemical Health & Safety,closed,FALSE,2021
 10.1021/acs.iecr.1c00172,American Chemical Society,Industrial & Engineering Chemistry Research,closed,FALSE,2021
 10.1021/acs.iecr.1c04474,American Chemical Society,Industrial & Engineering Chemistry Research,closed,FALSE,2022
 10.1021/acs.iecr.2c00196,American Chemical Society,Industrial & Engineering Chemistry Research,closed,FALSE,2022
 10.1021/acs.iecr.2c01696,American Chemical Society,Industrial & Engineering Chemistry Research,closed,FALSE,2022
-10.1021/acs.inorgchem.0c03704,American Chemical Society,Inorganic Chemistry,green,TRUE,2021
+10.1021/acs.inorgchem.0c03704,American Chemical Society,Inorganic Chemistry,closed,TRUE,2021
 10.1021/acs.jmedchem.1c01367,American Chemical Society,Journal of Medicinal Chemistry,hybrid,TRUE,2022
 10.1021/acs.jmedchem.4c02135,American Chemical Society,Journal of Medicinal Chemistry,closed,FALSE,2025
 10.1021/acs.joc.2c01651,American Chemical Society,The Journal of Organic Chemistry,hybrid,TRUE,2022
-10.1021/acs.jpcb.0c09518,American Chemical Society,The Journal of Physical Chemistry B,green,FALSE,2021
+10.1021/acs.jpcb.0c09518,American Chemical Society,The Journal of Physical Chemistry B,closed,FALSE,2021
 10.1021/acs.jpcc.2c06161,American Chemical Society,The Journal of Physical Chemistry C,hybrid,FALSE,2023
 10.1021/acs.langmuir.2c01246,American Chemical Society,Langmuir,closed,FALSE,2022
 10.1021/acs.macromol.3c00010,American Chemical Society,Macromolecules,closed,FALSE,2023
@@ -1285,6 +1351,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1021/acsabm.1c00116,American Chemical Society,ACS Applied Bio Materials,hybrid,TRUE,2021
 10.1021/acsabm.2c00499,American Chemical Society,ACS Applied Bio Materials,hybrid,TRUE,2022
 10.1021/acsabm.3c00874,American Chemical Society,ACS Applied Bio Materials,hybrid,TRUE,2023
+10.1021/acsabm.5c00046,American Chemical Society,ACS Applied Bio Materials,closed,FALSE,2025
 10.1021/acsaenm.5c00121,American Chemical Society,ACS Applied Engineering Materials,closed,FALSE,2025
 10.1021/acsami.2c01090,American Chemical Society,ACS Applied Materials & Interfaces,closed,FALSE,2022
 10.1021/acsami.2c05220,American Chemical Society,ACS Applied Materials & Interfaces,closed,FALSE,2022
@@ -1298,6 +1365,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1021/acsomega.4c05963,American Chemical Society,ACS Omega,gold,FALSE,2024
 10.1021/acsomega.4c06159,American Chemical Society,ACS Omega,gold,TRUE,2024
 10.1021/acsomega.4c07972,American Chemical Society,ACS Omega,gold,FALSE,2025
+10.1021/acsomega.4c08666,American Chemical Society,ACS Omega,gold,FALSE,2025
 10.1021/acspolymersau.4c00020,American Chemical Society,ACS Polymers Au,gold,FALSE,2024
 10.1021/acssuschemeng.0c06672,American Chemical Society,ACS Sustainable Chemistry & Engineering,closed,FALSE,2021
 10.1021/acssuschemeng.1c04862,American Chemical Society,ACS Sustainable Chemistry & Engineering,closed,FALSE,2021
@@ -1308,9 +1376,10 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1029/2021wr030380,Wiley,Water Resources Research,closed,FALSE,2021
 10.1029/2023rs007782,Wiley,Radio Science,hybrid,FALSE,2023
 10.1029/2023wr034421,Wiley,Water Resources Research,closed,FALSE,2023
-10.1029/2023wr036473,Wiley,Water Resources Research,hybrid,FALSE,2024
+10.1029/2023wr036473,Wiley,Water Resources Research,gold,FALSE,2024
 10.1037/ort0000668,American Psychological Association (APA),American Journal of Orthopsychiatry,closed,FALSE,2023
 10.1037/pag0000650,American Psychological Association (APA),Psychology and Aging,hybrid,FALSE,2022
+10.1037/pag0000911,American Psychological Association (APA),Psychology and Aging,closed,FALSE,2025
 10.1037/stl0000307,American Psychological Association (APA),Scholarship of Teaching and Learning in Psychology,green,FALSE,2024
 10.1038/s41416-022-02000-4,SpringerNature,British Journal of Cancer,hybrid,FALSE,2022
 10.1038/s41433-021-01516-y,SpringerNature,Eye,hybrid,TRUE,2021
@@ -1325,8 +1394,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1038/s41467-021-27668-9,SpringerNature,Nature Communications,gold,FALSE,2022
 10.1038/s41467-022-29658-x,SpringerNature,Nature Communications,gold,FALSE,2022
 10.1038/s41467-022-32286-0,SpringerNature,Nature Communications,gold,FALSE,2022
-10.1038/s41526-024-00395-3,SpringerNature,npj Microgravity,gold,FALSE,2024
-10.1038/s41539-024-00241-x,SpringerNature,npj Science of Learning,gold,FALSE,2024
+10.1038/s41526-024-00395-3,SpringerNature,Microgravity,gold,FALSE,2024
+10.1038/s41539-024-00241-x,SpringerNature,Science of Learning,gold,FALSE,2024
 10.1038/s41562-024-02012-5,SpringerNature,Nature Human Behaviour,closed,TRUE,2024
 10.1038/s41586-021-04287-4,SpringerNature,Nature,green,FALSE,2021
 10.1038/s41586-022-04685-2,SpringerNature,Nature,hybrid,FALSE,2022
@@ -1355,14 +1424,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1038/s41598-024-56038-w,SpringerNature,Scientific Reports,gold,FALSE,2024
 10.1038/s41598-024-71879-1,SpringerNature,Scientific Reports,gold,FALSE,2024
 10.1038/s41598-024-74637-5,SpringerNature,Scientific Reports,gold,FALSE,2024
+10.1038/s41598-025-13198-7,SpringerNature,Scientific Reports,gold,FALSE,2025
 10.1038/s41598-025-88554-8,SpringerNature,Scientific Reports,gold,FALSE,2025
 10.1038/s41598-025-93510-7,SpringerNature,Scientific Reports,gold,FALSE,2025
 10.1038/s41598-025-97775-w,SpringerNature,Scientific Reports,gold,FALSE,2025
-10.1038/s41893-024-01439-y,SpringerNature,Nature Sustainability,closed,FALSE,2024
+10.1038/s41893-024-01439-y,SpringerNature,Nature Sustainability,green,FALSE,2024
 10.1038/s42003-023-04891-2,SpringerNature,Communications Biology,gold,FALSE,2023
 10.1038/s42003-023-05642-z,SpringerNature,Communications Biology,gold,FALSE,2024
 10.1038/s42004-024-01163-w,SpringerNature,Communications Chemistry,gold,FALSE,2024
 10.1038/s43856-024-00532-9,SpringerNature,Communications Medicine,gold,FALSE,2024
+10.1038/s44271-025-00252-3,SpringerNature,Communications Psychology,gold,FALSE,2025
 10.1039/d0ob02079f,Royal Society of Chemistry (RSC),Organic & Biomolecular Chemistry,hybrid,FALSE,2021
 10.1039/d0py01392g,Royal Society of Chemistry (RSC),Polymer Chemistry,hybrid,FALSE,2021
 10.1039/d1ce00878a,Royal Society of Chemistry (RSC),CrystEngComm,hybrid,FALSE,2021
@@ -1392,20 +1463,28 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1039/d4su00392f,Royal Society of Chemistry (RSC),RSC Sustainability,gold,FALSE,2024
 10.1039/d4tb01544d,Royal Society of Chemistry (RSC),Journal of Materials Chemistry B,hybrid,TRUE,2024
 10.1039/d4tc05271d,Royal Society of Chemistry (RSC),Journal of Materials Chemistry C,closed,FALSE,2025
-10.1039/d5md00069f,Royal Society of Chemistry (RSC),RSC Medicinal Chemistry,closed,FALSE,2025
+10.1039/d5md00069f,Royal Society of Chemistry (RSC),RSC Medicinal Chemistry,green,FALSE,2025
 10.1039/d5nr00447k,Royal Society of Chemistry (RSC),Nanoscale,hybrid,FALSE,2025
 10.1039/d5ob00342c,Royal Society of Chemistry (RSC),Organic & Biomolecular Chemistry,hybrid,FALSE,2025
 10.1039/d5ra00576k,Royal Society of Chemistry (RSC),RSC Advances,gold,FALSE,2025
+10.1039/d5rp00107b,Royal Society of Chemistry (RSC),Chemistry Education Research and Practice,closed,FALSE,2025
+10.1039/d5sm00411j,Royal Society of Chemistry (RSC),Soft Matter,hybrid,FALSE,2025
 10.1042/bst20200679,Portland Press,Biochemical Society Transactions,closed,TRUE,2021
 10.1044/2022_jslhr-22-00051,American Speech Language Hearing Association,Journal of Speech Language and Hearing Research,closed,FALSE,2022
 10.1044/2022_jslhr-22-00374,American Speech Language Hearing Association,Journal of Speech Language and Hearing Research,green,FALSE,2023
 10.1044/2023_ajslp-23-00226,American Speech Language Hearing Association,American Journal of Speech-Language Pathology,hybrid,FALSE,2023
 10.1049/2023/8858919,Wiley,IET Electrical Systems in Transportation,gold,TRUE,2023
+10.1049/icp.2023.1404,Wiley,IET Conference Proceedings,closed,FALSE,2023
+10.1049/icp.2024.0469,Wiley,IET Conference Proceedings,green,FALSE,2024
+10.1049/icp.2024.0825,Wiley,IET Conference Proceedings,closed,FALSE,2024
+10.1049/icp.2024.0833,Wiley,IET Conference Proceedings,closed,FALSE,2024
+10.1049/icp.2024.2229,Wiley,IET Conference Proceedings,closed,FALSE,2024
+10.1049/icp.2024.2232,Wiley,IET Conference Proceedings,closed,FALSE,2024
 10.1049/rpg2.12190,Wiley,IET Renewable Power Generation,gold,TRUE,2021
 10.1049/rpg2.12739,Wiley,IET Renewable Power Generation,gold,TRUE,2023
 10.1051/e3sconf/202344003025,EDP Sciences,E3S Web of Conferences,gold,FALSE,2023
 10.1051/ro/2023103,EDP Sciences,RAIRO - Operations Research,hybrid,FALSE,2023
-10.1055/a-1494-3513,Thieme,Planta Medica,closed,FALSE,2021
+10.1055/a-1494-3513,Thieme,Planta Medica,green,FALSE,2021
 10.1055/s-0043-1774019,Thieme,Planta Medica,closed,FALSE,2023
 10.1057/s41267-022-00594-8,SpringerNature,Journal of International Business Studies,bronze,FALSE,2023
 10.1057/s41287-022-00571-9,SpringerNature,The European Journal of Development Research,bronze,TRUE,2022
@@ -1428,46 +1507,51 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1080/00131911.2023.2249356,Taylor & Francis,Educational Review,closed,TRUE,2023
 10.1080/00140139.2024.2333396,Taylor & Francis,Ergonomics,hybrid,TRUE,2024
 10.1080/00207411.2025.2472433,Taylor & Francis,International Journal of Mental Health,hybrid,TRUE,2025
-10.1080/00207543.2020.1868597,Taylor & Francis,International Journal of Production Research,green,TRUE,2021
+10.1080/00207543.2020.1868597,Taylor & Francis,International Journal of Production Research,closed,TRUE,2021
 10.1080/00207543.2021.2010979,Taylor & Francis,International Journal of Production Research,green,FALSE,2022
 10.1080/00207543.2021.2012613,Taylor & Francis,International Journal of Production Research,closed,FALSE,2021
-10.1080/00207543.2022.2118886,Taylor & Francis,International Journal of Production Research,green,TRUE,2022
-10.1080/00207721.2023.2210568,Taylor & Francis,International Journal of Systems Science,hybrid,FALSE,2023
+10.1080/00207543.2022.2118886,Taylor & Francis,International Journal of Production Research,closed,TRUE,2022
+10.1080/00207721.2023.2210568,Taylor & Francis,International Journal of Systems Science,bronze,FALSE,2023
 10.1080/00220388.2025.2456906,Taylor & Francis,The Journal of Development Studies,hybrid,TRUE,2025
 10.1080/00221686.2021.2004250,Taylor & Francis,Journal of Hydraulic Research,closed,FALSE,2022
 10.1080/00221686.2022.2067084,Taylor & Francis,Journal of Hydraulic Research,closed,FALSE,2022
 10.1080/00313831.2022.2148271,Taylor & Francis,Scandinavian Journal of Educational Research,hybrid,FALSE,2022
-10.1080/00313831.2025.2459905,Taylor & Francis,Scandinavian Journal of Educational Research,hybrid,FALSE,2025
-10.1080/00844276.2023.2222596,Taylor & Francis,Yorkshire Archaeological Journal,hybrid,FALSE,2023
+10.1080/00313831.2025.2459905,Taylor & Francis,Scandinavian Journal of Educational Research,closed,FALSE,2025
+10.1080/00438243.2025.2488739,Taylor & Francis,World Archaeology,closed,FALSE,2024
+10.1080/00844276.2023.2222596,Taylor & Francis,Yorkshire Archaeological Journal,closed,FALSE,2023
+10.1080/00844276.2025.2508576,Taylor & Francis,Yorkshire Archaeological Journal,closed,FALSE,2025
 10.1080/00914037.2024.2342908,Taylor & Francis,International Journal of Polymeric Materials,closed,FALSE,2024
 10.1080/00914037.2024.2383413,Taylor & Francis,International Journal of Polymeric Materials,closed,FALSE,2024
+10.1080/01402390.2025.2487828,Taylor & Francis,Journal of Strategic Studies,closed,TRUE,2025
 10.1080/01446193.2022.2132523,Taylor & Francis,Construction Management and Economics,hybrid,TRUE,2022
-10.1080/01559982.2024.2352671,Taylor & Francis,Accounting Forum,hybrid,FALSE,2024
+10.1080/01494929.2025.2517781,Taylor & Francis,Marriage & Family Review,closed,TRUE,2025
 10.1080/01605682.2020.1860661,Taylor & Francis,Journal of the Operational Research Society,closed,FALSE,2021
 10.1080/01605682.2021.1892466,Taylor & Francis,Journal of the Operational Research Society,hybrid,TRUE,2021
-10.1080/01605682.2021.1907239,Taylor & Francis,Journal of the Operational Research Society,green,FALSE,2021
+10.1080/01605682.2021.1907239,Taylor & Francis,Journal of the Operational Research Society,closed,FALSE,2021
 10.1080/01605682.2022.2096498,Taylor & Francis,Journal of the Operational Research Society,closed,FALSE,2022
-10.1080/02640414.2025.2459005,Taylor & Francis,Journal of Sports Sciences,hybrid,FALSE,2025
+10.1080/02640414.2025.2459005,Taylor & Francis,Journal of Sports Sciences,closed,FALSE,2025
 10.1080/02642069.2022.2059074,Taylor & Francis,Service Industries Journal,hybrid,TRUE,2022
 10.1080/02646811.2024.2345012,Taylor & Francis,Journal of Energy & Natural Resources Law,hybrid,FALSE,2024
 10.1080/0267257x.2021.2005665,Taylor & Francis,Journal of Marketing Management,closed,FALSE,2021
 10.1080/02703181.2023.2220738,Taylor & Francis,Physical & Occupational Therapy In Geriatrics,hybrid,TRUE,2023
+10.1080/02713683.2025.2523912,Taylor & Francis,Current Eye Research,closed,TRUE,2025
 10.1080/02726351.2021.1942342,Taylor & Francis,Particulate Science And Technology,hybrid,TRUE,2021
 10.1080/02726351.2023.2230924,Taylor & Francis,Particulate Science And Technology,closed,FALSE,2023
 10.1080/03014460.2022.2091795,Taylor & Francis,Annals of Human Biology,hybrid,TRUE,2022
 10.1080/03056244.2022.2083316,Review of African Political Economy,Review of African Political Economy,closed,TRUE,2022
-10.1080/03056244.2023.2293419,Review of African Political Economy,Review of African Political Economy,green,TRUE,2023
-10.1080/03075079.2023.2180629,Taylor & Francis,Studies in Higher Education,green,FALSE,2023
+10.1080/03056244.2023.2293419,Review of African Political Economy,Review of African Political Economy,hybrid,TRUE,2023
+10.1080/03075079.2023.2180629,Taylor & Francis,Studies in Higher Education,closed,FALSE,2023
 10.1080/03075079.2024.2357148,Taylor & Francis,Studies in Higher Education,hybrid,TRUE,2024
-10.1080/03075079.2024.2418308,Taylor & Francis,Studies in Higher Education,hybrid,FALSE,2024
-10.1080/03081060.2023.2198517,Taylor & Francis,Transportation Planning and Technology,hybrid,TRUE,2023
+10.1080/03075079.2024.2418308,Taylor & Francis,Studies in Higher Education,green,FALSE,2024
+10.1080/03081060.2023.2198517,Taylor & Francis,Transportation Planning and Technology,closed,TRUE,2023
 10.1080/03602532.2021.1917597,Taylor & Francis,Drug Metabolism Reviews,hybrid,TRUE,2021
 10.1080/03610918.2021.1953073,Taylor & Francis,Communications in Statistics - Simulation and Computation,closed,FALSE,2021
 10.1080/03906701.2023.2242648,Taylor & Francis,International Review of Sociology,closed,FALSE,2023
 10.1080/07317115.2022.2152515,Taylor & Francis,Clinical Gerontologist,hybrid,FALSE,2022
 10.1080/07360932.2023.2208297,Taylor & Francis,Forum for Social Economics,closed,FALSE,2023
-10.1080/08164622.2024.2304060,Taylor & Francis,Clinical and Experimental Optometry,hybrid,TRUE,2024
-10.1080/08351813.2024.2305042,Taylor & Francis,Research on Language and Social Interaction,hybrid,FALSE,2024
+10.1080/08164622.2024.2304060,Taylor & Francis,Clinical and Experimental Optometry,closed,TRUE,2024
+10.1080/08164622.2025.2530533,Taylor & Francis,Clinical and Experimental Optometry,closed,TRUE,2025
+10.1080/08351813.2024.2305042,Taylor & Francis,Research on Language and Social Interaction,closed,FALSE,2024
 10.1080/08820538.2023.2233601,Taylor & Francis,Seminars in Ophthalmology,closed,FALSE,2023
 10.1080/08905436.2024.2345775,Taylor & Francis,Food Biotechnology,closed,FALSE,2024
 10.1080/08959420.2021.1973341,Taylor & Francis,Journal of Aging & Social Policy,hybrid,TRUE,2021
@@ -1475,11 +1559,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1080/08989621.2021.1969233,Taylor & Francis,Accountability in Research,hybrid,FALSE,2021
 10.1080/09205071.2023.2220145,Taylor & Francis,Journal of Electromagnetic Waves and Applications,closed,FALSE,2023
 10.1080/09276440.2023.2190680,Taylor & Francis,Composite Interfaces,closed,FALSE,2023
-10.1080/09537287.2020.1834132,Taylor & Francis,Production Planning & Control,green,FALSE,2021
+10.1080/09537287.2020.1834132,Taylor & Francis,Production Planning & Control,closed,FALSE,2021
 10.1080/09537287.2021.1882688,Taylor & Francis,Production Planning & Control,green,FALSE,2021
 10.1080/09537287.2021.1882689,Taylor & Francis,Production Planning & Control,green,TRUE,2021
 10.1080/09537287.2022.2083996,Taylor & Francis,Production Planning & Control,closed,FALSE,2022
 10.1080/09537325.2021.1979205,Taylor & Francis,Technology Analysis and Strategic Management,closed,TRUE,2021
+10.1080/09581596.2025.2520406,Taylor & Francis,Critical Public Health,gold,TRUE,2025
 10.1080/09585192.2025.2464667,Taylor & Francis,The International Journal of Human Resource Management,closed,FALSE,2025
 10.1080/09638199.2024.2314209,Taylor & Francis,Journal of International Trade & Economic Development,closed,FALSE,2024
 10.1080/09638288.2023.2216027,Taylor & Francis,Disability and Rehabilitation,closed,FALSE,2023
@@ -1487,57 +1572,63 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1080/09645292.2021.1974344,Taylor & Francis,Education Economics,hybrid,FALSE,2021
 10.1080/09669582.2024.2368608,Taylor & Francis,Journal of Sustainable Tourism,hybrid,TRUE,2024
 10.1080/09718524.2022.2084493,Taylor & Francis,Gender Technology and Development,closed,FALSE,2022
-10.1080/10376178.2022.2107036,Taylor & Francis,Contemporary Nurse,green,FALSE,2022
+10.1080/10376178.2022.2107036,Taylor & Francis,Contemporary Nurse,closed,FALSE,2022
+10.1080/10376178.2025.2519178,Taylor & Francis,Contemporary Nurse,closed,FALSE,2025
 10.1080/10580530.2022.2086327,Taylor & Francis,Information Systems Management,green,FALSE,2022
 10.1080/10580530.2022.2140370,Taylor & Francis,Information Systems Management,closed,FALSE,2022
 10.1080/10599231.2023.2220603,Taylor & Francis,Journal of Asia-Pacific Business,closed,FALSE,2023
 10.1080/1064119x.2021.1906366,Taylor & Francis,Marine Georesources and Geotechnology,closed,FALSE,2021
-10.1080/1064119x.2024.2407844,Taylor & Francis,Marine Georesources and Geotechnology,hybrid,TRUE,2024
+10.1080/1064119x.2024.2407844,Taylor & Francis,Marine Georesources and Geotechnology,closed,TRUE,2024
 10.1080/1070289x.2023.2223938,Taylor & Francis,Identities,gold,FALSE,2023
+10.1080/10705422.2025.2507702,Taylor & Francis,Journal of Community Practice,hybrid,FALSE,2025
 10.1080/10803548.2021.2011656,Taylor & Francis,International Journal of Occupational Safety and Ergonomics,closed,FALSE,2021
 10.1080/1091367x.2021.1874955,Taylor & Francis,Measurement in Physical Education and Exercise Science,hybrid,FALSE,2021
 10.1080/10999922.2022.2144017,Taylor & Francis,Public Integrity,hybrid,FALSE,2022
 10.1080/12460125.2023.2263687,Taylor & Francis,Journal of Decision Systems,hybrid,FALSE,2023
 10.1080/1331677x.2022.2147978,Taylor & Francis,Economic Research-Ekonomska Istraživanja,hybrid,FALSE,2022
 10.1080/1331677x.2022.2164324,Taylor & Francis,Economic Research-Ekonomska Istraživanja,hybrid,TRUE,2023
-10.1080/1351847x.2024.2323454,Taylor & Francis,European Journal of Finance,closed,TRUE,2024
+10.1080/1351847x.2024.2323454,Taylor & Francis,European Journal of Finance,green,TRUE,2024
 10.1080/13527258.2021.1941198,Taylor & Francis,International Journal of Heritage Studies,hybrid,TRUE,2021
 10.1080/13530194.2021.1872210,Taylor & Francis,British Journal of Middle Eastern Studies,closed,TRUE,2021
 10.1080/13576275.2021.1929897,Taylor & Francis,Mortality,hybrid,TRUE,2021
 10.1080/13576275.2023.2198694,Taylor & Francis,Mortality,hybrid,FALSE,2023
 10.1080/1359432x.2021.1904898,Taylor & Francis,European Journal of Work and Organizational Psychology,hybrid,FALSE,2021
-10.1080/13607863.2021.1969640,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2021
+10.1080/13607863.2021.1969640,Taylor & Francis,Aging & Mental Health,bronze,FALSE,2021
 10.1080/13607863.2022.2098920,Taylor & Francis,Aging & Mental Health,green,FALSE,2022
 10.1080/13607863.2022.2163375,Taylor & Francis,Aging & Mental Health,hybrid,TRUE,2023
 10.1080/13607863.2023.2177254,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2023
 10.1080/13607863.2023.2196246,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2023
 10.1080/13607863.2023.2286618,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2023
 10.1080/13607863.2023.2299967,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2024
-10.1080/13607863.2024.2301725,Taylor & Francis,Aging & Mental Health,green,FALSE,2024
+10.1080/13607863.2024.2301725,Taylor & Francis,Aging & Mental Health,closed,FALSE,2024
 10.1080/13607863.2024.2383367,Taylor & Francis,Aging & Mental Health,hybrid,FALSE,2024
 10.1080/13678868.2022.2108992,Taylor & Francis,Human Resource Development International,closed,TRUE,2022
 10.1080/13683500.2022.2047904,Taylor & Francis,Current Issues in Tourism,hybrid,TRUE,2022
 10.1080/13698249.2023.2255427,Taylor & Francis,Civil Wars,bronze,FALSE,2023
-10.1080/13698249.2023.2257057,Taylor & Francis,Civil Wars,hybrid,FALSE,2023
-10.1080/13698249.2023.2312666,Taylor & Francis,Civil Wars,hybrid,FALSE,2023
+10.1080/13698249.2023.2257057,Taylor & Francis,Civil Wars,closed,FALSE,2023
+10.1080/13698249.2023.2312666,Taylor & Francis,Civil Wars,closed,FALSE,2023
 10.1080/13698249.2024.2384759,Taylor & Francis,Civil Wars,closed,FALSE,2024
 10.1080/13698249.2024.2437858,Taylor & Francis,Civil Wars,closed,FALSE,2024
 10.1080/14623943.2025.2459439,Taylor & Francis,Reflective Practice,closed,TRUE,2025
-10.1080/14635240.2025.2489384,Taylor & Francis,International Journal of Health Promotion and Education,hybrid,TRUE,2025
+10.1080/14635240.2025.2489384,Taylor & Francis,International Journal of Health Promotion and Education,closed,TRUE,2025
 10.1080/14662043.2022.2088130,Taylor & Francis,Commonwealth and Comparative Politics,closed,TRUE,2022
-10.1080/14662043.2024.2308948,Taylor & Francis,Commonwealth and Comparative Politics,hybrid,TRUE,2024
+10.1080/14662043.2024.2308948,Taylor & Francis,Commonwealth and Comparative Politics,closed,TRUE,2024
 10.1080/14662043.2024.2316329,Taylor & Francis,Commonwealth and Comparative Politics,closed,TRUE,2024
+10.1080/14662043.2025.2515711,Taylor & Francis,Commonwealth and Comparative Politics,hybrid,TRUE,2025
+10.1080/14662043.2025.2521914,Taylor & Francis,Commonwealth and Comparative Politics,hybrid,FALSE,2025
+10.1080/14662043.2025.2521918,Taylor & Francis,Commonwealth and Comparative Politics,closed,TRUE,2025
 10.1080/14697688.2024.2339374,Taylor & Francis,Quantitative Finance,closed,FALSE,2024
-10.1080/14703297.2025.2453104,Taylor & Francis,Innovations in Education and Teaching International,hybrid,TRUE,2025
+10.1080/14703297.2025.2453104,Taylor & Francis,Innovations in Education and Teaching International,closed,TRUE,2025
 10.1080/14736489.2025.2454792,Taylor & Francis,India Review,hybrid,TRUE,2025
 10.1080/14756366.2021.1988944,Taylor & Francis,Journal of Enzyme Inhibition and Medicinal Chemistry,gold,FALSE,2021
 10.1080/14756366.2021.2024528,Taylor & Francis,Journal of Enzyme Inhibition and Medicinal Chemistry,gold,FALSE,2022
+10.1080/14756366.2025.2520612,Taylor & Francis,Journal of Enzyme Inhibition and Medicinal Chemistry,gold,FALSE,2025
 10.1080/14767333.2022.2033037,Taylor & Francis,Action Learning Research and Practice,bronze,TRUE,2022
 10.1080/14767333.2022.2084870,Taylor & Francis,Action Learning Research and Practice,closed,TRUE,2022
 10.1080/14767333.2023.2171528,Taylor & Francis,Action Learning Research and Practice,closed,TRUE,2023
 10.1080/14767333.2024.2359231,Taylor & Francis,Action Learning Research and Practice,closed,TRUE,2024
 10.1080/14767333.2024.2409497,Taylor & Francis,Action Learning Research and Practice,closed,TRUE,2024
-10.1080/14767333.2025.2458900,Taylor & Francis,Action Learning Research and Practice,hybrid,TRUE,2025
+10.1080/14767333.2025.2458900,Taylor & Francis,Action Learning Research and Practice,closed,TRUE,2025
 10.1080/14780038.2021.1889675,Taylor & Francis,Cultural and Social History,closed,FALSE,2021
 10.1080/14782804.2025.2473582,Taylor & Francis,Journal of Contemporary European Studies,closed,FALSE,2025
 10.1080/14786419.2021.1933974,Taylor & Francis,Natural Product Research,closed,FALSE,2021
@@ -1545,20 +1636,22 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1080/15376494.2023.2280997,Taylor & Francis,Mechanics of Advanced Materials and Structures,closed,FALSE,2023
 10.1080/15387216.2021.2023361,Taylor & Francis,Eurasian Geography and Economics,closed,TRUE,2022
 10.1080/1540496x.2022.2135372,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2022
-10.1080/1540496x.2023.2210716,Taylor & Francis,Emerging Markets Finance and Trade,hybrid,TRUE,2023
+10.1080/1540496x.2023.2210716,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2023
 10.1080/1540496x.2023.2223934,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2023
-10.1080/1540496x.2023.2228466,Taylor & Francis,Emerging Markets Finance and Trade,hybrid,TRUE,2023
-10.1080/1540496x.2023.2284300,Taylor & Francis,Emerging Markets Finance and Trade,hybrid,TRUE,2023
+10.1080/1540496x.2023.2228466,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2023
+10.1080/1540496x.2023.2284300,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2023
+10.1080/1540496x.2025.2535709,Taylor & Francis,Emerging Markets Finance and Trade,closed,TRUE,2025
 10.1080/1547691x.2025.2462106,Taylor & Francis,Journal of Immunotoxicology,gold,FALSE,2025
 10.1080/15567249.2022.2094035,Taylor & Francis,Energy Sources Part B Economics Planning and Policy,closed,FALSE,2022
 10.1080/16078055.2021.1927165,Taylor & Francis,World Leisure Journal,hybrid,TRUE,2021
 10.1080/16549716.2025.2457808,Taylor & Francis,Global Health Action,gold,FALSE,2025
-10.1080/17435390.2024.2314464,Taylor & Francis,Nanotoxicology,hybrid,TRUE,2024
-10.1080/17452759.2021.1881702,Taylor & Francis,Virtual and Physical Prototyping,hybrid,TRUE,2021
-10.1080/17453054.2025.2462060,Taylor & Francis,Journal of Visual Communication in Medicine,hybrid,FALSE,2025
+10.1080/17435390.2024.2314464,Taylor & Francis,Nanotoxicology,closed,TRUE,2024
+10.1080/17452759.2021.1881702,Taylor & Francis,Virtual and Physical Prototyping,closed,TRUE,2021
+10.1080/17453054.2025.2462060,Taylor & Francis,Journal of Visual Communication in Medicine,hybrid,FALSE,2024
 10.1080/17460441.2024.2409660,Taylor & Francis,Expert Opinion on Drug Discovery,closed,TRUE,2024
 10.1080/17460441.2025.2473905,Taylor & Francis,Expert Opinion on Drug Discovery,closed,TRUE,2025
 10.1080/17477778.2024.2354250,Taylor & Francis,Journal of Simulation,hybrid,FALSE,2024
+10.1080/17483107.2025.2501079,Taylor & Francis,Disability and Rehabilitation Assistive Technology,hybrid,TRUE,2025
 10.1080/17486025.2024.2319612,Taylor & Francis,Geomechanics and Geoengineering,closed,FALSE,2024
 10.1080/17509653.2022.2098543,Taylor & Francis,International Journal of Management Science and Engineering Management,closed,FALSE,2022
 10.1080/19388160.2022.2064381,Taylor & Francis,Journal of China Tourism Research,closed,FALSE,2022
@@ -1572,17 +1665,19 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1080/21645515.2022.2137338,Taylor & Francis,Human Vaccines & Immunotherapeutics,gold,TRUE,2022
 10.1080/21679169.2024.2437702,Taylor & Francis,European Journal of Physiotherapy,closed,FALSE,2024
 10.1080/21681163.2025.2485095,Taylor & Francis,Computer Methods in Biomechanics and Biomedical Engineering Imaging & Visualization,gold,TRUE,2025
-10.1080/22000259.2024.2359368,Taylor & Francis,Journal of Clinical Practice in Speech-Language Pathology,hybrid,FALSE,2024
-10.1080/23270012.2025.2454674,Taylor & Francis,Journal of Management Analytics,hybrid,TRUE,2025
+10.1080/22000259.2024.2359368,Taylor & Francis,Journal of Clinical Practice in Speech-Language Pathology,green,FALSE,2024
+10.1080/23270012.2025.2454674,Taylor & Francis,Journal of Management Analytics,closed,TRUE,2025
+10.1080/23270012.2025.2506748,Taylor & Francis,Journal of Management Analytics,closed,FALSE,2025
 10.1080/23311908.2024.2416757,Taylor & Francis,Cogent Psychology,gold,FALSE,2024
 10.1080/23322039.2024.2433023,Taylor & Francis,Cogent Economics & Finance,gold,FALSE,2024
-10.1080/24725854.2022.2151672,Taylor & Francis,IISE Transactions,hybrid,FALSE,2023
+10.1080/23743603.2025.2507434,Taylor & Francis,Comprehensive Results in Social Psychology,closed,FALSE,2025
+10.1080/24725854.2022.2151672,Taylor & Francis,IISE Transactions,bronze,FALSE,2023
 10.1080/25741292.2023.2199960,Taylor & Francis,Policy Design and Practice,gold,TRUE,2023
 10.1080/87567555.2022.2156450,Taylor & Francis,College Teaching,hybrid,FALSE,2022
-10.1088/1361-6501/ad092d,IOP Publishing,Measurement Science and Technology,closed,FALSE,2023
+10.1088/1361-6501/ad092d,IOP Publishing,Measurement Science and Technology,hybrid,FALSE,2023
 10.1088/1361-6501/ad6b3e,IOP Publishing,Measurement Science and Technology,closed,FALSE,2024
-10.1088/1361-6528/ac3f55,IOP Publishing,Nanotechnology,closed,FALSE,2022
-10.1088/1361-665x/ad389d,IOP Publishing,Smart Materials and Structures,closed,FALSE,2024
+10.1088/1361-6528/ac3f55,IOP Publishing,Nanotechnology,green,FALSE,2022
+10.1088/1361-665x/ad389d,IOP Publishing,Smart Materials and Structures,hybrid,FALSE,2024
 10.1088/1402-4896/ad96f1,IOP Publishing,Physica Scripta,closed,TRUE,2024
 10.1088/1742-6596/1793/1/012055,IOP Publishing,Journal of Physics Conference Series,gold,FALSE,2021
 10.1088/1742-6596/1793/1/012068,IOP Publishing,Journal of Physics Conference Series,gold,FALSE,2021
@@ -1590,6 +1685,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1088/1742-6596/2667/1/012009,IOP Publishing,Journal of Physics Conference Series,gold,FALSE,2023
 10.1088/1742-6596/2912/1/011001,IOP Publishing,Journal of Physics Conference Series,gold,FALSE,2024
 10.1088/1742-6596/2912/1/012001,IOP Publishing,Journal of Physics Conference Series,gold,TRUE,2024
+10.1088/1742-6596/3027/1/012084,IOP Publishing,Journal of Physics Conference Series,gold,TRUE,2025
 10.1088/1751-8121/abf1da,IOP Publishing,Journal of Physics A: Mathematical and Theoretical,green,TRUE,2021
 10.1088/1751-8121/ac9dcf,IOP Publishing,Journal of Physics A: Mathematical and Theoretical,green,TRUE,2022
 10.1088/1751-8121/acc4f8,IOP Publishing,Journal of Physics A: Mathematical and Theoretical,bronze,TRUE,2023
@@ -1600,19 +1696,22 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1088/2053-1591/ad13cd,IOP Publishing,Materials Research Express,gold,FALSE,2023
 10.1088/2631-8695/acbfa4,IOP Publishing,Engineering Research Express,bronze,FALSE,2023
 10.1088/2631-8695/ad3148,IOP Publishing,Engineering Research Express,hybrid,FALSE,2024
+10.1088/2631-8695/adcffa,IOP Publishing,Engineering Research Express,closed,FALSE,2025
 10.1089/ast.2020.2278,Mary Ann Liebert,Astrobiology,closed,TRUE,2021
 10.1089/aut.2023.0049,Mary Ann Liebert,Autism in Adulthood,green,FALSE,2024
 10.1093/ageing/afab029.01,Oxford University Press,Age and Ageing,bronze,FALSE,2021
-10.1093/ageing/afab053,Oxford University Press,Age and Ageing,hybrid,FALSE,2021
+10.1093/ageing/afab053,Oxford University Press,Age and Ageing,green,FALSE,2021
 10.1093/ageing/afab118.03,Oxford University Press,Age and Ageing,bronze,FALSE,2021
-10.1093/ageing/afab130,Oxford University Press,Age and Ageing,hybrid,FALSE,2021
+10.1093/ageing/afab130,Oxford University Press,Age and Ageing,bronze,FALSE,2021
 10.1093/ageing/afac035.825,Oxford University Press,Age and Ageing,bronze,FALSE,2022
+10.1093/ageing/afac036.768,Oxford University Press,Age and Ageing,bronze,FALSE,2022
+10.1093/ageing/afac037.696,Oxford University Press,Age and Ageing,bronze,FALSE,2022
 10.1093/ageing/afac089,Oxford University Press,Age and Ageing,hybrid,TRUE,2022
-10.1093/ageing/afad045,Oxford University Press,Age and Ageing,hybrid,TRUE,2023
+10.1093/ageing/afad045,Oxford University Press,Age and Ageing,bronze,TRUE,2023
 10.1093/ageing/afad104.085,Oxford University Press,Age and Ageing,closed,FALSE,2023
 10.1093/ageing/afad136,Oxford University Press,Age and Ageing,hybrid,TRUE,2023
 10.1093/ageing/afae109,Oxford University Press,Age and Ageing,hybrid,TRUE,2024
-10.1093/ageing/afae181,Oxford University Press,Age and Ageing,green,FALSE,2024
+10.1093/ageing/afae181,Oxford University Press,Age and Ageing,closed,FALSE,2024
 10.1093/ageing/afae227,Oxford University Press,Age and Ageing,hybrid,FALSE,2024
 10.1093/ageing/afae277.119,Oxford University Press,Age and Ageing,closed,FALSE,2025
 10.1093/bib/bbaf088,Oxford University Press,Briefings in Bioinformatics,gold,FALSE,2025
@@ -1620,9 +1719,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1093/bjd/ljad006,Oxford University Press,British Journal of Dermatology,hybrid,TRUE,2023
 10.1093/bjd/ljad174.021,Oxford University Press,British Journal of Dermatology,closed,FALSE,2023
 10.1093/bjd/ljad174.036,Oxford University Press,British Journal of Dermatology,closed,FALSE,2023
+10.1093/bjd/ljaf085.224,Oxford University Press,British Journal of Dermatology,bronze,FALSE,2025
 10.1093/bjr/tqad045,Oxford University Press,British Journal of Radiology,hybrid,TRUE,2023
 10.1093/bjro/tzae026,Oxford University Press,BJR|Open,gold,FALSE,2024
 10.1093/bjs/znac242.030,Oxford University Press,British Journal of Surgery,closed,FALSE,2022
+10.1093/bjs/znac248.232,Oxford University Press,British Journal of Surgery,bronze,FALSE,2022
 10.1093/bjs/znaf042.053,Oxford University Press,British Journal of Surgery,closed,FALSE,2025
 10.1093/bjs/znaf042.057,Oxford University Press,British Journal of Surgery,closed,FALSE,2025
 10.1093/bjs/znaf042.058,Oxford University Press,British Journal of Surgery,closed,FALSE,2025
@@ -1660,7 +1761,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1093/ijpp/riac042,Oxford University Press,International Journal of Pharmacy Practice,closed,FALSE,2022
 10.1093/ijpp/riac089.065,Oxford University Press,International Journal of Pharmacy Practice,bronze,FALSE,2022
 10.1093/ijpp/riad001,Oxford University Press,International Journal of Pharmacy Practice,hybrid,FALSE,2023
-10.1093/ijpp/riad016,Oxford University Press,International Journal of Pharmacy Practice,hybrid,TRUE,2023
+10.1093/ijpp/riad016,Oxford University Press,International Journal of Pharmacy Practice,bronze,TRUE,2023
 10.1093/ijpp/riad021.026,Oxford University Press,International Journal of Pharmacy Practice,bronze,FALSE,2023
 10.1093/ijpp/riad021.027,Oxford University Press,International Journal of Pharmacy Practice,bronze,FALSE,2023
 10.1093/ijpp/riad021.031,Oxford University Press,International Journal of Pharmacy Practice,bronze,FALSE,2023
@@ -1673,8 +1774,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1093/ijpp/riae006,Oxford University Press,International Journal of Pharmacy Practice,hybrid,TRUE,2024
 10.1093/ijpp/riae013.007,Oxford University Press,International Journal of Pharmacy Practice,closed,FALSE,2024
 10.1093/ijpp/riae013.028,Oxford University Press,International Journal of Pharmacy Practice,closed,FALSE,2024
-10.1093/ijpp/riae058.010,Oxford University Press,International Journal of Pharmacy Practice,hybrid,FALSE,2024
-10.1093/ijpp/riae058.041,Oxford University Press,International Journal of Pharmacy Practice,hybrid,FALSE,2024
+10.1093/ijpp/riae058.010,Oxford University Press,International Journal of Pharmacy Practice,closed,FALSE,2024
+10.1093/ijpp/riae058.041,Oxford University Press,International Journal of Pharmacy Practice,closed,FALSE,2024
 10.1093/imaman/dpad026,Oxford University Press,IMA Journal of Management Mathematics,hybrid,TRUE,2023
 10.1093/intqhc/mzad072,Oxford University Press,International Journal for Quality in Health Care,hybrid,FALSE,2023
 10.1093/isq/sqaf004,Oxford University Press,International Studies Quarterly,hybrid,FALSE,2024
@@ -1690,24 +1791,24 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1093/nargab/lqab070,Oxford University Press,NAR Genomics and Bioinformatics,gold,FALSE,2021
 10.1093/occmed/kqae023.0582,Oxford University Press,Occupational Medicine,closed,FALSE,2024
 10.1093/oep/gpac045,Oxford University Press,Oxford Economic Papers,hybrid,FALSE,2022
-10.1093/oep/gpad018,Oxford University Press,Oxford Economic Papers,closed,TRUE,2023
-10.1093/postmj/qgad095,Oxford University Press,Postgraduate Medical Journal,hybrid,FALSE,2023
+10.1093/oep/gpad018,Oxford University Press,Oxford Economic Papers,green,TRUE,2023
+10.1093/postmj/qgad095,Oxford University Press,Postgraduate Medical Journal,green,FALSE,2023
 10.1093/rapstu/raad013,Oxford University Press,The Review of Asset Pricing Studies,hybrid,TRUE,2023
 10.1093/rheumatology/keac133.003,Oxford University Press,Rheumatology,bronze,FALSE,2022
 10.1093/rheumatology/keac133.115,Oxford University Press,Rheumatology,bronze,FALSE,2022
 10.1093/schbul/sbad039,Oxford University Press,Schizophrenia Bulletin,green,FALSE,2023
 10.1093/toxres/tfae179,Oxford University Press,Toxicology Research,closed,FALSE,2024
 10.1097/01.tp.0001066408.25156.d3,Wolters Kluwer,Transplantation,closed,FALSE,2024
-10.1097/aud.0000000000001369,Wolters Kluwer,Ear & Hearing,closed,FALSE,2023
+10.1097/aud.0000000000001369,Wolters Kluwer,Ear & Hearing,green,FALSE,2023
 10.1097/cnq.0000000000000521,Wolters Kluwer,Critical Care Nursing Quarterly,closed,TRUE,2024
 10.1097/gh9.0000000000000459,Wolters Kluwer,International Journal of Surgery Global Health,hybrid,FALSE,2024
 10.1097/icl.0000000000001031,Wolters Kluwer,Eye & Contact Lens Science & Clinical Practice,hybrid,FALSE,2023
 10.1097/njh.0000000000000823,Wolters Kluwer,Journal of Hospice and Palliative Nursing,closed,FALSE,2021
 10.1097/opx.0000000000001722,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2021
 10.1097/opx.0000000000001829,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2021
-10.1097/opx.0000000000002094,Wolters Kluwer,Optometry and Vision Science,green,FALSE,2024
-10.1097/opx.0000000000002137,Wolters Kluwer,Optometry and Vision Science,bronze,FALSE,2024
-10.1097/opx.0000000000002148,Wolters Kluwer,Optometry and Vision Science,bronze,FALSE,2024
+10.1097/opx.0000000000002094,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
+10.1097/opx.0000000000002137,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
+10.1097/opx.0000000000002148,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
 10.1097/opx.0000000000002165,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
 10.1097/opx.0000000000002173,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
 10.1097/opx.0000000000002207,Wolters Kluwer,Optometry and Vision Science,closed,FALSE,2024
@@ -1719,25 +1820,27 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1098/rsos.241090,The Royal Society,Royal Society Open Science,gold,FALSE,2025
 10.1098/rstb.2022.0178,The Royal Society,Philosophical Transactions of the Royal Society B Biological Sciences,hybrid,FALSE,2023
 10.1098/rstb.2022.0179,The Royal Society,Philosophical Transactions of the Royal Society B Biological Sciences,hybrid,TRUE,2023
-10.1099/ijsem.0.004922,Microbiology Society,International Journal of Systematic and Evolutionary Microbiology,green,TRUE,2021
+10.1099/ijsem.0.004922,Microbiology Society,International Journal of Systematic and Evolutionary Microbiology,hybrid,TRUE,2021
 10.1099/mgen.0.000437,Microbiology Society,Microbial Genomics,gold,TRUE,2021
 10.1099/mgen.0.000477,Microbiology Society,Microbial Genomics,gold,FALSE,2021
 10.1099/mgen.0.000722,Microbiology Society,Microbial Genomics,gold,FALSE,2021
 10.1099/mgen.0.001251,Microbiology Society,Microbial Genomics,gold,FALSE,2024
 10.1107/s2059798321011621,Wiley,"Acta Crystallographica Section D, Structural Biology",hybrid,FALSE,2022
+10.1108/acmm-02-2025-3181,Emerald,Anti-Corrosion Methods and Materials,closed,FALSE,2025
 10.1108/bfj-03-2021-0221,Emerald,British Food Journal,green,TRUE,2021
-10.1108/bfj-07-2021-0823,Emerald,British Food Journal,closed,FALSE,2022
+10.1108/bfj-07-2021-0823,Emerald,British Food Journal,green,FALSE,2022
 10.1108/bfj-08-2021-0888,Emerald,British Food Journal,closed,TRUE,2022
 10.1108/bij-07-2022-0460,Emerald,Benchmarking An International Journal,green,FALSE,2023
 10.1108/bij-11-2021-0662,Emerald,Benchmarking An International Journal,closed,TRUE,2023
 10.1108/bij-11-2022-0702,Emerald,Benchmarking An International Journal,closed,TRUE,2023
-10.1108/bij-11-2022-0708,Emerald,Benchmarking An International Journal,closed,TRUE,2023
+10.1108/bij-11-2022-0708,Emerald,Benchmarking An International Journal,green,TRUE,2023
 10.1108/cemj-12-2021-0159,Emerald,Central European Management Journal,gold,FALSE,2024
 10.1108/cpoib-09-2024-0110,Emerald,Critical Perspectives on International Business,closed,FALSE,2024
 10.1108/dts-10-2022-0051,Emerald,Digital Transformation and Society,gold,FALSE,2023
 10.1108/ecam-01-2024-0033,Emerald,Engineering Construction & Architectural Management,closed,FALSE,2025
 10.1108/ejm-08-2024-0631,Emerald,European Journal of Marketing,closed,FALSE,2025
-10.1108/ijbm-07-2020-0395,Emerald,International Journal of Bank Marketing,closed,FALSE,2021
+10.1108/eor-13-2023-0022,Emerald,Emerald Open Research,gold,FALSE,2023
+10.1108/ijbm-07-2020-0395,Emerald,International Journal of Bank Marketing,green,FALSE,2021
 10.1108/ijchm-04-2021-0491,Emerald,International Journal of Contemporary Hospitality Management,closed,FALSE,2022
 10.1108/ijchm-05-2022-0572,Emerald,International Journal of Contemporary Hospitality Management,green,FALSE,2022
 10.1108/ijchm-07-2024-1023,Emerald,International Journal of Contemporary Hospitality Management,closed,TRUE,2025
@@ -1745,7 +1848,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1108/ijchm-10-2021-1290,Emerald,International Journal of Contemporary Hospitality Management,green,FALSE,2022
 10.1108/ijebr-02-2023-0165,Emerald,International Journal of Entrepreneurial Behaviour & Research,green,TRUE,2023
 10.1108/ijebr-09-2023-0927,Emerald,International Journal of Entrepreneurial Behaviour & Research,closed,TRUE,2025
-10.1108/ijebr-10-2021-0816,Emerald,International Journal of Entrepreneurial Behaviour & Research,green,TRUE,2022
+10.1108/ijebr-10-2021-0816,Emerald,International Journal of Entrepreneurial Behaviour & Research,closed,TRUE,2022
 10.1108/ijes-12-2021-0080,Emerald,International Journal of Emergency Services,green,TRUE,2022
 10.1108/ijesm-01-2024-0005,Emerald,International Journal of Energy Sector Management,closed,FALSE,2024
 10.1108/ijlma-01-2021-0015,Emerald,International Journal of Law and Management,closed,TRUE,2021
@@ -1759,15 +1862,17 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1108/ijlma-08-2022-0179,Emerald,International Journal of Law and Management,closed,FALSE,2022
 10.1108/ijlma-09-2023-0202,Emerald,International Journal of Law and Management,closed,FALSE,2023
 10.1108/ijm-06-2023-0318,Emerald,International Journal of Manpower,closed,FALSE,2024
+10.1108/ijppm-12-2024-0839,Emerald,International Journal of Productivity and Performance Management,closed,TRUE,2025
 10.1108/ijse-07-2023-0580,Emerald,International Journal of Social Economics,closed,FALSE,2024
 10.1108/ijshe-08-2020-0315,Emerald,International Journal of Sustainability in Higher Education,hybrid,FALSE,2023
 10.1108/ijssp-09-2023-0210,Emerald,International Journal of Sociology and Social Policy,closed,TRUE,2023
 10.1108/imefm-10-2023-0404,Emerald,International Journal of Islamic and Middle Eastern Finance and Management,closed,TRUE,2024
-10.1108/intr-01-2023-0056,Emerald,Internet Research,green,FALSE,2024
+10.1108/intr-01-2023-0056,Emerald,Internet Research,closed,FALSE,2024
 10.1108/itp-07-2020-0460,Emerald,Information Technology and People,green,TRUE,2021
-10.1108/itp-08-2020-0603,Emerald,Information Technology and People,closed,TRUE,2021
+10.1108/itp-08-2020-0603,Emerald,Information Technology and People,green,TRUE,2021
 10.1108/itp-10-2020-0706,Emerald,Information Technology and People,green,TRUE,2021
 10.1108/jbsed-06-2023-0050,Emerald,Journal of Business and Socio-economic Development,gold,FALSE,2023
+10.1108/jbsed-12-2024-0129,Emerald,Journal of Business and Socio-economic Development,gold,FALSE,2025
 10.1108/jcm-03-2021-4526,Emerald,Journal of Consumer Marketing,closed,FALSE,2021
 10.1108/jec-03-2022-0045,Emerald,Journal of Enterprising Communities People and Places in the Global Economy,closed,TRUE,2023
 10.1108/jeim-04-2021-424,Emerald,Journal of Enterprise Information Management,closed,TRUE,2021
@@ -1775,24 +1880,25 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1108/jeim-11-2024-0610,Emerald,Journal of Enterprise Information Management,closed,FALSE,2025
 10.1108/jfbm-04-2022-0052,Emerald,Journal of Family Business Management,closed,FALSE,2022
 10.1108/jfep-10-2024-0306,Emerald,Journal of Financial Economic Policy,closed,FALSE,2025
+10.1108/jfra-01-2025-0066,Emerald,Journal of Financial Reporting and Accounting,closed,FALSE,2025
 10.1108/jfra-04-2022-0117,Emerald,Journal of Financial Reporting and Accounting,green,FALSE,2022
 10.1108/jic-03-2024-0074,Emerald,Journal of Intellectual Capital,green,FALSE,2024
-10.1108/jica-09-2020-0056,Emerald,Journal of Integrated Care,green,FALSE,2021
+10.1108/jica-09-2020-0056,Emerald,Journal of Integrated Care,hybrid,FALSE,2021
 10.1108/jkm-02-2022-0140,Emerald,Journal of Knowledge Management,closed,TRUE,2022
 10.1108/jm2-05-2022-0121,Emerald,Journal of Modelling in Management,closed,FALSE,2023
 10.1108/jm2-10-2021-0256,Emerald,Journal of Modelling in Management,closed,TRUE,2022
 10.1108/jmp-01-2024-0008,Emerald,Journal of Managerial Psychology,closed,TRUE,2025
 10.1108/joepp-05-2024-0218,Emerald,Journal of Organizational Effectiveness People and Performance,closed,FALSE,2025
 10.1108/jpbafm-03-2021-0037,Emerald,Journal of Public Budgeting Accounting & Financial Management,closed,FALSE,2021
-10.1108/jpbm-07-2023-4610,Emerald,Journal of Product & Brand Management,closed,FALSE,2024
-10.1108/jpbm-12-2023-4853,Emerald,Journal of Product & Brand Management,closed,FALSE,2024
+10.1108/jpbm-07-2023-4610,Emerald,Journal of Product & Brand Management,green,FALSE,2024
+10.1108/jpbm-12-2023-4853,Emerald,Journal of Product & Brand Management,green,FALSE,2024
 10.1108/mbr-10-2022-0168,Emerald,Multinational Business Review,closed,TRUE,2023
 10.1108/mhsi-02-2025-0051,Emerald,Mental Health and Social Inclusion,closed,FALSE,2025
 10.1108/mip-08-2023-0412,Emerald,Marketing Intelligence & Planning,closed,FALSE,2024
 10.1108/pr-01-2024-0090,Emerald,Personnel Review,closed,FALSE,2024
 10.1108/sasbe-04-2024-0147,Emerald,Smart and Sustainable Built Environment,closed,FALSE,2024
 10.1108/scm-01-2023-0045,Emerald,Supply Chain Management An International Journal,green,TRUE,2023
-10.1108/scm-02-2024-0121,Emerald,Supply Chain Management An International Journal,closed,FALSE,2024
+10.1108/scm-02-2024-0121,Emerald,Supply Chain Management An International Journal,hybrid,FALSE,2024
 10.1108/scm-05-2019-0184,Emerald,Supply Chain Management An International Journal,closed,TRUE,2021
 10.1108/scm-06-2023-0320,Emerald,Supply Chain Management An International Journal,bronze,FALSE,2024
 10.1108/scm-08-2021-0369,Emerald,Supply Chain Management An International Journal,green,FALSE,2023
@@ -1828,8 +1934,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1109/access.2024.3524178,IEEE,IEEE Access,gold,TRUE,2024
 10.1109/access.2025.3538591,IEEE,IEEE Access,gold,TRUE,2025
 10.1109/iotm.0001.2000062,IEEE,IEEE Internet of Things Magazine,closed,TRUE,2021
-10.1109/jbhi.2020.3007488,IEEE,IEEE Journal of Biomedical and Health Informatics,green,FALSE,2021
-10.1109/jiot.2021.3051247,IEEE,IEEE Internet of Things Journal,green,FALSE,2021
+10.1109/jbhi.2020.3007488,IEEE,IEEE Journal of Biomedical and Health Informatics,closed,FALSE,2021
+10.1109/jiot.2021.3051247,IEEE,IEEE Internet of Things Journal,closed,FALSE,2021
 10.1109/jphot.2023.3291807,IEEE,IEEE Photonics Journal,gold,FALSE,2023
 10.1109/jphot.2023.3322159,IEEE,IEEE Photonics Journal,gold,FALSE,2023
 10.1109/jsen.2023.3276817,IEEE,IEEE Sensors Journal,closed,FALSE,2023
@@ -1840,40 +1946,42 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1109/mcomstd.001.2000019,IEEE,IEEE Communications Standards Magazine,green,FALSE,2021
 10.1109/mts.2025.3537157,IEEE,IEEE Technology and Society Magazine,closed,TRUE,2025
 10.1109/ojcoms.2024.3419570,IEEE,IEEE Open Journal of the Communications Society,gold,TRUE,2024
-10.1109/ojcs.2024.3520315,IEEE,IEEE Open Journal of the Computer Society,gold,FALSE,2025
+10.1109/ojcs.2024.3520315,IEEE,IEEE Open Journal of the Computer Society,gold,TRUE,2025
 10.1109/tac.2021.3064991,IEEE,IEEE Transactions on Automatic Control,green,TRUE,2021
 10.1109/tac.2022.3208170,IEEE,IEEE Transactions on Automatic Control,closed,TRUE,2022
 10.1109/tap.2021.3069501,IEEE,IEEE Transactions on Antennas and Propagation,green,FALSE,2021
 10.1109/tap.2021.3118784,IEEE,IEEE Transactions on Antennas and Propagation,hybrid,FALSE,2021
 10.1109/tem.2022.3201440,IEEE,IEEE Transactions on Engineering Management,closed,TRUE,2022
 10.1109/tem.2022.3204165,IEEE,IEEE Transactions on Engineering Management,bronze,FALSE,2022
-10.1109/tem.2023.3260042,IEEE,IEEE Transactions on Engineering Management,green,FALSE,2023
-10.1109/tem.2025.3562907,IEEE,IEEE Transactions on Engineering Management,closed,FALSE,2025
+10.1109/tem.2023.3260042,IEEE,IEEE Transactions on Engineering Management,closed,FALSE,2023
+10.1109/tem.2025.3562907,IEEE,IEEE Transactions on Engineering Management,closed,TRUE,2025
 10.1109/tfuzz.2023.3269741,IEEE,IEEE Transactions on Fuzzy Systems,closed,FALSE,2023
 10.1109/tgcn.2021.3100399,IEEE,IEEE Transactions on Green Communications and Networking,closed,TRUE,2021
 10.1109/tia.2022.3176257,IEEE,IEEE Transactions on Industry Applications,closed,FALSE,2022
 10.1109/tii.2022.3192044,IEEE,IEEE Transactions on Industrial Informatics,closed,TRUE,2022
 10.1109/tpwrd.2023.3307024,IEEE,IEEE Transactions on Power Delivery,closed,FALSE,2023
 10.1109/tvt.2024.3448494,IEEE,IEEE Transactions on Vehicular Technology,closed,FALSE,2024
+10.1111/1460-6984.70084,Wiley,International Journal of Language & Communication Disorders,hybrid,FALSE,2025
 10.1111/1467-8551.12513,Wiley,British Journal of Management,hybrid,TRUE,2021
-10.1111/1467-8551.12648,Wiley,British Journal of Management,green,TRUE,2022
+10.1111/1467-8551.12648,Wiley,British Journal of Management,hybrid,TRUE,2022
 10.1111/1467-8551.12743,Wiley,British Journal of Management,green,FALSE,2023
 10.1111/1467-9566.13444,Wiley,Sociology of Health & Illness,closed,TRUE,2022
 10.1111/1467-9566.13760,Wiley,Sociology of Health & Illness,hybrid,FALSE,2024
 10.1111/1740-9713.01707,Oxford University Press,Significance,bronze,FALSE,2022
-10.1111/1748-8583.12441,Wiley,Human Resource Management Journal,green,FALSE,2022
+10.1111/1748-8583.12441,Wiley,Human Resource Management Journal,closed,FALSE,2022
 10.1111/acel.13717,Wiley,Aging Cell,gold,TRUE,2022
+10.1111/acel.70070,Wiley,Aging Cell,gold,FALSE,2025
 10.1111/all.15959,Wiley,Allergy,hybrid,FALSE,2023
 10.1111/apps.12408,Wiley,Applied Psychology,closed,FALSE,2022
 10.1111/appy.12473,Wiley,Asia-Pacific Psychiatry,closed,FALSE,2021
-10.1111/appy.12482,Wiley,Asia-Pacific Psychiatry,green,TRUE,2021
+10.1111/appy.12482,Wiley,Asia-Pacific Psychiatry,hybrid,TRUE,2021
 10.1111/apt.17646,Wiley,Alimentary Pharmacology & Therapeutics,hybrid,FALSE,2023
 10.1111/arcm.12667,Wiley,Archaeometry,hybrid,TRUE,2021
 10.1111/arcm.12842,Wiley,Archaeometry,hybrid,FALSE,2022
 10.1111/bjdp.12350,Wiley,British Journal of Developmental Psychology,hybrid,TRUE,2021
 10.1111/bjep.12520,Wiley,British Journal of Educational Psychology,green,TRUE,2022
 10.1111/bjop.12700,Wiley,British Journal of Psychology,hybrid,FALSE,2024
-10.1111/bjso.12628,Wiley,British Journal of Social Psychology,green,TRUE,2023
+10.1111/bjso.12628,Wiley,British Journal of Social Psychology,closed,TRUE,2023
 10.1111/cbdd.14639,Wiley,Chemical Biology & Drug Design,hybrid,TRUE,2024
 10.1111/cch.70061,Wiley,Child Care Health and Development,closed,FALSE,2025
 10.1111/cgf.14788,Wiley,Computer Graphics Forum,hybrid,FALSE,2023
@@ -1884,12 +1992,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1111/dme.15222,Wiley,Diabetic Medicine,hybrid,TRUE,2023
 10.1111/ecin.13181,Wiley,Economic Inquiry,hybrid,FALSE,2023
 10.1111/epi.17981,Wiley,Epilepsia,closed,TRUE,2024
-10.1111/eufm.12490,Wiley,European Financial Management,green,FALSE,2024
+10.1111/eufm.12490,Wiley,European Financial Management,hybrid,FALSE,2024
 10.1111/exd.14393,Wiley,Experimental Dermatology,hybrid,TRUE,2021
 10.1111/exd.14819,Wiley,Experimental Dermatology,closed,FALSE,2023
 10.1111/exd.14955,Wiley,Experimental Dermatology,hybrid,FALSE,2023
 10.1111/exd.15100,Wiley,Experimental Dermatology,hybrid,TRUE,2024
-10.1111/exd.15182,Wiley,Experimental Dermatology,hybrid,TRUE,2024
+10.1111/exd.15182,Wiley,Experimental Dermatology,closed,TRUE,2024
 10.1111/exd.70071,Wiley,Experimental Dermatology,hybrid,TRUE,2025
 10.1111/exsy.12745,Wiley,Expert Systems,bronze,TRUE,2021
 10.1111/gwao.12695,Wiley,Gender Work and Organization,green,FALSE,2021
@@ -1910,26 +2018,28 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1111/hex.70161,Wiley,Health Expectations,gold,TRUE,2025
 10.1111/hex.70238,Wiley,Health Expectations,gold,FALSE,2025
 10.1111/hex.70244,Wiley,Health Expectations,gold,TRUE,2025
-10.1111/hsc.13383,Hindawi,Health & Social Care in the Community,gold,TRUE,2021
+10.1111/hsc.13383,Hindawi,Health & Social Care in the Community,hybrid,TRUE,2021
 10.1111/hsc.13450,Hindawi,Health & Social Care in the Community,gold,FALSE,2021
-10.1111/hsc.13575,Hindawi,Health & Social Care in the Community,gold,TRUE,2021
-10.1111/hsc.13579,Hindawi,Health & Social Care in the Community,gold,TRUE,2021
-10.1111/hsc.13737,Hindawi,Health & Social Care in the Community,gold,TRUE,2022
+10.1111/hsc.13575,Hindawi,Health & Social Care in the Community,closed,TRUE,2021
+10.1111/hsc.13579,Hindawi,Health & Social Care in the Community,closed,TRUE,2021
+10.1111/hsc.13737,Hindawi,Health & Social Care in the Community,hybrid,TRUE,2022
 10.1111/hsc.13863,Hindawi,Health & Social Care in the Community,gold,FALSE,2022
 10.1111/ijau.12224,Wiley,International Journal of Auditing,closed,FALSE,2021
-10.1111/ijcs.13015,Wiley,International Journal of Consumer Studies,hybrid,TRUE,2024
-10.1111/ijmr.12387,Wiley,International Journal of Management Reviews,hybrid,FALSE,2024
-10.1111/ijun.12307,Wiley,International Journal of Urological Nursing,green,TRUE,2021
-10.1111/inm.12936,Wiley,International Journal of Mental Health Nursing,green,TRUE,2021
+10.1111/ijcs.13015,Wiley,International Journal of Consumer Studies,bronze,TRUE,2024
+10.1111/ijmr.12387,Wiley,International Journal of Management Reviews,green,FALSE,2024
+10.1111/ijun.12307,Wiley,International Journal of Urological Nursing,closed,TRUE,2021
+10.1111/inm.12936,Wiley,International Journal of Mental Health Nursing,closed,TRUE,2021
 10.1111/inm.13480,Wiley,International Journal of Mental Health Nursing,hybrid,FALSE,2025
 10.1111/jan.15628,Wiley,Journal of Advanced Nursing,hybrid,TRUE,2023
 10.1111/jan.16195,Wiley,Journal of Advanced Nursing,hybrid,FALSE,2024
 10.1111/jcmm.17486,Wiley,Journal of Cellular and Molecular Medicine,gold,FALSE,2022
 10.1111/jcmm.17639,Wiley,Journal of Cellular and Molecular Medicine,gold,TRUE,2022
-10.1111/jcpt.13735,Hindawi,Journal of Clinical Pharmacy and Therapeutics,gold,FALSE,2022
+10.1111/jcpt.13735,Hindawi,Journal of Clinical Pharmacy and Therapeutics,hybrid,FALSE,2022
 10.1111/jdv.19840,Wiley,Journal of the European Academy of Dermatology and Venereology,closed,FALSE,2024
 10.1111/jep.13678,Wiley,Journal of Evaluation in Clinical Practice,hybrid,FALSE,2022
-10.1111/jep.14001,Wiley,Journal of Evaluation in Clinical Practice,green,FALSE,2024
+10.1111/jep.14001,Wiley,Journal of Evaluation in Clinical Practice,hybrid,FALSE,2024
+10.1111/jep.70080,Wiley,Journal of Evaluation in Clinical Practice,hybrid,FALSE,2025
+10.1111/jep.70189,Wiley,Journal of Evaluation in Clinical Practice,hybrid,FALSE,2025
 10.1111/jfir.12317,Wiley,The Journal of Financial Research,closed,FALSE,2023
 10.1111/jfr3.12812,Wiley,Journal of Flood Risk Management,gold,FALSE,2022
 10.1111/jfr3.12915,Wiley,Journal of Flood Risk Management,gold,TRUE,2023
@@ -1937,19 +2047,20 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1111/jiec.13564,Wiley,Journal of Industrial Ecology,hybrid,FALSE,2024
 10.1111/jlca.12573,Wiley,The Journal of Latin American and Caribbean Anthropology,closed,TRUE,2021
 10.1111/jnu.12866,Wiley,Journal of Nursing Scholarship,hybrid,TRUE,2022
-10.1111/jocn.15798,Wiley,Journal of Clinical Nursing,green,FALSE,2021
+10.1111/jocn.15798,Wiley,Journal of Clinical Nursing,closed,FALSE,2021
 10.1111/jocn.16405,Wiley,Journal of Clinical Nursing,green,FALSE,2022
 10.1111/jocn.17006,Wiley,Journal of Clinical Nursing,hybrid,TRUE,2024
 10.1111/jpm.13028,Wiley,Journal of Psychiatric and Mental Health Nursing,hybrid,FALSE,2024
 10.1111/jpm.13113,Wiley,Journal of Psychiatric and Mental Health Nursing,hybrid,TRUE,2024
 10.1111/jtsb.12342,Wiley,Journal for the Theory of Social Behaviour,hybrid,TRUE,2022
 10.1111/maq.12699,Wiley,Medical Anthropology Quarterly,closed,FALSE,2022
+10.1111/mcn.70044,Wiley,Maternal and Child Nutrition,gold,TRUE,2025
 10.1111/ntwe.12193,Wiley,New Technology Work and Employment,closed,TRUE,2021
 10.1111/ntwe.12242,Wiley,New Technology Work and Employment,closed,TRUE,2022
-10.1111/opn.12394,Wiley,International Journal of Older People Nursing,green,FALSE,2021
+10.1111/opn.12394,Wiley,International Journal of Older People Nursing,closed,FALSE,2021
 10.1111/opn.12594,Wiley,International Journal of Older People Nursing,hybrid,FALSE,2023
-10.1111/opo.12867,Wiley,Ophthalmic & Physiological Optics,green,TRUE,2021
-10.1111/opo.12899,Wiley,Ophthalmic & Physiological Optics,green,FALSE,2021
+10.1111/opo.12867,Wiley,Ophthalmic & Physiological Optics,closed,TRUE,2021
+10.1111/opo.12899,Wiley,Ophthalmic & Physiological Optics,closed,FALSE,2021
 10.1111/opo.12916,Wiley,Ophthalmic & Physiological Optics,green,TRUE,2021
 10.1111/opo.12947,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2022
 10.1111/opo.12949,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2022
@@ -1957,13 +2068,14 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1111/opo.12957,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2022
 10.1111/opo.12961,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2022
 10.1111/opo.13069,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2022
-10.1111/opo.13143,Wiley,Ophthalmic & Physiological Optics,green,FALSE,2023
+10.1111/opo.13143,Wiley,Ophthalmic & Physiological Optics,closed,FALSE,2023
 10.1111/opo.13172,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2023
 10.1111/opo.13234,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2023
 10.1111/opo.13381,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2024
 10.1111/opo.13396,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2024
 10.1111/opo.13455,Wiley,Ophthalmic & Physiological Optics,hybrid,FALSE,2025
 10.1111/opo.13495,Wiley,Ophthalmic & Physiological Optics,hybrid,TRUE,2025
+10.1111/opo.13553,Wiley,Ophthalmic & Physiological Optics,closed,TRUE,2025
 10.1111/pcmr.13076,Wiley,Pigment Cell & Melanoma Research,green,FALSE,2022
 10.1111/pech.12601,Wiley,Peace &amp Change,bronze,TRUE,2023
 10.1111/puar.13447,Wiley,Public Administration Review,hybrid,FALSE,2021
@@ -1975,14 +2087,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1111/tct.13686,Wiley,The Clinical Teacher,hybrid,FALSE,2023
 10.1111/tct.13718,Wiley,The Clinical Teacher,hybrid,FALSE,2023
 10.1111/twec.13542,Wiley,World Economy,closed,TRUE,2023
-10.11124/jbies-23-00263,Wolters Kluwer,JBI Evidence Synthesis,bronze,TRUE,2023
-10.11124/jbies-23-00264,Wolters Kluwer,JBI Evidence Synthesis,bronze,TRUE,2023
+10.11124/jbies-23-00263,Wolters Kluwer,JBI Evidence Synthesis,closed,TRUE,2023
+10.11124/jbies-23-00264,Wolters Kluwer,JBI Evidence Synthesis,closed,TRUE,2023
 10.1113/ep091493,Wiley,Quarterly Journal of Experimental Physiology and Cognate Medical Sciences,gold,FALSE,2023
 10.1113/ep091832,Wiley,Quarterly Journal of Experimental Physiology and Cognate Medical Sciences,gold,FALSE,2024
+10.1113/jp287056,Wiley,The Journal of Physiology,hybrid,FALSE,2025
 10.11141/ia.65.7,Council for British Archaeology,Internet Archaeology,gold,FALSE,2024
 10.11141/ia.70.5,Council for British Archaeology,Internet Archaeology,gold,FALSE,2025
 10.1115/1.4055111,ASME International,Journal of Pressure Vessel Technology,closed,FALSE,2022
 10.1123/apaq.2023-0076,Human Kinetics,Adapted Physical Activity Quarterly,hybrid,FALSE,2024
+10.1123/jpah.2024-0486,Human Kinetics,Journal of Physical Activity and Health,closed,FALSE,2025
 10.1124/dmd.121.000642,Elsevier,Drug Metabolism and Disposition,bronze,TRUE,2021
 10.1126/sciadv.abc4165,American Association for the Advancement of Science (AAAS),Science Advances,gold,TRUE,2021
 10.1126/sciadv.abg5791,American Association for the Advancement of Science (AAAS),Science Advances,gold,FALSE,2021
@@ -1992,11 +2106,13 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1126/science.abn6132,American Association for the Advancement of Science (AAAS),Science,closed,FALSE,2022
 10.1126/science.abq0755,American Association for the Advancement of Science (AAAS),Science,green,FALSE,2022
 10.1126/science.abq0762,American Association for the Advancement of Science (AAAS),Science,green,FALSE,2022
+10.1126/science.adr2147,American Association for the Advancement of Science (AAAS),Science,hybrid,FALSE,2025
 10.1128/jcm.00646-21,American Society for Microbiology,Journal of Clinical Microbiology,hybrid,FALSE,2021
 10.1128/mra.00448-22,American Society for Microbiology,Microbiology Resource Announcements,gold,FALSE,2022
 10.1128/mra.00646-22,American Society for Microbiology,Microbiology Resource Announcements,gold,FALSE,2022
 10.1128/mra.01225-23,American Society for Microbiology,Microbiology Resource Announcements,gold,FALSE,2024
 10.1134/s0965544124030150,Pleiades Publishing,Petroleum Chemistry,closed,TRUE,2024
+10.1134/s1061934825700339,Pleiades Publishing,Journal of Analytical Chemistry,closed,TRUE,2025
 10.1134/s1875372824700343,Pleiades Publishing,Geography and Natural Resources,closed,TRUE,2024
 10.1136/bjsports-2023-107823,BMJ,British Journal of Sports Medicine,green,FALSE,2024
 10.1136/bmj-2021-066991,BMJ,The BMJ,hybrid,FALSE,2021
@@ -2037,13 +2153,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1136/bmjopen-2024-084632,BMJ,BMJ Open,gold,TRUE,2024
 10.1136/bmjopen-2024-085233,BMJ,BMJ Open,gold,FALSE,2024
 10.1136/bmjopen-2024-088845,BMJ,BMJ Open,gold,FALSE,2024
+10.1136/bmjopen-2024-090146,BMJ,BMJ Open,gold,FALSE,2025
 10.1136/bmjopen-2024-094197,BMJ,BMJ Open,gold,FALSE,2025
 10.1136/bmjophth-2021-000762,BMJ,BMJ Open Ophthalmology,gold,FALSE,2021
 10.1136/bmjophth-2023-001527,BMJ,BMJ Open Ophthalmology,gold,TRUE,2024
 10.1136/bmjophth-2024-002059,BMJ,BMJ Open Ophthalmology,gold,TRUE,2025
+10.1136/bmjophth-2024-002117,BMJ,BMJ Open Ophthalmology,gold,TRUE,2025
+10.1136/bmjophth-2025-002212,BMJ,BMJ Open Ophthalmology,gold,TRUE,2025
 10.1136/bmjoq-2021-001417,BMJ,BMJ Open Quality,gold,FALSE,2022
 10.1136/bmjqs-2023-016481,BMJ,BMJ Quality & Safety,closed,TRUE,2023
-10.1136/bmjqs-2024-017502,BMJ,BMJ Quality & Safety,hybrid,TRUE,2024
+10.1136/bmjqs-2024-017502,BMJ,BMJ Quality & Safety,closed,TRUE,2024
 10.1136/ebnurs-2022-103595,BMJ,Evidence-Based Nursing,closed,TRUE,2022
 10.1136/ebnurs-2023-103784,BMJ,Evidence-Based Nursing,closed,TRUE,2023
 10.1136/ebnurs-2023-103889,BMJ,Evidence-Based Nursing,closed,TRUE,2023
@@ -2057,11 +2176,15 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1136/ebnurs-2024-104233,BMJ,Evidence-Based Nursing,closed,TRUE,2025
 10.1136/ebnurs-2024-104255,BMJ,Evidence-Based Nursing,closed,TRUE,2025
 10.1136/ebnurs-2025-104297,BMJ,Evidence-Based Nursing,closed,TRUE,2025
+10.1136/ebnurs-2025-104301,BMJ,Evidence-Based Nursing,closed,TRUE,2025
+10.1136/ebnurs-2025-104309,BMJ,Evidence-Based Nursing,closed,TRUE,2025
+10.1136/ebnurs-2025-104345,BMJ,Evidence-Based Nursing,closed,TRUE,2025
 10.1136/emermed-2021-211229,BMJ,Emergency Medicine Journal,hybrid,FALSE,2021
 10.1136/emermed-2021-999.6,BMJ,Emergency Medicine Journal,closed,FALSE,2021
 10.1136/jclinpath-2021-207961,BMJ,Journal of Clinical Pathology,hybrid,FALSE,2022
 10.1136/jcp-2022-208614,BMJ,Journal of Clinical Pathology,hybrid,FALSE,2023
 10.1136/jech-2024-222654,BMJ,Journal of Epidemiology & Community Health,closed,FALSE,2025
+10.1136/leader-2025-001253,BMJ,BMJ Leader,closed,FALSE,2025
 10.1136/oemed-2023-109391,BMJ,Occupational and Environmental Medicine,green,FALSE,2024
 10.1140/epjp/s13360-024-05184-1,SpringerNature,The European Physical Journal Plus,hybrid,TRUE,2024
 10.1142/s0129065724020027,World Scientific,International Journal of Neural Systems,closed,FALSE,2024
@@ -2082,12 +2205,10 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1155/2021/1296849,Hindawi,Mobile Information Systems,gold,FALSE,2021
 10.1155/2021/3110416,Wiley,Computational Intelligence and Neuroscience,gold,FALSE,2021
 10.1155/2021/6362660,Hindawi,Mathematical Problems in Engineering,gold,FALSE,2021
-10.1155/2021/7145168,Wiley,Complexity,gold,FALSE,2021
-10.1155/2022/4658082,Hindawi,Wireless Communications and Mobile Computing,gold,FALSE,2022
+10.1155/2022/4658082,Hindawi,Wireless Communications and Mobile Computing,hybrid,FALSE,2022
 10.1155/2023/1577251,Hindawi,Health & Social Care in the Community,gold,TRUE,2023
 10.1155/2023/4574072,Hindawi,Health & Social Care in the Community,gold,FALSE,2023
 10.1155/2024/8732644,Hindawi,Health & Social Care in the Community,hybrid,FALSE,2024
-10.1155/jom/9134821,Wiley,Journal of Mathematics,gold,FALSE,2025
 10.1158/1538-7445.am2021-1331,American Association for Cancer Research (AACR),Cancer Research,closed,FALSE,2021
 10.1158/1538-7445.am2021-2872,American Association for Cancer Research (AACR),Cancer Research,closed,FALSE,2021
 10.1158/1538-7445.am2022-1049,American Association for Cancer Research (AACR),Cancer Research,closed,FALSE,2022
@@ -2123,6 +2244,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1167/jov.22.9.1,Association for Research in Vision and Ophthalmology (ARVO),Journal of Vision,gold,TRUE,2022
 10.1167/jov.24.10.649,Association for Research in Vision and Ophthalmology (ARVO),Journal of Vision,gold,FALSE,2024
 10.1167/jov.24.2.12,Association for Research in Vision and Ophthalmology (ARVO),Journal of Vision,gold,TRUE,2024
+10.1167/jov.25.9.1852,Association for Research in Vision and Ophthalmology (ARVO),Journal of Vision,gold,FALSE,2025
 10.1167/tvst.10.1.18,Association for Research in Vision and Ophthalmology (ARVO),Translational Vision Science & Technology,gold,FALSE,2021
 10.1167/tvst.10.12.1,Association for Research in Vision and Ophthalmology (ARVO),Translational Vision Science & Technology,gold,TRUE,2021
 10.1167/tvst.10.6.31,Association for Research in Vision and Ophthalmology (ARVO),Translational Vision Science & Technology,gold,TRUE,2021
@@ -2170,7 +2292,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1177/10541373231202473,SAGE,Illness Crisis & Loss,hybrid,TRUE,2023
 10.1177/10541373231202842,SAGE,Illness Crisis & Loss,hybrid,FALSE,2023
 10.1177/10541373241282086,SAGE,Illness Crisis & Loss,hybrid,FALSE,2024
-10.1177/10946705221110849,SAGE,Journal of Service Research,hybrid,TRUE,2022
+10.1177/10946705221110849,SAGE,Journal of Service Research,green,TRUE,2022
 10.1177/11786302231190988,SAGE,Environmental Health Insights,gold,FALSE,2023
 10.1177/1354067x211044990,SAGE,Culture & Psychology,hybrid,TRUE,2021
 10.1177/13563890241285032,SAGE,Evaluation,hybrid,TRUE,2024
@@ -2180,6 +2302,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1177/13674935241231112,SAGE,Journal of Child Health Care,bronze,FALSE,2024
 10.1177/13694332251325110,SAGE,Advances in Structural Engineering,closed,FALSE,2025
 10.1177/14604582241270742,SAGE,Health Informatics Journal,gold,TRUE,2024
+10.1177/14657503251347454,SAGE,The International Journal of Entrepreneurship and Innovation,closed,FALSE,2025
 10.1177/14680173231180307,SAGE,Journal of Social Work,hybrid,TRUE,2023
 10.1177/14680874211064383,SAGE,International Journal of Engine Research,hybrid,TRUE,2021
 10.1177/14690667211054152,SAGE,European Journal of Mass Spectrometry,hybrid,TRUE,2021
@@ -2195,16 +2318,16 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1177/14713012231188502,SAGE,Dementia,hybrid,FALSE,2023
 10.1177/14713012241248556,SAGE,Dementia,hybrid,FALSE,2024
 10.1177/14713012241262384,SAGE,Dementia,hybrid,FALSE,2024
-10.1177/14713012241272817,SAGE,Dementia,green,FALSE,2024
+10.1177/14713012241272817,SAGE,Dementia,hybrid,FALSE,2024
 10.1177/14713012241272906,SAGE,Dementia,hybrid,FALSE,2024
 10.1177/14713012241274994,SAGE,Dementia,hybrid,TRUE,2024
-10.1177/14713012241283189,SAGE,Dementia,closed,FALSE,2024
+10.1177/14713012241283189,SAGE,Dementia,green,FALSE,2024
 10.1177/14713012241306506,SAGE,Dementia,closed,FALSE,2024
-10.1177/14713012241312266,SAGE,Dementia,closed,FALSE,2025
+10.1177/14713012241312266,SAGE,Dementia,hybrid,FALSE,2025
 10.1177/14767503231191854,SAGE,Action Research,hybrid,TRUE,2023
 10.1177/1524838021998311,SAGE,Trauma Violence & Abuse,closed,FALSE,2021
 10.1177/15271544241289605,SAGE,Policy Politics & Nursing Practice,hybrid,TRUE,2024
-10.1177/15533506221089824,SAGE,Surgical Innovation,green,FALSE,2022
+10.1177/15533506221089824,SAGE,Surgical Innovation,closed,FALSE,2022
 10.1177/15586898231196287,SAGE,Journal of Mixed Methods Research,green,TRUE,2023
 10.1177/16094069231184122,SAGE,International Journal of Qualitative Methods,gold,FALSE,2023
 10.1177/16094069231184824,SAGE,International Journal of Qualitative Methods,gold,TRUE,2023
@@ -2229,7 +2352,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1177/23409444241289146,SAGE,BRQ Business Research Quarterly,gold,FALSE,2024
 10.1177/23477989241260161,SAGE,Contemporary Review of the Middle East,closed,FALSE,2024
 10.1177/27725383251322387,SAGE,Advances in Communication and Swallowing,closed,FALSE,2025
-10.1182/blood-2023-178541,American Society of Hematology,Blood,bronze,FALSE,2023
+10.1182/blood-2023-178541,American Society of Hematology,Blood,closed,FALSE,2023
 10.1183/23120541.00555-2020,European Respiratory Society,ERJ Open Research,gold,TRUE,2021
 10.1186/s12014-023-09440-x,SpringerNature,Clinical Proteomics,gold,FALSE,2023
 10.1186/s12014-024-09504-6,SpringerNature,Clinical Proteomics,gold,FALSE,2024
@@ -2246,6 +2369,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1186/s12877-023-04549-y,SpringerNature,BMC Geriatrics,gold,FALSE,2023
 10.1186/s12877-024-04707-w,SpringerNature,BMC Geriatrics,gold,FALSE,2024
 10.1186/s12877-024-05435-x,SpringerNature,BMC Geriatrics,gold,FALSE,2024
+10.1186/s12877-025-06001-9,SpringerNature,BMC Geriatrics,gold,TRUE,2025
 10.1186/s12884-021-03879-2,SpringerNature,BMC Pregnancy and Childbirth,gold,FALSE,2021
 10.1186/s12884-023-05568-8,SpringerNature,BMC Pregnancy and Childbirth,gold,TRUE,2023
 10.1186/s12886-023-03116-8,SpringerNature,BMC Ophthalmology,gold,FALSE,2023
@@ -2308,9 +2432,10 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1186/s13731-025-00500-0,SpringerNature,Journal of Innovation and Entrepreneurship,gold,FALSE,2025
 10.1186/s40168-020-00964-0,SpringerNature,Microbiome,gold,FALSE,2021
 10.1186/s40494-022-00836-w,SpringerNature,Heritage Science,gold,FALSE,2022
-10.1186/s40494-023-01094-0,SpringerNature,npj Heritage Science,gold,TRUE,2023
+10.1186/s40494-023-01094-0,SpringerNature,Heritage Science,gold,TRUE,2023
 10.1186/s40545-021-00364-1,Taylor & Francis,Journal of Pharmaceutical Policy and Practice,gold,FALSE,2021
 10.1186/s40662-024-00394-1,SpringerNature,Eye and Vision,gold,TRUE,2024
+10.1186/s40662-025-00440-6,SpringerNature,Eye and Vision,gold,TRUE,2025
 10.1186/s40814-021-00819-x,SpringerNature,Pilot and Feasibility Studies,gold,TRUE,2021
 10.1186/s40900-022-00402-5,SpringerNature,Research Involvement and Engagement,gold,FALSE,2022
 10.1186/s40900-023-00427-4,SpringerNature,Research Involvement and Engagement,gold,TRUE,2023
@@ -2318,12 +2443,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1186/s41182-021-00375-3,SpringerNature,Tropical Medicine and Health,gold,FALSE,2021
 10.1186/s42522-021-00049-4,SpringerNature,One Health Outlook,gold,FALSE,2021
 10.1186/s44247-023-00028-x,SpringerNature,BMC Digital Health,gold,FALSE,2023
-10.1192/bjb.2022.65,Royal College of Psychiatrists,BJPsych Bulletin,gold,FALSE,2022
-10.1192/bjb.2023.98,Royal College of Psychiatrists,BJPsych Bulletin,gold,TRUE,2024
-10.1192/bjo.2021.10,Royal College of Psychiatrists,BJPsych Open,gold,TRUE,2021
-10.1192/bjo.2024.159,Royal College of Psychiatrists,BJPsych Open,gold,TRUE,2024
-10.1192/bjp.2023.28,Royal College of Psychiatrists,The British Journal of Psychiatry,hybrid,FALSE,2023
-10.1192/bjp.2024.31,Royal College of Psychiatrists,The British Journal of Psychiatry,closed,FALSE,2024
+10.1192/bjb.2022.65,Cambridge University Press,BJPsych Bulletin,gold,FALSE,2022
+10.1192/bjb.2023.98,Cambridge University Press,BJPsych Bulletin,gold,TRUE,2024
+10.1192/bjo.2021.10,Cambridge University Press,BJPsych Open,gold,TRUE,2021
+10.1192/bjo.2024.159,Cambridge University Press,BJPsych Open,gold,TRUE,2024
+10.1192/bjp.2023.28,Cambridge University Press,The British Journal of Psychiatry,hybrid,FALSE,2023
+10.1192/bjp.2024.31,Cambridge University Press,The British Journal of Psychiatry,closed,FALSE,2024
 10.1200/jco.2022.40.6_suppl.tps7,American Society of Clinical Oncology (ASCO),Journal of Clinical Oncology,closed,FALSE,2022
 10.1200/jco.2024.42.4_suppl.523,American Society of Clinical Oncology (ASCO),Journal of Clinical Oncology,closed,FALSE,2024
 10.1208/s12249-024-02955-y,SpringerNature,AAPS PharmSciTech,closed,FALSE,2024
@@ -2332,12 +2457,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1242/dev.198150,The Company of Biologists,Development,bronze,FALSE,2021
 10.1242/jeb.245109,The Company of Biologists,Journal of Experimental Biology,bronze,FALSE,2023
 10.1242/jeb.247158,The Company of Biologists,Journal of Experimental Biology,closed,FALSE,2024
-10.1249/tjx.0000000000000191,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,bronze,FALSE,2022
-10.1249/tjx.0000000000000244,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,bronze,FALSE,2024
-10.1249/tjx.0000000000000245,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,bronze,FALSE,2024
-10.1249/tjx.0000000000000256,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,bronze,FALSE,2024
+10.1249/tjx.0000000000000191,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,closed,FALSE,2022
+10.1249/tjx.0000000000000244,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,closed,FALSE,2024
+10.1249/tjx.0000000000000245,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,closed,FALSE,2024
+10.1249/tjx.0000000000000256,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,closed,FALSE,2024
 10.1249/tjx.0000000000000263,Wolters Kluwer,Translational Journal of the American College of Sports Medicine,closed,FALSE,2024
-10.1259/bjr.20201191,Oxford University Press,British Journal of Radiology,green,FALSE,2021
+10.1259/bjr.20201191,Oxford University Press,British Journal of Radiology,bronze,FALSE,2021
 10.1259/bjr.20210047,Oxford University Press,British Journal of Radiology,hybrid,TRUE,2021
 10.1259/bjro.20210003,Oxford University Press,BJR|Open,gold,FALSE,2021
 10.12688/f1000research.146301.2,F1000Research,F1000Research,gold,FALSE,2024
@@ -2350,17 +2475,19 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.12688/wellcomeopenres.18096.3,F1000Research,Wellcome Open Research,gold,FALSE,2023
 10.12688/wellcomeopenres.21121.2,F1000Research,Wellcome Open Research,gold,TRUE,2024
 10.12688/wellcomeopenres.22547.2,F1000Research,Wellcome Open Research,gold,TRUE,2024
+10.12688/wellcomeopenres.23338.2,F1000Research,Wellcome Open Research,gold,TRUE,2025
+10.12688/wellcomeopenres.23338.3,F1000Research,Wellcome Open Research,gold,TRUE,2025
 10.12968/bjhc.2020.0145,Mark Allen Group,British Journal of Healthcare Management,closed,FALSE,2021
 10.12968/bjhc.2021.0024,Mark Allen Group,British Journal of Healthcare Management,closed,FALSE,2021
 10.12968/bjhc.2021.0098,Mark Allen Group,British Journal of Healthcare Management,closed,TRUE,2022
 10.12968/bjom.2021.29.11.648,Mark Allen Group,British Journal of Midwifery,green,FALSE,2021
-10.12968/bjom.2021.29.12.699,Mark Allen Group,British Journal of Midwifery,green,FALSE,2021
+10.12968/bjom.2021.29.12.699,Mark Allen Group,British Journal of Midwifery,closed,FALSE,2021
 10.12968/bjom.2022.30.4.222,Mark Allen Group,British Journal of Midwifery,closed,FALSE,2022
 10.12968/bjom.2022.30.6.333,Mark Allen Group,British Journal of Midwifery,green,FALSE,2022
 10.12968/bjom.2022.30.9.502,Mark Allen Group,British Journal of Midwifery,closed,FALSE,2022
-10.12968/bjon.2021.30.sup6a.s7,Mark Allen Group,British Journal of Nursing,green,TRUE,2021
-10.12968/bjon.2021.30.sup8.7,Mark Allen Group,British Journal of Nursing,green,TRUE,2021
-10.12968/bjon.2022.31.17.908,Mark Allen Group,British Journal of Nursing,green,FALSE,2022
+10.12968/bjon.2021.30.sup6a.s7,Mark Allen Group,British Journal of Nursing,closed,TRUE,2021
+10.12968/bjon.2021.30.sup8.7,Mark Allen Group,British Journal of Nursing,closed,TRUE,2021
+10.12968/bjon.2022.31.17.908,Mark Allen Group,British Journal of Nursing,closed,FALSE,2022
 10.12968/bjon.2022.31.20.1066,Mark Allen Group,British Journal of Nursing,green,FALSE,2022
 10.12968/bjon.2023.0174,Mark Allen Group,British Journal of Nursing,closed,TRUE,2024
 10.12968/bjon.2023.32.9.404,Mark Allen Group,British Journal of Nursing,green,FALSE,2023
@@ -2383,17 +2510,18 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.12968/jpar.2023.15.1.36,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2023
 10.12968/jpar.2023.15.5.214,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2023
 10.12968/jpar.2024.0041,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2024
+10.12968/jpar.2024.0080,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2025
 10.12968/jpar.2024.0084,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2024
+10.12968/jpar.2024.0086,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2025
 10.12968/jpar.2024.16.2.60,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2024
 10.12968/jpar.2024.16.5.190,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2024
 10.12968/jpar.2025.0020,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2025
+10.12968/jpar.2025.0046,Mark Allen Group,Journal of Paramedic Practice,closed,TRUE,2025
 10.12968/nrec.2021.23.10.3,Mark Allen Group,Nursing and Residential Care,closed,FALSE,2021
 10.12968/nrec.2024.0011,Mark Allen Group,Nursing and Residential Care,closed,TRUE,2024
 10.12968/opti.2022.266.6862.17,Mark Allen Group,The Optician,closed,FALSE,2022
 10.12968/opti.2022.266.6869.19,Mark Allen Group,The Optician,closed,FALSE,2022
 10.12968/opti.2022.266.6874.18,Mark Allen Group,The Optician,closed,FALSE,2022
-10.12968/opti.2023.267.6884.18,Mark Allen Group,The Optician,closed,FALSE,2023
-10.12968/opti.2024.269.6951.26,Mark Allen Group,The Optician,closed,FALSE,2024
 10.12968/opti.2024.270.6983.22,Mark Allen Group,The Optician,closed,FALSE,2024
 10.13169/reorient.9.1.0170,Pluto Journals,ReOrient,gold,TRUE,2024
 10.1332/204080520x16014085811284,Bristol University Press,Voluntary Sector Review,closed,FALSE,2021
@@ -2448,16 +2576,23 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1371/journal.pone.0312100,Public Library of Science,PLOS ONE,gold,FALSE,2024
 10.1371/journal.pone.0313688,Public Library of Science,PLOS ONE,gold,TRUE,2025
 10.1371/journal.pone.0314736,Public Library of Science,PLOS ONE,gold,TRUE,2024
+10.1371/journal.pone.0322009,Public Library of Science,PLOS ONE,gold,TRUE,2025
+10.1371/journal.pone.0323955,Public Library of Science,PLOS ONE,gold,TRUE,2025
+10.1371/journal.pone.0324373,Public Library of Science,PLOS ONE,gold,TRUE,2025
+10.1371/journal.pone.0325368,Public Library of Science,PLOS ONE,gold,TRUE,2025
+10.1371/journal.pone.0325446,Public Library of Science,PLOS ONE,gold,TRUE,2025
 10.1386/ts_00020_1,Intellect,The Soundtrack,closed,TRUE,2022
 10.14302/issn.2641-4538.jphi-23-4729,Open Access Pub,Journal of Public Health International,gold,FALSE,2023
 10.14710/ijred.2022.39295,Center of Biomass and Renewable Energy Scientia Academy,International Journal of Renewable Energy Development,gold,FALSE,2021
 10.14710/ijred.2022.44586,Center of Biomass and Renewable Energy Scientia Academy,International Journal of Renewable Energy Development,gold,FALSE,2022
+10.14738/bjhr.1203.18828,Scholar Publishing,Journal of Biomedical Engineering and Medical Imaging,closed,FALSE,2025
 10.14814/phy2.15441,Wiley,Physiological Reports,gold,FALSE,2022
 10.1484/j.rph.5.138084,Brepols Publishers NV,Romance Philology,closed,FALSE,2022
 10.1504/ijaac.2023.127284,Inderscience Publishers,International Journal of Automation and Control,closed,FALSE,2022
 10.1504/ijise.2024.142687,Inderscience Publishers,International Journal of Industrial and Systems Engineering,closed,FALSE,2024
-10.1504/ijmdm.2021.116018,Inderscience Publishers,International Journal of Management and Decision Making,green,FALSE,2021
-10.1504/ijmdm.2022.119582,Inderscience Publishers,International Journal of Management and Decision Making,green,FALSE,2021
+10.1504/ijmdm.2021.116018,Inderscience Publishers,International Journal of Management and Decision Making,closed,FALSE,2021
+10.1504/ijmdm.2022.119582,Inderscience Publishers,International Journal of Management and Decision Making,closed,FALSE,2021
+10.1504/ijpmb.2025.146717,Inderscience Publishers,International Journal of Process Management and Benchmarking,closed,FALSE,2025
 10.1504/ijstl.2024.137894,Inderscience Publishers,International Journal of Shipping and Transport Logistics,closed,FALSE,2024
 10.1515/cclm-2024-1030,de Gruyter,Clinical Chemistry and Laboratory Medicine,closed,FALSE,2024
 10.1515/cppm-2020-0097,de Gruyter,Chemical Product and Process Modeling,closed,FALSE,2021
@@ -2473,25 +2608,29 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.1515/ntrev-2024-0107,de Gruyter,Nanotechnology Reviews,gold,FALSE,2024
 10.1515/revce-2024-0034,de Gruyter,Reviews in Chemical Engineering,closed,TRUE,2025
 10.1515/sirius-2022-1003,de Gruyter,SIRIUS - Zeitschrift für Strategische Analysen,hybrid,TRUE,2022
-10.1515/teb-2024-0030,de Gruyter,Translational Exercise Biomedicine,green,FALSE,2024
-10.15184/aqy.2021.83,Antiquity Publications,Antiquity,closed,FALSE,2021
-10.15184/aqy.2023.2,Antiquity Publications,Antiquity,hybrid,FALSE,2023
+10.1515/teb-2024-0030,de Gruyter,Translational Exercise Biomedicine,gold,FALSE,2024
+10.15184/aqy.2021.83,Cambridge University Press,Antiquity,closed,FALSE,2021
+10.15184/aqy.2023.2,Cambridge University Press,Antiquity,hybrid,FALSE,2023
 10.1520/jte20230450,ASTM International,Journal of Testing and Evaluation,closed,FALSE,2024
+10.1556/034.67.2025.1-3.10,Akademiai Kiado Zrt.,Acta Botanica Hungarica,hybrid,FALSE,2025
 10.1557/s43580-021-00204-z,SpringerNature,MRS Advances,closed,FALSE,2022
 10.1558/cam.26767,University of Toronto Press,Communication & Medicine,closed,FALSE,2024
 10.1558/jsa.19636,Equinox Publishing,Journal of Skyscape Archaeology,bronze,FALSE,2021
+10.1561/110.00000031-1,Now Publishers,Annals of Science and Technology Policy,gold,FALSE,2025
+10.1561/110.00000031-3,Now Publishers,Annals of Science and Technology Policy,gold,FALSE,2025
 10.1561/116.20240056,Now Publishers,APSIPA Transactions on Signal and Information Processing,gold,FALSE,2024
 10.1590/0101-7438.2023.043.00278382,FapUNIFESP (SciELO),Pesquisa Operacional,gold,TRUE,2024
+10.1590/1414-431x2025e14459,FapUNIFESP (SciELO),Brazilian Journal of Medical and Biological Research,gold,FALSE,2025
 10.1590/1519-6984.252526,FapUNIFESP (SciELO),Brazilian Journal of Biology,gold,FALSE,2024
 10.1590/s1413-415220240038,FapUNIFESP (SciELO),Engenharia Sanitaria e Ambiental,gold,FALSE,2025
-10.1680/jmacr.23.00011,ICE publishing,Magazine of Concrete Research,closed,FALSE,2023
+10.1680/jmacr.23.00011,Emerald,Magazine of Concrete Research,green,FALSE,2023
 10.1680/jstbu.22.00151,Emerald,Proceedings of the Institution of Civil Engineers - Structures and Buildings,closed,FALSE,2023
 10.17694/bajece.1302056,Balkan Journal of Electrical & Computer Engineering (BAJECE),Balkan Journal of Electrical and Computer Engineering,gold,FALSE,2024
 10.18196/jgp.v14i1.16620,Universitas Muhammadiyah Yogyakarta,Jurnal Studi Pemerintahan,gold,FALSE,2023
 10.18203/2320-6012.ijrms20232496,Medip Academy,International Journal of Research in Medical Sciences,gold,FALSE,2023
 10.18203/2394-6040.ijcmph20223196,Medip Academy,International Journal of Community Medicine and Public Health,gold,FALSE,2022
 10.20473/jfiki.v10i22023.151-161,Universitas Airlangga,JURNAL FARMASI DAN ILMU KEFARMASIAN INDONESIA,gold,FALSE,2023
-10.20935/mhealthwellb7361,Academia.edu Journals,Academia Mental Health and Well-Being,hybrid,FALSE,2024
+10.20935/mhealthwellb7361,Academia.edu Journals,Academia Mental Health and Well-Being,gold,FALSE,2024
 10.20935/mhealthwellb7375,Academia.edu Journals,Academia Mental Health and Well-Being,hybrid,FALSE,2024
 10.20935/mhealthwellb7523,Academia.edu Journals,Academia Mental Health and Well-Being,closed,FALSE,2025
 10.2147/cia.s293921,Taylor & Francis,Clinical Interventions in Aging,gold,FALSE,2021
@@ -2529,6 +2668,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.2196/55433,JMIR Publications,JMIR mHealth and uHealth,gold,FALSE,2025
 10.2196/56346,JMIR Publications,JMIR Research Protocols,gold,FALSE,2024
 10.2196/62726,JMIR Publications,JMIR Research Protocols,gold,TRUE,2025
+10.2196/69963,JMIR Publications,JMIR Research Protocols,gold,TRUE,2025
 10.2217/rme-2020-0045,Taylor & Francis,Regenerative Medicine,hybrid,TRUE,2021
 10.22599/bioj.290,White Rose University Press,British and Irish Orthoptic Journal,gold,FALSE,2023
 10.22599/bioj.391,White Rose University Press,British and Irish Orthoptic Journal,gold,FALSE,2024
@@ -2540,7 +2680,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.2478/jvetres-2021-0032,de Gruyter,Journal of Veterinary Research,gold,FALSE,2021
 10.2478/mspe-2024-0042,de Gruyter,Management Systems in Production Engineering,gold,FALSE,2024
 10.24911/ejmcr.173-1685458484,Discover STM Publishing,European Journal of Medical Case Reports,hybrid,TRUE,2024
-10.24911/ejmcr/173-1685458484,Discover STM Publishing,European Journal of Medical Case Reports,closed,TRUE,2024
+10.24911/ejmcr/173-1685458484,Discover STM Publishing,European Journal of Medical Case Reports,hybrid,TRUE,2024
 10.2514/1.j060196,American Institute of Aeronautics and Astronautics,AIAA Journal,bronze,FALSE,2021
 10.25273/she.v2i2.9506,Universitas PGRI Madiun,Social Sciences Humanities and Education Journal (SHE Journal),gold,FALSE,2021
 10.26508/lsa.202000966,Life Science Alliance,Life Science Alliance,gold,TRUE,2021
@@ -2549,10 +2689,11 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.26858/jo.v7i1.22252,Universitas Negeri Makassar,Jurnal Office,gold,FALSE,2021
 10.29045/14784726.2023.6.8.1.34,Class Publishing,British Paramedic Journal,green,FALSE,2023
 10.29045/14784726.2023.6.8.1.9,Class Publishing,British Paramedic Journal,green,FALSE,2023
+10.29045/14784726.2025.6.10.1.19,Class Publishing,British Paramedic Journal,hybrid,FALSE,2025
 10.3233/acs-210031,SAGE,Advances in Communication and Swallowing,bronze,FALSE,2021
-10.3233/jad-215095,SAGE,Journal of Alzheimer's Disease,hybrid,FALSE,2022
-10.3233/jad-215117,SAGE,Journal of Alzheimer's Disease,green,FALSE,2022
-10.3233/jad-220221,SAGE,Journal of Alzheimer's Disease,green,FALSE,2022
+10.3233/jad-215095,SAGE,Journal of Alzheimer’s Disease,hybrid,FALSE,2022
+10.3233/jad-215117,SAGE,Journal of Alzheimer’s Disease,green,FALSE,2022
+10.3233/jad-220221,SAGE,Journal of Alzheimer’s Disease,bronze,FALSE,2022
 10.3233/jcm-215806,SAGE,Journal of Computational Methods in Sciences and Engineering,closed,FALSE,2022
 10.3233/jcm-226874,SAGE,Journal of Computational Methods in Sciences and Engineering,closed,FALSE,2023
 10.3233/jcm-226876,SAGE,Journal of Computational Methods in Sciences and Engineering,closed,FALSE,2023
@@ -2564,18 +2705,22 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.33063/diva-519033,Uppsala University,kritisk etnografi Swedish Journal of Anthropology,bronze,FALSE,2023
 10.33093/jiwe.2024.3.3.14,Multimedia University,Journal of Informatics and Web Engineering,gold,FALSE,2024
 10.3310/cwib0236,National Institute for Health and Care Research,Health Technology Assessment,gold,FALSE,2022
+10.3310/dglp7193,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2025
 10.3310/ewpe7103,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2025
 10.3310/fiqe5189,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2022
 10.3310/grnm5147,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2024
 10.3310/jwqc5771,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2024
 10.3310/khha0861,National Institute for Health and Care Research,Health Technology Assessment,gold,FALSE,2022
+10.3310/mnwd5821,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2025
 10.3310/nihropenres.13886.1,National Institute for Health and Care Research,NIHR Open Research,gold,FALSE,2025
 10.3310/pgfar09020,National Institute for Health and Care Research,Programme Grants for Applied Research,gold,FALSE,2021
 10.3310/pgfar09150,National Institute for Health and Care Research,Programme Grants for Applied Research,gold,FALSE,2021
 10.3310/rgtj7429,National Institute for Health and Care Research,Programme Grants for Applied Research,gold,FALSE,2023
 10.3310/tatm3277,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2024
 10.3310/wbkw4927,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2022
+10.3310/wqfv7425,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2025
 10.3310/yaet7368,National Institute for Health and Care Research,Programme Grants for Applied Research,gold,FALSE,2024
+10.3310/yyer0014,National Institute for Health and Care Research,Health and Social Care Delivery Research,gold,FALSE,2025
 10.3329/jbs.v29i2.54964,Bangladesh Academy of Sciences,Journal of Bio-Science,gold,FALSE,2021
 10.3332/ecancer.2021.1197,Ecancer Global Foundation,Ecancermedicalscience,gold,FALSE,2021
 10.3366/gels.2022.0073,Edinburgh University Press,Global Energy Law and Sustainability,closed,FALSE,2022
@@ -2594,6 +2739,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3389/fdgth.2024.1371761,Frontiers,Frontiers in Digital Health,gold,TRUE,2024
 10.3389/fdgth.2024.1422396,Frontiers,Frontiers in Digital Health,gold,TRUE,2024
 10.3389/fenvs.2022.1075282,Frontiers,Frontiers in Environmental Science,gold,TRUE,2022
+10.3389/fenvs.2025.1657658,Frontiers,Frontiers in Environmental Science,gold,TRUE,2025
 10.3389/fgene.2021.698148,Frontiers,Frontiers in Genetics,gold,TRUE,2021
 10.3389/fgene.2021.740216,Frontiers,Frontiers in Genetics,gold,TRUE,2021
 10.3389/fgene.2022.948505,Frontiers,Frontiers in Genetics,gold,FALSE,2022
@@ -2613,6 +2759,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3389/fphys.2022.900631,Frontiers,Frontiers in Physiology,gold,TRUE,2022
 10.3389/fphys.2023.1224550,Frontiers,Frontiers in Physiology,gold,FALSE,2023
 10.3389/fphys.2024.1492405,Frontiers,Frontiers in Physiology,gold,FALSE,2024
+10.3389/fphys.2025.1556431,Frontiers,Frontiers in Physiology,gold,TRUE,2025
 10.3389/fpls.2023.1173328,Frontiers,Frontiers in Plant Science,gold,FALSE,2023
 10.3389/fpos.2022.805426,Frontiers,Frontiers in Political Science,gold,FALSE,2022
 10.3389/fpos.2023.1265008,Frontiers,Frontiers in Political Science,gold,FALSE,2023
@@ -2633,6 +2780,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3389/fpubh.2023.1239668,Frontiers,Frontiers in Public Health,gold,FALSE,2023
 10.3389/fpubh.2023.1269189,Frontiers,Frontiers in Public Health,gold,TRUE,2023
 10.3389/frdem.2024.1458023,Frontiers,Frontiers in Dementia,gold,FALSE,2024
+10.3389/frdem.2025.1565277,Frontiers,Frontiers in Dementia,gold,FALSE,2025
 10.3389/fresc.2022.952722,Frontiers,Frontiers in Rehabilitation Sciences,gold,FALSE,2022
 10.3389/fresc.2023.1052244,Frontiers,Frontiers in Rehabilitation Sciences,gold,FALSE,2023
 10.3389/fresc.2023.1191633,Frontiers,Frontiers in Rehabilitation Sciences,gold,TRUE,2023
@@ -2640,6 +2788,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3389/fresc.2025.1551777,Frontiers,Frontiers in Rehabilitation Sciences,gold,TRUE,2025
 10.3389/fspor.2021.777105,Frontiers,Frontiers in Sports and Active Living,gold,FALSE,2021
 10.3389/fspor.2024.1457845,Frontiers,Frontiers in Sports and Active Living,gold,FALSE,2024
+10.3389/fspor.2025.1548546,Frontiers,Frontiers in Sports and Active Living,gold,TRUE,2025
 10.3390/antiox13010072,MDPI,Antioxidants,gold,TRUE,2024
 10.3390/antiox14040374,MDPI,Antioxidants,gold,FALSE,2025
 10.3390/app12020821,MDPI,Applied Sciences,gold,FALSE,2022
@@ -2656,7 +2805,9 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/app14062655,MDPI,Applied Sciences,gold,FALSE,2024
 10.3390/app142411877,MDPI,Applied Sciences,gold,TRUE,2024
 10.3390/app15041931,MDPI,Applied Sciences,gold,TRUE,2025
+10.3390/app15158191,MDPI,Applied Sciences,gold,FALSE,2025
 10.3390/asi4040082,MDPI,Applied System Innovation,gold,TRUE,2021
+10.3390/atmos16060681,MDPI,Atmosphere,gold,TRUE,2025
 10.3390/biochem4030012,MDPI,BioChem,gold,TRUE,2024
 10.3390/bioengineering12020133,MDPI,Bioengineering,gold,TRUE,2025
 10.3390/bioengineering8080108,MDPI,Bioengineering,gold,TRUE,2021
@@ -2685,6 +2836,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/cells12060967,MDPI,Cells,gold,FALSE,2023
 10.3390/cells12202470,MDPI,Cells,gold,FALSE,2023
 10.3390/cells13040342,MDPI,Cells,gold,TRUE,2024
+10.3390/cells14120929,MDPI,Cells,gold,TRUE,2025
 10.3390/children11121490,MDPI,Children,gold,FALSE,2024
 10.3390/coatings13101767,MDPI,Coatings,gold,FALSE,2023
 10.3390/computers12110238,MDPI,Computers,gold,TRUE,2023
@@ -2697,6 +2849,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/diabetology3040043,MDPI,Diabetology,gold,FALSE,2022
 10.3390/diabetology4020014,MDPI,Diabetology,gold,FALSE,2023
 10.3390/diabetology5020014,MDPI,Diabetology,gold,TRUE,2024
+10.3390/dj13070301,MDPI,Dentistry Journal,gold,FALSE,2025
 10.3390/e24010025,MDPI,Entropy,gold,TRUE,2021
 10.3390/e24030369,MDPI,Entropy,gold,TRUE,2022
 10.3390/electricity5010006,MDPI,Electricity,gold,FALSE,2024
@@ -2734,6 +2887,8 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/electronics13081515,MDPI,Electronics,gold,TRUE,2024
 10.3390/electronics13132474,MDPI,Electronics,gold,TRUE,2024
 10.3390/electronics14081535,MDPI,Electronics,gold,TRUE,2025
+10.3390/electronics14091816,MDPI,Electronics,gold,TRUE,2025
+10.3390/electronics14132629,MDPI,Electronics,gold,TRUE,2025
 10.3390/en14072011,MDPI,Energies,gold,FALSE,2021
 10.3390/en14144239,MDPI,Energies,gold,TRUE,2021
 10.3390/en14144361,MDPI,Energies,gold,TRUE,2021
@@ -2783,11 +2938,13 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/ijerph20043418,MDPI,International Journal of Environmental Research and Public Health,gold,FALSE,2023
 10.3390/ijerph21020231,MDPI,International Journal of Environmental Research and Public Health,gold,TRUE,2024
 10.3390/ijerph21070898,MDPI,International Journal of Environmental Research and Public Health,gold,FALSE,2024
+10.3390/ijgi14060210,MDPI,ISPRS International Journal of Geo-Information,gold,FALSE,2025
 10.3390/ijms22116011,MDPI,International Journal of Molecular Sciences,gold,TRUE,2021
 10.3390/ijms24043364,MDPI,International Journal of Molecular Sciences,gold,TRUE,2023
 10.3390/ijms24065594,MDPI,International Journal of Molecular Sciences,gold,FALSE,2023
 10.3390/ijms25010115,MDPI,International Journal of Molecular Sciences,gold,TRUE,2023
 10.3390/ijms25147946,MDPI,International Journal of Molecular Sciences,gold,TRUE,2024
+10.3390/infrastructures10060146,MDPI,Infrastructures,gold,TRUE,2025
 10.3390/inventions6030049,MDPI,Inventions,gold,TRUE,2021
 10.3390/iot2020015,MDPI,IoT,gold,TRUE,2021
 10.3390/jcm10112243,MDPI,Journal of Clinical Medicine,gold,TRUE,2021
@@ -2827,6 +2984,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/math9101133,MDPI,Mathematics,gold,FALSE,2021
 10.3390/math9131457,MDPI,Mathematics,gold,FALSE,2021
 10.3390/math9202593,MDPI,Mathematics,gold,TRUE,2021
+10.3390/md23060234,MDPI,Marine Drugs,gold,FALSE,2025
 10.3390/membranes11080595,MDPI,Membranes,gold,FALSE,2021
 10.3390/membranes11100785,MDPI,Membranes,gold,TRUE,2021
 10.3390/membranes12010011,MDPI,Membranes,gold,FALSE,2021
@@ -2842,6 +3000,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/molecules28020743,MDPI,Molecules,gold,FALSE,2023
 10.3390/molecules30081823,MDPI,Molecules,gold,TRUE,2025
 10.3390/mps8010004,MDPI,Methods and Protocols,gold,FALSE,2025
+10.3390/mps8040073,MDPI,Methods and Protocols,gold,TRUE,2025
 10.3390/nano11030735,MDPI,Nanomaterials,gold,FALSE,2021
 10.3390/nano12213919,MDPI,Nanomaterials,gold,FALSE,2022
 10.3390/nu14081557,MDPI,Nutrients,gold,FALSE,2022
@@ -2912,10 +3071,12 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.3390/su162411308,MDPI,Sustainability,gold,FALSE,2024
 10.3390/su17010023,MDPI,Sustainability,gold,FALSE,2024
 10.3390/su17010041,MDPI,Sustainability,gold,FALSE,2024
+10.3390/su17135759,MDPI,Sustainability,gold,TRUE,2025
 10.3390/systems10020024,MDPI,Systems,gold,FALSE,2022
 10.3390/systems13010007,MDPI,Systems,gold,FALSE,2024
-10.3390/targets2040024,Elsevier,Targets,gold,TRUE,2024
-10.3390/targets3010010,Elsevier,Targets,gold,TRUE,2025
+10.3390/targets2040024,MDPI,Targets,gold,TRUE,2024
+10.3390/targets3010010,MDPI,Targets,gold,TRUE,2025
+10.3390/targets3020019,MDPI,Targets,hybrid,TRUE,2025
 10.3390/technologies11050142,MDPI,Technologies,gold,TRUE,2023
 10.3390/toxics12060419,MDPI,Toxics,gold,TRUE,2024
 10.3390/vehicles7010023,MDPI,Vehicles,gold,FALSE,2025
@@ -2938,8 +3099,10 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.34172/ehem.2024.27,Maad Rayan Publishing Company,Environmental Health Engineering and Management,gold,FALSE,2024
 10.36222/ejt.1299311,INESEG Yayincilik,European Journal of Technic,gold,FALSE,2023
 10.36755/ijll.v2i1.24,"Department of Research and Publications, Riphah International University, Faisalabad Campus",Inception - Journal of Languages and Literature,hybrid,FALSE,2022
-10.36866/pn.130.27,The Physiological Society,Physiology News,bronze,FALSE,2023
+10.36866/pn.130.27,The Physiological Society,Physiology News,closed,FALSE,2023
+10.36951/001c.140633,College of Nurses Aotearoa - NZ - Inc,Nursing Praxis in Aotearoa New Zealand,hybrid,FALSE,2025
 10.37394/232018.2021.9.1,World Scientific and Engineering Academy and Society (WSEAS),WSEAS TRANSACTIONS ON COMPUTER RESEARCH,gold,FALSE,2021
+10.37868/hsd.v7i1.1097,Research and Development Academy,Heritage and Sustainable Development ISSN 2712-0554,gold,FALSE,2025
 10.3791/62091,MyJove,Journal of Visualized Experiments,closed,FALSE,2021
 10.3791/64570,MyJove,Journal of Visualized Experiments,closed,FALSE,2023
 10.3828/quaker.2023.28.2.8,Open Library of the Humanities,Quaker Studies,gold,FALSE,2023
@@ -2951,8 +3114,9 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.4028/p-kiaw2w,Trans Tech Publications,International Journal of Engineering Research in Africa,closed,FALSE,2024
 10.4028/p-rx8jia,Trans Tech Publications,Defect and Diffusion Forum,closed,FALSE,2025
 10.4028/p-xyuy9y,Trans Tech Publications,Defect and Diffusion Forum,closed,FALSE,2025
-10.4103/jispcd.jispcd_74_22,Wolters Kluwer,Journal of International Society of Preventive and Community Dentistry,green,TRUE,2022
-10.4103/jispcd.jispcd_75_22,Wolters Kluwer,Journal of International Society of Preventive and Community Dentistry,green,TRUE,2022
+10.4102/sajbm.v56i1.4926,AOSIS,South African Journal of Business Management,gold,FALSE,2025
+10.4103/jispcd.jispcd_74_22,Wolters Kluwer,Journal of International Society of Preventive and Community Dentistry,hybrid,TRUE,2022
+10.4103/jispcd.jispcd_75_22,Wolters Kluwer,Journal of International Society of Preventive and Community Dentistry,hybrid,TRUE,2022
 10.4155/tde-2023-0011,Taylor & Francis,Therapeutic Delivery,closed,FALSE,2023
 10.4204/eptcs.389.9,Open Publishing Association,Electronic Proceedings in Theoretical Computer Science,gold,FALSE,2023
 10.4236/ajcc.2023.124026,Scientific Research Publishing,American Journal of Climate Change,gold,FALSE,2023
@@ -2964,11 +3128,14 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.4236/ojf.2024.144023,Scientific Research Publishing,Open Journal of Forestry,gold,FALSE,2024
 10.4271/03-14-02-0017,SAE International,SAE International Journal of Engines,closed,FALSE,2021
 10.4271/03-16-04-0026,SAE International,SAE International Journal of Engines,closed,FALSE,2022
-10.4271/06-14-03-0014,SAE International,SAE International Journal of Passenger Cars - Mechanical Systems,closed,FALSE,2021
+10.4271/06-14-03-0014,SAE International,SAE International Journal of Passenger Cars - Mechanical Systems,green,FALSE,2021
 10.46298/jdmdh.8990,Centre pour la Communication Scientifique Directe (CCSD),Journal of Data Mining & Digital Humanities,gold,FALSE,2023
 10.46300/9101.2021.15.22,North Atlantic University Union (NAUN),International Journal of Mathematical Models and Methods in Applied Sciences,gold,FALSE,2021
 10.46300/9102.2021.15.7,North Atlantic University Union (NAUN),International Journal of Mathematics and Computers in Simulation,gold,FALSE,2021
+10.46557/001c.132422,Asia-Pacific Applied Economics Association,Energy RESEARCH LETTERS,gold,FALSE,2025
+10.47482/acmr.1627345,Archives of Current Medical Research,Archives of Current Medical Research,closed,FALSE,2025
 10.52198/24.sti.44.wh1804,Association of Surgical Technologists,Surgical Technology Online,closed,FALSE,2024
+10.52711/2231-5675.2025.00016,A and V Publications,Asian Journal of Pharmaceutical Analysis,closed,FALSE,2025
 10.52866/ijcsm.2022.02.01.002,College of Education - Aliraqia University,Iraqi Journal for Computer Science and Mathematics,gold,FALSE,2022
 10.5296/ije.v15i1.20463,Macrothink Institute,International Journal of Education,hybrid,FALSE,2023
 10.5334/bha-660,Ubiquity Press,Bulletin of the History of Archaeology,gold,FALSE,2021
@@ -2977,6 +3144,7 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.5334/jopd.80,Ubiquity Press,Journal of Open Psychology Data,gold,FALSE,2023
 10.5365/wpsar.2024.15.1.1042,"World Health Organization, Western Pacific Regional Office",Western Pacific Surveillance and Response,gold,FALSE,2024
 10.54062/jb.2.1.8,Institute for Anthropological Research,Journal of bioanthropology,hybrid,FALSE,2022
+10.54254/2753-7048/2025.23025,Eliwise Academy,Lecture Notes in Education Psychology and Public Media,closed,FALSE,2025
 10.54254/2754-1169/79/20241773,Eliwise Academy,Advances in Economics Management and Political Sciences,hybrid,FALSE,2024
 10.55737/qjssh.565460310,Qlantic e Publications,Qlantic Journal of Social Sciences and Humanities,hybrid,FALSE,2023
 10.5588/ijtld.20.0886,International Union Against Tuberculosis and Lung Disease,The International Journal of Tuberculosis and Lung Disease,closed,FALSE,2021
@@ -2987,16 +3155,21 @@ doi,publisher,journal,open_access,uob_is_corresponding,year
 10.5920/bjpharm.1391,University of Huddersfield Press,British Journal of Pharmacy,gold,FALSE,2023
 10.5920/bjpharm.1392,University of Huddersfield Press,British Journal of Pharmacy,gold,FALSE,2023
 10.5944/openpraxis.13.1.1154,International Council for Open and Distance Education,Open Praxis,gold,FALSE,2021
-10.69554/vkyy7615,Henry Stewart Publications,Journal of Education Advancement & Marketing,gold,FALSE,2023
+10.61466/ijcmr3030001,"Pharaoh Academy International Publishing Co., Limited",International Journal of Clinical Medical Research,closed,FALSE,2025
+10.61466/ijcmr3030004,"Pharaoh Academy International Publishing Co., Limited",International Journal of Clinical Medical Research,closed,FALSE,2025
+10.69554/vkyy7615,Henry Stewart Publications,Journal of Education Advancement & Marketing,closed,FALSE,2023
 10.7189/jogh.14.04054,International Society of Global Health,Journal of Global Health,gold,FALSE,2024
 10.7717/peerj-cs.635,PeerJ,PeerJ Computer Science,gold,FALSE,2021
 10.7717/peerj.13377,PeerJ,PeerJ,gold,FALSE,2022
 10.7748/ncyp.2022.e1412,RCN Publishing,Nursing Children and Young People,hybrid,FALSE,2022
 10.7748/ncyp.2024.e1493,RCN Publishing,Nursing Children and Young People,closed,FALSE,2024
+10.7748/ncyp.2025.e1557,RCN Publishing,Nursing Children and Young People,closed,FALSE,2025
 10.7748/nop.2024.e1478,RCN Publishing,Nursing Older People,closed,FALSE,2024
 10.7748/ns.2021.e11750,RCN Publishing,Nursing Standard,closed,FALSE,2021
 10.7748/ns.2023.e12013,RCN Publishing,Nursing Standard,green,FALSE,2023
 10.7748/ns.2023.e12127,RCN Publishing,Nursing Standard,closed,FALSE,2023
+10.7748/ns.2025.e12415,RCN Publishing,Nursing Standard,closed,FALSE,2025
+10.7748/ns.2025.e12479,RCN Publishing,Nursing Standard,closed,FALSE,2025
 10.7759/cureus.20567,SpringerNature,Cureus,gold,FALSE,2021
 10.7759/cureus.69136,SpringerNature,Cureus,gold,FALSE,2024
 10.9734/jerr/2023/v25i5909,Sciencedomain International,Journal of Engineering Research and Reports,gold,FALSE,2023

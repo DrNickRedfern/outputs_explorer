@@ -14,9 +14,15 @@ min_year <- 2021
 max_year <- 2025
 years <- min_year:max_year
 
-# df <- read_csv(here("app", "app", "data", "stacked_data.csv"), show_col_types = FALSE)
-df <- read_csv("https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv", show_col_types = FALSE)
-df <- df |> 
+# df <- read_csv(
+#   here("app", "app", "data", "stacked_data.csv"),
+#   show_col_types = FALSE
+# )
+df <- read_csv(
+  "https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv",
+  show_col_types = FALSE
+)
+df <- df |>
   mutate(year = as.character(year)) |>
   arrange(publisher)
 publishers <- unique(df$publisher)
@@ -219,7 +225,7 @@ server <- function(input, output, session) {
         3
       )
 
-    data.frame(
+    summary_df <- data.frame(
       Variable = c(
         "Year range",
         publisher_name,
@@ -237,6 +243,22 @@ server <- function(input, output, session) {
         as.character(pct_corresponding)
       )
     )
+
+    # This introduces more errors than its worth and impacts speed of use quite badly
+    # if (input$journal != "All" | input$journal != "All") {
+    #   publishing_models <- str_flatten_comma(
+    #     unique(filtered_data()$publishing_model),
+    #     ", "
+    #   )
+    #   pub_df <- data.frame(
+    #     Variable = "Publishing models",
+    #     Value = publishing_models
+    #   )
+    #   summary_df <- summary_df |> bind_rows(pub_df)
+    #   return(summary_df)
+    # } else {
+    #   return(summary_df)
+    # }
   })
 
   output$tbl_summary <- renderDT(
@@ -490,8 +512,8 @@ server <- function(input, output, session) {
 
   tbl_data <- reactive({
     year_trend <- filtered_data() |>
-      select(-doi) |>
-      group_by(publisher, journal_title, year) |>
+      select(-c(doi)) |>
+      group_by(publisher, journal, year) |>
       tally(n = "outputs") |>
       ungroup() |>
       complete(nesting(publisher, journal), year, fill = list(outputs = 0))
@@ -552,7 +574,7 @@ server <- function(input, output, session) {
       extensions = "Buttons",
       options = list(
         columnDefs = list(list(className = "dt-left", targets = 0:1)),
-        dom = "Bfrtip",
+        dom = "Bfrtlip",
         buttons = c("csv", "excel")
       )
     ) |>
