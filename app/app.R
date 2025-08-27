@@ -2,7 +2,6 @@ library(shiny)
 library(bslib)
 library(ggplot2)
 library(dplyr)
-library(readr)
 library(tidyr)
 library(plotly)
 library(janitor)
@@ -13,10 +12,7 @@ min_year <- 2021
 max_year <- 2025
 years <- min_year:max_year
 
-df <- read_csv(
-  "https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv",
-  show_col_types = FALSE
-)
+df <- read.csv("https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv")
 
 df <- df |>
   mutate(year = as.character(year)) |>
