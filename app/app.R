@@ -12,7 +12,10 @@ min_year <- 2021
 max_year <- 2025
 years <- min_year:max_year
 
-df <- read.csv("https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv")
+url = "https://raw.githubusercontent.com/DrNickRedfern/outputs_explorer/refs/heads/main/app/data/stacked_data.csv"
+download.file(url, "publications.csv")
+
+df <- read.csv("publications.csv")
 
 df <- df |>
   mutate(year = as.character(year)) |>
